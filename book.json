@@ -1,0 +1,1 @@
+{ "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"], "pluginsConfig": { "image-captions": { "caption": "Imagen - _CAPTION_" }, "localized-footer": { "hline": true, "filename": "./FOOTER.md" } } }
