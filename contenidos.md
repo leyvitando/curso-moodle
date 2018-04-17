@@ -4,6 +4,7 @@
 En este tema veremos los siguientes apartados:
 
 - Tecnológicamente hablando
-<ul>
-- Moodle y el software libre
+    - Moodle y el software libre    
+- Pedagógicamente hablando
+- Moodle en el aula
 

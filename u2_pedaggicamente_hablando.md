@@ -14,12 +14,11 @@
 [Éste](http://docs.moodle.org/es/Filosof%C3%ADa) es el lugar de *MoodleDocs* donde aparece lo que allí se llama la filosofía de Moodle, que se basa en cuatro principios que resumimos a continuación:
 
 
-<li>
-**Constructivismo**:
+- **Constructivismo**:
 	sostiene que los seres humanos construimos nuevos conocimientos, de
 	manera activa, interaccionando con el entorno.
 	</li>
-<li>**Construccionismo**:
+- **Construccionismo**:
 	explica que el aprendizaje es más efectivo cuando se construye algo
 	que ha de mostrarse a los demás.
 	</li>

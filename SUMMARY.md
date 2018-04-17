@@ -1,8 +1,11 @@
 # Summary
 
 * [Introducción](README.md)
+* [M0 Introducción. Qué hay detrás de Moodle](index0.md)
+* [Introducción](introduccin.md)
 
-____
+
+<!---____
 ### M1. Introducción. Qué hay detrás de Moodle 
 * [M1 Introducción. Qué hay detrás de Moodle](index0.md)
 * [Introducción](introduccin.md)
@@ -27,7 +30,9 @@ ____
 		* [Colocando bloques](colocando_bloques.md)
 		* [Actividades](actividades2.md)
 * [Créditos](crditos1.md)
-### M3. Los recursos de Moodle 
+
+-->
+### M1. Los recursos de Moodle 
 * [M3 Los recursos de Moodle](index2.md)
 * [Introducción](introduccin2.md)
 * [Contenidos](contenidos2.md)

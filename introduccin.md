@@ -19,7 +19,7 @@ La documentación sobre la plataforma Moodle puedes encontrarla publicada en cas
  
 
 
-{% youtube %}https//www.youtube.com/watch?v=I4mmMeMDMic{% endyoutube %}
+{% youtube %}https://youtu.be/vVpPxCPoWMA {% endyoutube %}
 
 ## Objetivos
 
