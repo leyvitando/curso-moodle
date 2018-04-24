@@ -1,99 +1,49 @@
 
-# U2. Los proveedores
+# Los proveedores
 
-Como eres un profesor con permiso de edición, puedes utilizar las herramientas de edición haciendo clic en Activar edición, en el bloque "Administración":
+Como eres un profesor con permiso de edición, puedes utilizar las herramientas de edición haciendo clic en Activar edición, en el menú de configuración 
 
-
-![](img/activar_edicion.png)
-
-**Fig. 3.20 Captura de pantalla. Bloque Administración**
-
- 
+![](/assets/Selección_112.png)
 
 Puedes comprobar que la apariencia de la página cambia y que aparecen diversos iconos que representan distintas herramientas de edición y configuración:
 
-
-![](img/edicion_de_temas.png)
-
-**Fig. 3.21 Captura de pantalla . Parte de un curso con la edición activada**
+![](/assets/Selección_140.png)
+**Fig. Captura de pantalla . Parte de un curso con la edición activada**
 
  
 
 Cada tema o módulo te ofrece varias opciones de configuración:
 
-![](img/boton_mover.png)
+![](img/boton_mover.png) Mover
 
-![](img/boton_configurar.png)
+![](img/boton_configurar.png) Configurar
 
-![](img/boton_marcar_actual.png)
+El menú "Editar" de un tema ofrece las siguientes opciones:
 
-![](img/boton_desmarcar_actual.png)
+![](/assets/Selección_141.png)
 
-![](img/boton_ocultar.png)
-
-![](img/boton_mostrar.png)
-
- 
-
- Puedes verlo de modo más gráfico en el siguiente vídeo:
-
-
-![](portada_del_videotutorial_editar_temas.png)
-
- 
+- Editar tema: Permite añadir una descripción para orientar a los alumnos.
 
 Del mismo modo, en cada actividad y en algunos recursos, puedes encontrar los siguientes iconos:
 
- 
+ - Destacar: Hace ese tema más visible para los estudiantes.
 
+- Ocultar tema: Permite ocultar ese tema a los estudiantes para acompasar su ritmo de aprendizaje o mientras ese tema está en creación. Un tema oculto es invisible para los estudiantes pero se ve en tonos más apagados desde el profesor del curso:
 
-![](img/edicion_de_un_tema.png)
+![](/assets/Selección_142.png)
 
-**Fig. 3.22 Captura de pantalla. Parte de un curso. Botones de edición de un recurso**
+Fig: Tema 1 oculto. 
 
- 
+Además de estos iconos, vemos que aparece, al final del tema, la posibilidad de agregar una actividad o recurso:
 
-![](img/boton_editar_nombre.png)
+![](/assets/Selección_144.png)
 
-![](img/boton_mover_derecha.png)
-
-![](img/boton_mover_izda.png)
-
-![](img/boton_mover.png)
-
-![](img/boton_configurar.png)
-
-![](img/boton_duplicar.png)
-
-![](img/boton_borrar.png)
-
-![](img/boton_ocultar.png)
-
-![](img/boton_mostrar_actividad.png)
-
-![](img/boton_no_hay_grupos.png)
-
-![](img/boton_grupos_separados.png)
-
-![](img/boton_grupos_visibles.png)
-
-![](img/boton_asignar_roles.png)
-
- 
-
-Además de estos iconos, vemos que aparece, bajo ellos el enlace "Añadir una actividad o recurso":
-
-
-![](img/anadir_actividad.png)
-
- 
 
 Pinchando en ella nos da acceso a una ventana con la lista de todos los tipos de actividades y recursos que podemos añadir a nuestro tema. Para cada uno de ellos nos da una explicación de en qué consiste.
 
+![](/assets/Selección_145.png)
 
-![](img/anadir_una_actividad.png)
-
-**Fig. 3.23 Captura de pantalla. Ventana de elección de recurso o actividad**
+**Fig. Captura de pantalla. Ventana de elección de recurso o actividad**
 
  
 

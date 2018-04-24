@@ -24,7 +24,7 @@
   * [Opciones para carpetas](opciones_para_carpetas.md)
   * [El Repositorio de archivos](el_repositorio_de_archivos.md)
   * [Actividades](actividades2.md)
-* [U2. Los proveedores](u2_los_proveedores.md)
+* [Edición de temas. Actividades](u2_los_proveedores.md)
   * [Recursos internos](recursos_internos.md)
   * [Editor HTML](editor_html.md)
   * [Etiquetas](etiquetas.md)
