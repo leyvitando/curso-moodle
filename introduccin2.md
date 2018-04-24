@@ -7,7 +7,7 @@ En ocasiones tenemos el problema de dónde localizar los archivos y recursos que
 
 En este módulo veremos cómo hacerlo, guardando los recursos en el almacén de archivos, cómo podemos componerlos en el curso y haremos una breve introducción una herramienta muy extendida para generar nuestros propios recursos: eXeLearning.
 
-## Objetivos1
+## Objetivos
 
 Para este módulo nos planteamos los siguientes objetivos:
 

@@ -1,8 +1,8 @@
 
 # Contenidos
 
-<li>U1. El sistema de archivos:
-<ul>
+U1. El sistema de archivos:
+
 - Crear una carpeta
 - Subir un archivio
 - Opciones para archivos
@@ -10,33 +10,36 @@
 - El Repositorio de archivos
 - Videotutorial: Sistema de archivos
 
-<li>Recursos internos
-<ul>
-- Editor HTML
-- Etiquetas
-- Libro
-- Videotutorial:  Editor HTML, Etiquetas y Páginas de texto
-- Páginas web
-- Videotutorial: Páginas web
+U2. Agregar recursos : Los provedores
 
-- Enlazar a una URL
-- Enlazar archivo
-- Añadir una carpeta
-- Desplegar paquete de contenido IMS
-- Videotutorial: enlazar URL, archivo, añadir carpeta y desplegar paquete de contenido IMS
+- Recursos internos
 
+    - Editor HTML
+    - Etiquetas
+    - Libro
+    - Videotutorial:  Editor HTML, Etiquetas y Páginas de texto
+    - Páginas web
+    - Videotutorial: Páginas web
+
+- Recursos externos: 
+    - Enlazar a una URL
+    - Enlazar archivo
+    - Añadir una carpeta
+    - Desplegar paquete de contenido IMS
+    - Videotutorial: enlazar URL, archivo, añadir carpeta y desplegar paquete de contenido IMS
+
+U3. Aplicaciones prácticas. Cómo utilizar Moodle
 - Como catálogo de recursos
-<li>Como aula virtual
-<ul>
-<li>eXeLearning
-<ul>
-- Descarga e instalación
-<li>El entorno
-<ul>
-- Barra de menú
-- Barra lateral
-
-- iDevices
-- Presentar contenidos o temas
-- Contenidos externos del web
-- Mostrar elementos multimedia
+- Como aula virtual
+- eXeLearning
+    - Descarga e instalación
+    - El entorno
+    - Barra de menú
+    - Barra lateral
+    - Edición
+    - iDevices
+    - Presentar contenidos o temas
+    - Contenidos externos del web
+    - Mostrar elementos multimedia
+    - Combinación de paquetes
+    - Formatos de exportación
