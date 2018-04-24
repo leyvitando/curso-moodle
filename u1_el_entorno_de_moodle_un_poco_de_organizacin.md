@@ -1,5 +1,5 @@
 
-# U1. El entorno de Moodle. Un poco de organización:
+# El entorno de Moodle. Un poco de organización:
 
 Seguro que has visto muchos cursos de Moodle con aspecto y apariencia de lo más variado, en cuanto a diseño y estética.
 
