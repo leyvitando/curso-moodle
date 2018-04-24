@@ -2,9 +2,13 @@
 # Introducción
 
 
+![](img/logo-1024x254.jpg)
+Imagen obtenida de https://moodle.org/logo/
+
+
 ![](img/terminos4.jpg)
 
-**Fig. 1.1 Fuente INTEF**
+Fig. 1.1 Fuente INTEF
 
 Moddle es una plataforma para teleformación, creación de Martin Dougiamas, que se sostiene en un sistema tecnológico, al que puede considerarse como de web dinámica, y un andamiaje pedagógico, que incluye elementos de contructivismo y construccionismo.
 
@@ -20,11 +24,4 @@ La documentación sobre la plataforma Moodle puedes encontrarla publicada en cas
 
 
 {% youtube %}https://youtu.be/vVpPxCPoWMA {% endyoutube %}
-
-## Objetivos
-
-Los objetivos que pretendemos alcanzar en este módulo son los siguientes:
-
-1. Tener una visión previa de lo que Moodle, a nivel general, ofrece a los docentes
-1. Conocer algunas posibilidades de uso en aula
 

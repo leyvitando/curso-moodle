@@ -1,5 +1,5 @@
 
-# Introducción
+# El entorno de un curso: Las columnas de Moodle
 
 Moodle es una plataforma modular. Esto supone que pueden presentarse en pantalla aquellos elementos que interese tener, ocultando quellos que no.
 
@@ -7,7 +7,7 @@ Además, es posible encontrar módulos que no aparecen en la instalación origin
 
 En este módulo veremos cómo puede personalizarse un curso presentando unos bloques o adaptando el formato del curso a las necesidades del profesor con permiso de edición.
 
-## Objetivos1
+## Objetivos
 
 Los objetivos que pretendemos alcanzar en este módulo son los siguientes:
 
