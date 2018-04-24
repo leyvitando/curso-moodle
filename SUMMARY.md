@@ -17,7 +17,7 @@
 ## M2. Los recursos de Moodle
 
 * [Introducción](introduccin2.md)
-* [U1. El sistema de archivos](u1_el_sistema_de_archivos.md)
+* [El sistema de archivos](u1_el_sistema_de_archivos.md)
   * [Crear una carpeta](crear_una_carpeta.md)
   * [Subir un archivo](subir_un_archivo.md)
   * [Opciones para archivos](opciones_para_archivos.md)
