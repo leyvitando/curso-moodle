@@ -23,7 +23,6 @@
   * [Opciones para archivos](opciones_para_archivos.md)
   * [Opciones para carpetas](opciones_para_carpetas.md)
   * [El Repositorio de archivos](el_repositorio_de_archivos.md)
-  * [Videotutorial](videotutorial.md)
   * [Actividades](actividades2.md)
 * [U2. Los proveedores](u2_los_proveedores.md)
   * [Recursos internos](recursos_internos.md)
