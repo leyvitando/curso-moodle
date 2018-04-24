@@ -3,65 +3,38 @@
 
 **Pero.... ¿dónde están los bloques? **
 
-Cuando accedemos por primera vez al aula virtual de un curso de Moodle, independientemente del perfil que tengamos, se nos mostrará el aspecto y la configuración diseñada por los editores del mismo. En la imagen siguiente se muestra un posible diseño, que puede servirnos de ejemplo.
-
-
-![](img/modo_normal.png)
-
-**Fig. 2.9. Captura de pantalla de un curso en Moodle**
-
-## Pero......
-
-### Pregunta
-
-¿Cómo se accede al selector para crear los bloques?
-
-#### Respuestas
-
-
-<label class="sr-av" for="i47_5">[Opción 1](#answer-47_5)</label><input id="i47_5" name="option47_2" onclick="$exe.getFeedback(0,4,'47_2','multi')" type="radio"/>
-
-
-No se ve porque la ventana está minimizada
-
-
-<label class="sr-av" for="i47_83">[Opción 2](#answer-47_83)</label><input id="i47_83" name="option47_2" onclick="$exe.getFeedback(1,4,'47_2','multi')" type="radio"/>
-
-
-Está oculto hasta que active la edición
-
-
-<label class="sr-av" for="i47_86">[Opción 3](#answer-47_86)</label><input id="i47_86" name="option47_2" onclick="$exe.getFeedback(2,4,'47_2','multi')" type="radio"/>
-
-
-Se ha desconfigurado Moodle y por eso no se puede acceder
-
-
-<label class="sr-av" for="i47_89">[Opción 4](#answer-47_89)</label><input id="i47_89" name="option47_2" onclick="$exe.getFeedback(3,4,'47_2','multi')" type="radio"/>
-
-
-Ninguna de las anteriores es correcta
-
-#### Retroalimentación
-
-Incorrecto
-
-Opción correcta
-
-Incorrecto
-
-Incorrecto
-
-#### Solución
-
-1. [Incorrecto](#answer-47_5) ([Retroalimentación](#sa0b47_2))
-1. [Opción correcta](#answer-47_83) ([Retroalimentación](#sa1b47_2))
-1. [Incorrecto](#answer-47_86) ([Retroalimentación](#sa2b47_2))
-1. [Incorrecto](#answer-47_89) ([Retroalimentación](#sa3b47_2))
-
-Y ahora.... ¿notas alguna diferencia entre la primera imagen y la siguiente?
+Cuando accedemos por primera vez al aula virtual de un curso de Moodle, independientemente del perfil que tengamos, se nos mostrará el aspecto y la configuración diseñada por los editores del mismo. 
 
 ## Activa edición
 
-Activa la edición en tu aula virtual Moodle y descubre dónde aparece la sección para añadir **Bloques.** Analiza qué opciones contiene el menú desplegable.
+Activa la edición en tu aula virtual Moodle en el icono de configuración (esquina superior derecha), ello te permite no sólo añadir bloques, sino, posteriormente, realizar cambios en los contenidos y actividades de tu curso.
+
+![](/assets/Selección_112.png)
+
+Al activar la edicion, aparece la opción "Agregar un bloque":
+
+![](/assets/Selección_113.png)
+
+Esto da acceso a un menú de selección de bloques que permite elegir el tipo de bloque que se inserta.
+
+## Selector de bloques
+
+Debes de tener en cuenta que las opciones que aparecen no tienen porqué necesariamente coincidir con las que se tengan disponibles, ya que eso dependerá de los bloques que haya instalado en la plataforma Moodle el administrador del sistema (que en algunos casos puedes ser también tú mismo).
+
+A continuación se hará referencia a los bloques básicos que aparecen en una instalación Moodle 3.2
+
+![](/assets/Selección_114.png) 
+Fig. Algunos de los bloques que pueden insertarse.
+    
+Como se puede ver la cantidad de bloques disponibles es muy grande, es aconsejable trastear con ellos para ver qué bloques pueden ser de interés en cada curso en función de los objetivos que desean cumplirse.
+
+Un bloque útil es el bloque "Administración" que permite acceder más rápidamente a menús de forma que facilita el trabajo del profesor. Este bloque por defecto solo lo ve el profesor y el Administrador del moodle:
+
+![](/assets/Selección_115.png)
+
+Un bloque más complicado de insertar pero muy útil en la interacción con alumnos es el bloque HTML que permite embeber un codigo HTML (por ejemplo, un hashtag de twitter asociado al curso)
+
+Se hace de la siguiente forma:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpGSUxkTJi4o7y0nMljlQ0ua_C2pGTCjQ28C6KoOtoJhl_E027DbIkLpDv1hAW0-dsdBNYlJyQa9WB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

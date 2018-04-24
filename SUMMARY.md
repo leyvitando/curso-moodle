@@ -11,7 +11,6 @@
   * [El formato](el_formato.md)
   * [El tema](el_tema.md)
   * [Las columnas](las_columnas.md)
-  * [Actividades](actividades.md)
 * [U2. Añadiendo bloques](u2_aadiendo_bloques.md)
   * [Selector de bloques](selector_de_bloques.md)
   * [Tipos de bloques](tipos_de_bloques.md)
