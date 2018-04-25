@@ -133,7 +133,6 @@ Nuestra página  tendría este aspecto en HTML:
 
 **Fig 3.55 Captura de pantalla de la vista de código HTML**
 
- 
 
 Sólo si dominas, al menos mínimamente, el código HTML deberías modificar desde aquí tu página. si no sabes nada de HTML es mejor que no lo toques.
 
