@@ -8,7 +8,7 @@ Para un nivel de utilización básico de Moodle vamos a mostrar, en primer lugar
  
 
 ![](img/development.gif)
-|**Fig. 1.8 Fuente INTEF**
+**Fig. 1.8 Fuente INTEF**
 
 #### Moodle para organizar y exhibir recursos:
 
@@ -29,7 +29,7 @@ Y se puede, por último, subir un recurso con un formato apropiado, que contenga
  
 
 ![](img/community.gif)
-|**Fig. 1.9 Fuente INTEF**
+**Fig. 1.9 Fuente INTEF**
 
 #### Moodle como lugar de relación:
 
@@ -49,8 +49,8 @@ El alumnado puede ser organizado en forma de grupos, de forma que cada grupo ten
 
  
 
-![](img/Tareas.png)
-|**Fig. 1.10 Fuente INTEF**
+![**Fig. 1.10 Fuente INTEF**](img/Tareas.png)
+
 
 #### Moodle para anotar y evaluar:
 
