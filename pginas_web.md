@@ -140,15 +140,12 @@ Volviendo a pulsar el botón HTML ![](/assets/Selección_168.png), volveríamos 
 
 Una vez terminada la página, la guardamos eligiendo entre: **Guardar cambios y mostrar** o **Guardar cambios y regresar al curso**. 
 
-Puedes ver de forma más gráfica la creación de este recurso en el videotutorial que aparece en el siguiente apartado.
+Puedes ver de forma más gráfica la creación de este recurso en el siguiente videotutorial .
 
 {% youtube %} https://www.youtube.com/watch?v=bjC99KRiYHw {% endyoutube %}
 
 
-
 ## Actividad 4
-
- 
 
 Crea una página web que contenga:
 
