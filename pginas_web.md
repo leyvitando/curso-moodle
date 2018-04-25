@@ -11,36 +11,23 @@ Vamos a incidir en las siguientes:
 - Insertar tabla.
 - Visualizar código HTML.
 
- 
-
 En el editor corresponden a los siguientes iconos:
 
-![](/assets/Selección_147b.png)
-
-**Fig. Captura de bantalla de la barra de botones del editor HTML**
-
+![Fig. Captura de bantalla de la barra de botones del editor HTML](/assets/Selección_147b.png)
 
 Para incluir una Página tenemos que **activar la edición**, como hemos hecho en otras ocasiones, y pulsar en el enlace "**Añadir una actividad o un recurso**" del tema en el que queramos trabajar. En la ventana que aparece elegimos la opción **Página** entre los recursos que nos ofrece:
 
 
-![](img/anadir_una_pagina.png)
+![Fig. Captura de pantalla de selección de página](img/anadir_una_pagina.png)
 
-
-**Fig. Captura de pantalla de selección de página**
-
- 
 
 Obtendremos la siguiente ventana en la que rellenaremos los campos título y descripción. Debajo podremos añadir el contenido de la página que queremos crear:
 
-![](/assets/Selección_160.png)
-
-
-**Fig. Captura de pantalla de la opciones de página**
+![Fig. Captura de pantalla de la opciones de página](/assets/Selección_160.png)
 
 Vamos a poner contenido utilizando las herramientas que hemos mencionado antes.
 
 ### Insertar vínculo
-
 
 ![](img/vinculo.png)
 

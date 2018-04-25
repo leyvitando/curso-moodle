@@ -7,8 +7,8 @@ Para un nivel de utilización básico de Moodle vamos a mostrar, en primer lugar
 
  
 
-![](img/development.gif)
-**Fig. 1.8 Fuente INTEF**
+![Fig. 1.8 Fuente INTEF](img/development.gif)
+
 
 #### Moodle para organizar y exhibir recursos:
 
@@ -28,8 +28,8 @@ Y se puede, por último, subir un recurso con un formato apropiado, que contenga
 
  
 
-![](img/community.gif)
-**Fig. 1.9 Fuente INTEF**
+![Fig. 1.9 Fuente INTEF](img/community.gif)
+
 
 #### Moodle como lugar de relación:
 
@@ -49,7 +49,7 @@ El alumnado puede ser organizado en forma de grupos, de forma que cada grupo ten
 
  
 
-![**Fig. 1.10 Fuente INTEF**](img/Tareas.png)
+![Fig. 1.10 Fuente INTEF](img/Tareas.png)
 
 
 #### Moodle para anotar y evaluar:
@@ -60,23 +60,13 @@ Si al alumnado ya está participando, el profesorado puede realizar anotaciones 
 
  
 
-![](img/Entorno.png)
-|**Fig. 1.11 Fuente INTEF**
+![Fig. 1.11 Fuente INTEF](img/Entorno.png)
 
 #### Entorno multiforme
 
 Cada curso de Moodle es muy configurable, es decir, los alumnos/as pueden entrar a cursos en los que el eje por el que se van desplazando son los temas que componen el curso, pero pueden hacerse cursos por períodos de tiempo, si así se requiere, o cursos en los que, sobre un entorno social tipo foro, se vertebra toda la acción.<br/> Además, la pantalla que ve el alumno/a puede ser modificada y enriquecida por el profesor/a, en base a la introducción de los elementos llamados "bloques" que proporcionan funcionalidades de muchos tipos a los participantes en el curso, desde canales RSS hasta funcionalidades que recogen relojes, vídeos u otros códigos embebidos.
 
- 
-
- 
-
-![](img/mipc.png)
-|**Fig. 1.12 Fuente INTEF**
-
- 
-
- 
+![Fig. 1.12 Fuente INTEF](img/mipc.png)
 
 #### Más ideas para usar Moodle:
 
@@ -101,16 +91,11 @@ Actividades de Moodle especialmente relacionadas con este enfoque: wiki, foros, 
 
  
 
-![](img/Central.png)
-|**Fig. 1.13 Fuente INTEF**
+![Fig. 1.13 Fuente INTEF](img/Central.png)
 
 ### Usos avanzados de Moodle
 
 Moodle permite muchos otros tipos de actividades y de variantes en cuanto a aspecto y estructura. A continuación vamos a ver algunas de esas variaciones, en función de que puedan ser puestas en marcha por el "profesor/a" o por el "administrador/a", dos de los roles principales de Moodle.
-
- 
-
- 
 
 #### Actividades variadas
 

@@ -5,15 +5,12 @@ El editor HTML Richtext ofrece una interfaz semejante a un procesador de textos 
 
 Se tiene acceso a él al crear o actualizar cualquier actividad. Al entrar en la creación o actualización encontraremos una pantalla similar a esta:
 
-![](/assets/Selección_146.png)
+![Fig. Captura de pantalla.Editor HTML.](/assets/Selección_146.png)
 
-**Fig. Captura de pantalla.Editor HTML. **
 
 Está listo para incluir texto sin ningún formato especial en la Descripción, en este caso. Si pulsamos sobre el botón "Mostrar mas botones" obtendremos el editor con las herramientas que pone a nuestra disposición para dar formato al texto. Algo así:
 
-![](/assets/Selección_147.png)
-
-**Fig. Captura de pantalla. Editor HTML**
+![Fig. Captura de pantalla. Editor HTML](/assets/Selección_147.png)
 
 En el editor de texto encontramos los siguientes botones:
 

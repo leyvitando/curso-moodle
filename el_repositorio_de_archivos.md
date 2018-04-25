@@ -3,9 +3,9 @@
 
 El repositorio de Moodle permite a los usuarios subir archivos desde nuestro equipo o desde otros Repositorios externos o, incluso, explorar las imágenes de una dirección web y mostrarlas para incorporarlas a nuestro repositorio. Se accede a él al subir un archivo.
 
-![](/assets/Selección_139.png)
+![Fig. 3.17 Captura de pantalla. Selector de archivos](/assets/Selección_139.png)
 
-**Fig. 3.17 Captura de pantalla. Selector de archivos**
+****
 
 En él podemos:
 
@@ -26,14 +26,11 @@ Sería posible, siempre y cuando los administradores de Moodle lo instalaran y h
 Al incorporar un archivo desde otro repositorio (pongamos Wikimedia), nos pregunta algunos datos del recurso:
 
 
-![](img/importarr_de_repositorio.png)
+![Fig Captura de pantalla. Incorporación desde otro repositorio](img/importarr_de_repositorio.png)
 
-**Fig. 3.19 Captura de pantalla. Incorporación desde otro repositorio**
-
- 
 
 Los datos que nos pide son el nombre que queremos dar al archivo que incorporamos a nuestra carpeta o al recurso que editamos, el autor y el tipo de licencia.
 
-## Tarea1
+## Tarea 1
 
 Busca en Wikimedia algún archivo que interese para el curso que estás haciendo en estas prácticas. Este archivo que puede resultar interesante para incorporar a alguno de los recursos cuando los empieces a crear.

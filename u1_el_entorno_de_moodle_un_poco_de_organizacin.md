@@ -7,10 +7,8 @@ La apariencia de los cursos en Moodle viene determinada por una serie de paramet
 
 El **formato** y las características generales del curso se definen en la sección de **Editar ajustes** de un curso, al que se accede desde el icono de configuración en la parte superior izquierda de la página principal del curso:
 
-![](img/administracion.png)
+![Menú administrador](img/administracion.png)
 
 ![Editar ajustes](img/editarajustes.png)
 
 El **tema** nos define el diseño estético del curso y se selecciona en la administración general de la plataforma Moodle en la que estemos trabajando.
-
-

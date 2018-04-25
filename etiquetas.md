@@ -5,9 +5,7 @@ Las etiquetas son un recurso que se genera de modo interno y se utilizan para ti
 
 Se incluyen como cualquier otro recurso, pulsando en "Añadir una actividad o un recurso" y previamente hay que activar la edición, tal como se ha explicado anteriormente.
 
-![](img/Insertar_etiquetas.png)
-
-**Fig.  Captura de pantalla. Ventana de inserción de etiqueta**
+![Fig.  Captura de pantalla. Ventana de inserción de etiqueta](img/Insertar_etiquetas.png)
 
 La descripción del recurso nos aparece en la imagen, así que nos evitamos describirlo aquí.
 
@@ -17,7 +15,4 @@ Se puede añadir texto e incluso imágenes u objetos multimedia.
 
 La función de las etiquetas es cambiar la apariencia de la portada del curso, dirigiendo la atención y ofreciendo información visual que guíe hacia los contenidos y las actividades.
 
-![](/assets/Selección_152.png)
-
-**Fig.  Captura de pantalla. Ejemplo de etiqueta**
-
+![Fig.  Captura de pantalla. Ejemplo de etiqueta](/assets/Selección_152.png)

@@ -1,9 +1,6 @@
 
 # Recursos internos
 
-![](img/el_editor_HTML.png)
-| **Fig. 3.24. Editor HTML**
-
 Los **recursos internos** se pueden elaborar desde dentro de la plataforma, aunque podamos incorporar también elementos externos.
 
 Incluimos en este grupo:

@@ -7,8 +7,8 @@ Como eres un profesor con permiso de edición, puedes utilizar las herramientas 
 
 Puedes comprobar que la apariencia de la página cambia y que aparecen diversos iconos que representan distintas herramientas de edición y configuración:
 
-![](/assets/Selección_140.png)
-**Fig. Captura de pantalla . Parte de un curso con la edición activada**
+![Fig. Captura de pantalla . Parte de un curso con la edición activada](/assets/Selección_140.png)
+****
 
  
 
@@ -41,15 +41,13 @@ Además de estos iconos, vemos que aparece, al final del tema, la posibilidad de
 
 Pinchando en ella nos da acceso a una ventana con la lista de todos los tipos de actividades y recursos que podemos añadir a nuestro tema. Para cada uno de ellos nos da una explicación de en qué consiste.
 
-![](/assets/Selección_145.png)
+![Fig. Captura de pantalla. Ventana de elección de recurso o actividad](/assets/Selección_145.png)
 
-**Fig. Captura de pantalla. Ventana de elección de recurso o actividad**
+****
 
  
 
 ## Actividad 1
-
- 
 
 Activa la edición de Moodle y experimenta con los diversos iconos de edición de los temas:
 

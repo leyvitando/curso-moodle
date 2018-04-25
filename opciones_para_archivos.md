@@ -7,9 +7,9 @@ Vemos ahora, antes de entrar en las opciones que tenemos para los archivos, cóm
 
 Fíjate en la figura siguiente:
 
-![](/assets/Selección_134.png)
+![Fig. Captura de pantalla Selector de archivos](/assets/Selección_134.png)
 
-**Fig. Captura de pantalla Selector de archivos**
+****
 
 Vemos que, además de los botones "Guardar cambios" y "Cancelar" tiene tres partes bien separadas:
 
@@ -37,8 +37,8 @@ La tercera de las áreas del selector es aquella en que nos muestra el contenido
 
 Una vez que hemos subido los archivos podemos hacer algunas cosas con ellos. Basta con pulsar sobre el archivo con el ratón y aparecerá la ventana con las opciones de todo lo que podemos hacer con él:
 
-![](/assets/Selección_135.png)
-**Fig. 3.14 Captura de pantalla. Ventana de edición de archivo**
+![Fig. 3.14 Captura de pantalla. Ventana de edición de archivo](/assets/Selección_135.png)
+****
 
  
 

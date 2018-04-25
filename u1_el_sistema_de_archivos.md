@@ -7,11 +7,7 @@ En esta versión de Moodle se ha producido un gran cambio en la gestión de arch
 
 Por otra parte, todos los usuarios disponen de una carpeta personal y privada con el nombre "Ficheros privados" a la que se puede acceder desde el bloque de navegación, situado a tu izquierda de moodle:
 
-![](/assets/Selección_125.png)
-
-**Fig. Captura de pantalla del bloque de navegación**
-
- 
+![Fig. Captura de pantalla del bloque de navegación](/assets/Selección_125.png)
 
 La gestión de los archivos se puede hacer desde cada recurso o actividad. Se les añaden utilizando el Selector de Archivos, que es una ventana que aparecerá cada vez que tengamos que añadir y archivo. 
 
