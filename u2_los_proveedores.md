@@ -1,5 +1,5 @@
 
-# Los proveedores
+# Edición de temas
 
 Como eres un profesor con permiso de edición, puedes utilizar las herramientas de edición haciendo clic en Activar edición, en el menú de configuración 
 

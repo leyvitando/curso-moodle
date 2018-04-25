@@ -15,28 +15,27 @@ Vamos a incidir en las siguientes:
 
 En el editor corresponden a los siguientes iconos:
 
+![](/assets/Selección_147b.png)
 
-![](img/botones_editor2.png)
+**Fig. Captura de bantalla de la barra de botones del editor HTML**
 
-**Fig. 3.40. Captura de bantalla de la barra de botones del editor HTML**
-
- 
 
 Para incluir una Página tenemos que **activar la edición**, como hemos hecho en otras ocasiones, y pulsar en el enlace "**Añadir una actividad o un recurso**" del tema en el que queramos trabajar. En la ventana que aparece elegimos la opción **Página** entre los recursos que nos ofrece:
 
 
 ![](img/anadir_una_pagina.png)
 
-**Fig. 3.41 Captura de pantalla de selección de página**
+
+**Fig. Captura de pantalla de selección de página**
 
  
 
 Obtendremos la siguiente ventana en la que rellenaremos los campos título y descripción. Debajo podremos añadir el contenido de la página que queremos crear:
 
+![](/assets/Selección_160.png)
 
-![](img/agregando_pagina.png)
 
-**Fig. 3.42 Captura de pantalla de la opciones de página**
+**Fig. Captura de pantalla de la opciones de página**
 
 Vamos a poner contenido utilizando las herramientas que hemos mencionado antes.
 
@@ -53,43 +52,23 @@ Como ya sabes, cada lugar de la plataforma tiene su propia url, así que podemos
 
 En nuestra web podemos incluir un **enlace externo**, para dirigir al alumno a una fuente de información determinada.
 
-Para hacerlo debemos **marcar** el texto, insertar la dirección donde nos indica **URL** y elegir el **destino**. Cuando se trata de un enlace externo, conviene elegir **Nueva ventana**, porque ofrece mejor visibilidad.
+Para hacerlo debemos **marcar** el texto, insertar la dirección donde nos indica **URL**. Cuando se trata de un enlace externo, conviene elegir **Nueva ventana**, porque ofrece mejor visibilidad y experiencia de usuario.
 
-
-![](img/Creando_enlace.png)
-
-**Fig. 3.43 Captura de pantalla de inserción de vínculo **
-
- 
-
-Una vez que se ha creado el enlace nos aparecería el editor de esta manera:
-
-
-![](img/enlace_creado.png)
-
-**Fig. 3.44 Captura de pantalla del editor **
-
- 
 
 Observamos que el texto al que hemos aplicado el enlace ha cambiado de color (ahora es un enlace) y que los iconos también han sufrido un pequeño cambio. Ahora el botón de "Quitar hipervínculo" aparece activado. Esto sucede sólo porque tenemos el cursor colocado sobre el vínculo.
 
-Además, el botón de crear enlace aparece activo aunque no tengamos ningún texto seleccionado. Es así porque, al colocar el cursor sobre un enlace podremos editar las características del enlace en que nos encontramos. Tendremos acceso a la ventana de "Insertar/Editar hipervínculo" que nos ha aparecido antes para cambiar las características del enlace.
-
- 
+Además, el botón de crear enlace aparece activo aunque no tengamos ningún texto seleccionado. Es así porque, al colocar el cursor sobre un enlace podremos editar las características del enlace en que nos encontramos. Tendremos acceso a la ventana de "Insertar/Editar hipervínculo" que nos ha aparecido antes para cambiar las características del enlace. 
 
 ### Quitar vínculo
-
 
 ![](img/boton_quitar_enlace.png)
 
 Para eliminar un vínculo, se marca el texto o la zona vinculada, o símplemente se coloca el cursor sobre él y se hace clic sobre el icono del eslabón roto:
 
  
-
 ### Insertar imagen
 
-
-![](img/boton_insertar_imagen.png)
+![](/assets/Selección_161.png)
 
 El icono del paisaje nos permite insertar una imagen.
 
@@ -99,114 +78,58 @@ En este caso utilizamos una imagen del logo de Moodle**,** que especifica la fue
 
 Sitúa el cursor donde vayas a insertar la imagen y haz clic en el icono correspondiente. Sale el cuadro de diálogo siguiente:
 
- 
+![](/assets/Selección_163.png)
 
-
-![](img/insertar_imagen.png)
-
-**Fig. 3.45 Captura de pantalla del diálogo para cargar una imagen**
+**Fig. Captura de pantalla del diálogo para cargar una imagen**
 
  
 
-Tenemos la posibilidad de utilizar imágenes subidas o que vayamos a subir al nuestro repositorio, o imágenes de las que tengamos la dirección URL. La primera opción nos asegura que vamos a tener la imagen el tiempo que la necesitemos porque la subiremos a nuestro Moodle. Sin embarlo, la segunda opción, la de incluir la URL evita que ocupemos nuestro servidor con ella pero dependemos de que la tenga el propietario en la dirección indicada, lo que no siempre sucede.
+Tenemos la posibilidad de utilizar imágenes subidas o que vayamos a subir a nuestro repositorio, o imágenes de las que tengamos la dirección URL. La primera opción nos asegura que vamos a tener la imagen el tiempo que la necesitemos porque la subiremos a nuestro Moodle. Sin embargo, la segunda opción, la de incluir la URL evita que ocupemos nuestro servidor con ella pero dependemos de que la tenga el propietario en la dirección indicada, lo que no siempre sucede.
 
-Nosotros vamos a optar por poner una imagen del repositorio. Para ello vamos a introducir la dirección URL de la página en la que se encuentra la imagen que nos interesa y procedemos como se ha explicado en el tema anterior en el capítulo El repositorio de archivos.  Para ello pulsamos "**Buscar o cargar una imagen...**", sobe el cuadro de diálogo anterior.
+Nosotros vamos a optar por poner una imagen del repositorio. Para ello vamos a seleccionar "Examinar repositorios"
 
-Una vez elegida la imagen de la página, nos presenta este cuadro de diálogo:
-
-
-![](img/ventana_descarga_logo.png)
-
-**Fig. 3.46 Captura de pantalla del selector de imagenes**
-
- 
-
-Pulsando en "Seleccionar este archivo" se nos pone en la ventana de inserción de imágenes para que pongamos los datos que nos interesen:
+![](/assets/Selección_164.png)
 
 
-![](img/imagen_cargada.png)
+Si la imagen no está aún en tu repositorio, puedes subirla directamente desde aquí pulsando "Seleccionar archivo" y eligiendo el archivo en tu ordenador que quieres subir.
 
-**Fig. 3.47 Captura de pantalla para insertar una descripción**
+Después pulsa "subir este archivo"
 
- 
+![](/assets/Selección_165.png)
 
-Conviene que, al menos, pongamos la Descripción de la imagen. Al pulsar en **Insertar**, la imagen se coloca en nuestro editor:
-
-
-![](img/imagen_en_editor.png)
-
-**Fig. 3.48 Captura de pantalla del resultado obtenido insertando una imagen**
-
- 
-
- 
+Aparece un menú como este en el que podemos añadir la descripción de la imagen o pulsar en la casilla de verficación "La descripción no es necesaria". 
 
 ### Insertar tabla
 
+![](/assets/Selección_162.png)
 
-![](img/boton_tabla.png)
 
 Con este icono, que representa una tabla, podemos incorporar una a nuestra página. Moodle nos ofrece las posibilidades habituales para configurar la tabla: filas, columnas, alineación, etc.
 
+![](/assets/Selección_166.png)
 
-![](img/insertar_tabla.png)
+**Fig. Captura de pantalla de la configuración de una tabla**
 
-**Fig. 3.49 Captura de pantalla de la configuración de una tabla**
+ 
+Para modificar una tabla ya creada basta con situarse dentro de ella y pulsar el botón de insertar/editar tabla. :
+
+![](/assets/Selección_167.png)
+
+**Fig Captura de pantalla del menú contextual de una tabla**
 
  
 
-Para trabajar mejor con la tabla, podemos acceder a un menú específico, si elegimos la opción de **Agrandar el editor**:
-
-
-![](img/modo_pantalla_completa.png)
-
-**Fig. 3.50. Captura de pantalla de la barra de botones del editor HTML**
-
- 
-
-Para modificar una tabla ya creada basta con situarse dentro de ella y pulsar el botón de insertar/editar tabla. También podemos pulsar con el botón derecho del ratón sobre la tabla:
-
-
-![](img/editar_tabla.png)
-
-**Fig 3.51 Captura de pantalla del menú contextual de una tabla**
-
- 
-
-Aquí también tenemos opciones para borrar la tabla completa (y su contenido) y para modificar la configuración de cada celda o de las celdas que haya seleccionadas, o de las filas o columnas:
-
-
-![](img/opciones_de_celda.png)
-
-**Fig 3.52 Captura de pantalla de opciones para configurar una celda**
-
- 
-
-
-![](img/opciones_de_fila.png)
-
-**Fig 3.53 Captura de pantalla de opciones para configurar una fila**
-
- 
-
-
-![](img/opciones_de_columna.png)
-
-**Fig 3.54 Captura de pantalla de opciones para configurar una columna**
-
- 
+Aquí también tenemos opciones para borrar la tabla completa (y su contenido) y para modificar la configuración de  de las filas o columnas:
 
 ### Visualizar código HTML
 
-
-![](img/boton_ver_codigo.png)
+![](/assets/Selección_168.png)
 
 Con este icono podemos visualizar cualquier documento Moodle que disponga de esta utilidad.
 
 Nuestra página  tendría este aspecto en HTML:
 
-
-![](img/codigo_HTML.png)
+![](/assets/Selección_169.png)
 
 **Fig 3.55 Captura de pantalla de la vista de código HTML**
 
@@ -214,11 +137,15 @@ Nuestra página  tendría este aspecto en HTML:
 
 Sólo si dominas, al menos mínimamente, el código HTML deberías modificar desde aquí tu página. si no sabes nada de HTML es mejor que no lo toques.
 
-Haciendo clic en "**Actualizar**", volveríamos a la visión normal del documento haciéndose efectivos los cambios realizados, o "**Cancelar**" para desechar los cambios.
+Volviendo a pulsar el botón HTML ![](/assets/Selección_168.png), volveríamos a la visión normal del documento haciéndose efectivos los cambios realizados.
 
 Una vez terminada la página, la guardamos eligiendo entre: **Guardar cambios y mostrar** o **Guardar cambios y regresar al curso**. 
 
 Puedes ver de forma más gráfica la creación de este recurso en el videotutorial que aparece en el siguiente apartado.
+
+{% youtube %} https://www.youtube.com/watch?v=bjC99KRiYHw {% endyoutube %}
+
+
 
 ## Actividad 4
 

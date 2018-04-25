@@ -5,46 +5,57 @@ El editor HTML Richtext ofrece una interfaz semejante a un procesador de textos 
 
 Se tiene acceso a él al crear o actualizar cualquier actividad. Al entrar en la creación o actualización encontraremos una pantalla similar a esta:
 
+![](/assets/Selección_146.png)
 
-![](img/editor_HTML.png)
+**Fig. Captura de pantalla.Editor HTML. **
 
-**Fig. 3.25 Captura de pantalla.Editor HTML. **
+Está listo para incluir texto sin ningún formato especial en la Descripción, en este caso. Si pulsamos sobre el botón "Mostrar mas botones" obtendremos el editor con las herramientas que pone a nuestra disposición para dar formato al texto. Algo así:
 
-Está listo para incluir texto sin ningún formato especial en la Descripción, en este caso. Si pulsamos sobre la pestaña "Mostrar herramientas de edición" obtendremos el editor con las herramientas que pone a nuestra disposición para dar formato al texto. Algo así:
+![](/assets/Selección_147.png)
 
-
-![](img/editor_HTML2.png)
-
-**Fig. 3.26 Captura de pantalla. Editor HTML**
+**Fig. Captura de pantalla. Editor HTML**
 
 En el editor de texto encontramos los siguientes botones:
 
-**Fila superior**:
+![](/assets/Selección_148.png)
 
-- Encontramos tres desplegables para elegir: **fuente, tamaño de la fuente y formato.**
-- Deshacer y rehacer
-- Buscar y Buscar/reemplazar
-- Cambiar a modo de pantalla completa
+De izquierda a derecha:
 
-**Segunda fila**:
+- Mostrar más/menos botones
+- Estilos de párrafos
+- Negrita
+- Cursiva
+- Lista no ordenada
+- Lista ordenada
+- Enlace
+- Desenlazar
+- Imagen
+- Multimedia
+- Gestionar ficheros
 
-- Puedes elegir entre **negrita**, **cursiva**, subrayado, tachado subíndice o superíndice. 
-- Alineación izquierda, centrada o derecha
-- Limpiar código basura, borrar formato, pegar como texto plano y pegar desde Word.
-- Color del texto y color del fondo
-- Dirección de izquierda a derecha y dirección de derecha a izquierda
+![](/assets/Selección_149.png)
 
-**Tercera fila:**
+De izquierda a derecha:
 
-- Lista desordenada, lista ordenada, reducir sangría y aumentar sangría
-- Insertar/editar hipervínculo, quitar hipervínculo y evitar vínculos automáticos
-- Insertar/editar imagen, insertar/editar medio embebido, insertar carácter de espacio 'non-breaking', insertar caracteres personalizados, LaTeX a Match, Insertar una nueva tabla
-- Editar código HTML
+- Subrayar
+- Tachar
+- Subíndice
+- Superíndice
+- Alineación (derecha, centro e izquierda)
+- Sangrías
+- Editor de ecuaciones
+- Símbolo
+- Tabla
+- Limpiar formato
+- deshacer y rehacer.
 
- 
+![](/assets/Selección_150.png)
 
-El símbolo de Word que encuentras a continuación se utiliza para borrar el código erróneo que entra en el editor cuando copiamos desde el procesador de textos Word.
+De izquierda a derecha:
 
-Las flechas azules del final son para deshacer o rehacer la última acción, como en cualquier procesador de textos.
+- Comprobaciones de accesibilidad
+- Ayudante de lector de pantalla
+- HTML. este último boton es el que tenemos que pulsar para copiar códigos que embeben objetos HTML (como el seguimiento de un hashtag de Twitter)
+
 
 Entre tantas posibilidades veremos algunas, de uso frecuente y que pueden presentar ciertas dificultades, en los recursos que te presentamos a continuación.
