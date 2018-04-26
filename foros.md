@@ -1,7 +1,7 @@
 
 # Foros
 
-El **foro **es el medio para publicar mensajes breves y mantener discusiones públicas sobre el desarrollo y los contenidos del curso o sobre temáticas diversas.
+El **foro** es el medio para publicar mensajes breves y mantener discusiones públicas sobre el desarrollo y los contenidos del curso o sobre temáticas diversas.
 
 **Entre las ventajas de la utilización de los foros podemos destacar las siguientes:**
 

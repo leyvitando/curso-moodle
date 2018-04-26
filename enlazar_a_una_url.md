@@ -14,6 +14,9 @@ Copiamos la URL en el campo URL externa y le ponemos un nombre y una descripció
 
 Desplegando el menú de apariencia podemos elegir el tamaño de la ventana que se abre al abrir la URL o que se abrá en un a ventana emergente.
 
+{% youtube %}https://youtu.be/krpl2GlInDwM {% endyoutube %}
+https://youtu.be/krpl2GlInDw
+
 ## Actividad
 
 Utilizando la opción de insertar un recurso URL, busca un vídeo en Youtube que venga al caso para el curso que estás elaborando. Búscalo e insértalo en uno de tus temas.

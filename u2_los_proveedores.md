@@ -44,6 +44,11 @@ Pinchando en ella nos da acceso a una ventana con la lista de todos los tipos de
 ![Fig. Captura de pantalla. Ventana de elección de recurso o actividad](/assets/Selección_145.png)
 
 ****
+## Videotutorial.
+
+Sobre el selector de actividades, puedes ver este videotutorial que lo explica:
+
+{% youtube %}https://www.youtube.com/watch?v=0eDaoiyMVII {% endyoutube %}
 
  
 
