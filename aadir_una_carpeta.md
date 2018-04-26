@@ -5,23 +5,13 @@ Esta opción nos da la posibilidad de mostrar un gran número de archivos en un 
 
 En realidad, muestra todos los archivos que haya dentro de una de las carpetas del almacén.
 
-
-![](img/anadir_carpeta.png)
-
-**Fig. 3.64. Captura de pantalla de inserción de carpeta.**
-
- 
+![Fig. 3.64. Captura de pantalla de inserción de carpeta.](img/anadir_carpeta.png)
 
 Elegimos Carpeta y aceptamos para obtener la siguiente pantalla:
 
+![Fig 3.65 Captura de pantalla de opciones de inserción de carpeta](/assets/Selección_176.png)
 
-![](img/61c3b1616469656e646f5f63617270657461.png)
-
-**Fig 3.65 Captura de pantalla de opciones de inserción de carpeta**
-
- 
-
-Como dice la descripción de la primera figura, podemos crear una carpeta e incluir en ella los archivos y subcarpetas que nos interesen, o podemos subir un archivo comprimido. Una vez subido puede descomprimirse como se ha explicado en el capítulo de [Opciones para archivos](opciones_para_archivos.html).
+Como dice la descripción de la primera figura, podemos crear una carpeta e incluir en ella los archivos y subcarpetas que nos interesen.
 
 Más abajo podremos elegir si se muestra el contenido de la carpeta en una página diferente o se muestra el árbol de carpetas con el contenido en misma portada donde están los recursos del tema.
 
