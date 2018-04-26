@@ -5,7 +5,7 @@
 ![Imagen obtenida de https://moodle.org/logo/](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/img/logo-1024x254.jpg)
 
 
-![1.1 Fuente INTEF](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/img/terminos4.jpg)
+![Fuente INTEF](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/img/terminos4.jpg)
 
 
 
