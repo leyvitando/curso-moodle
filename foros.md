@@ -57,6 +57,7 @@ Debemos definir el tipo de foro que nos conviene utilizar en función de nuestro
 - **Foro P y R **(de preguntas y respuestas): Los alumno/as deben responder primero a las preguntas propuestas para poder visualizar las respuestas de sus compañeros. Permite la autoevaluación y es muy enriquecedor al permitir que los alumno/as comenten mutuamente sus respuestas y aportaciones. También es posible hacer búsquedas en un foro. Para realizar una búsqueda avanzada, presiona el botón de búsqueda sin escribir nada en el campo de palabras: aparecerá un formulario completo que le facilitará la realización de búsquedas avanzadas.
 - **Foro estándar que aparece en un formato de Blog**: Es un foro abierto en el que cualquier usuario puede iniciar un nuevo tema. La particularidad es que los temas se muestran en una página con enlaces "Discute este tema".
 
+
 ### Videotutorial
 
 En este videotutorial se muestra como usar y configurar los foros:
