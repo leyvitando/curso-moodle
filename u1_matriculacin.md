@@ -2,7 +2,7 @@
 # U1. Matriculación
 
 ![](img/inscripcion.png)
-|**Fig. 4.2 Obtenida de [Pixabay](http://pixabay.com/en/contact-credit-card-id-97574/). Licencia CC0**
+**Fig. 4.2 Obtenida de [Pixabay](http://pixabay.com/en/contact-credit-card-id-97574/). Licencia CC0**
 
 Cuando un alumno/a accede a la plataforma Moodle se encuentra con un listado de cursos. Cuando intenta acceder al curso correspondiente puede encontrarse con dos opciones:
 
