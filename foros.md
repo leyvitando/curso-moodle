@@ -3,6 +3,31 @@
 
 El **foro** es el medio para publicar mensajes breves y mantener discusiones públicas sobre el desarrollo y los contenidos del curso o sobre temáticas diversas.
 
+Para crear un foro es necesario pulsar, como siempre, "Agregue una actividad o recurso"
+
+![](/assets/Selección_178.png)
+
+La descripción que aporta moodle de lo que es un foro no cabe en la captura de pantalla, es la siguiente:
+
+El módulo de actividad foro permite a los participantes tener discusiones asincrónicas, es decir discusiones que tienen lugar durante un período prolongado de tiempo.
+
+Hay varios tipos de foro para elegir, como el **foro estándar** donde cualquier persona puede iniciar una nueva discusión en cualquier momento, **un foro en el que cada alumno puede iniciar una única discusión**, o un **foro de pregunta y respuesta** en el que los estudiantes primero deben participar antes de poder ver los mensajes de otros estudiantes. El profesor puede permitir que se adjunten archivos a las aportaciones al foro. Las imágenes adjuntas se muestran en el mensaje en el foro.
+
+Los participantes pueden suscribirse a un foro para recibir notificaciones cuando hay nuevos mensajes en el foro. El profesor puede establecer el modo de suscripción, opcional, forzado o auto, o prohibir completamente la suscripción. Si es necesario, los estudiantes pueden ser bloqueados a la hora de publicar más de un número determinado de mensajes en un determinado período de tiempo; esta medida puede evitar que determinadas personas dominen las discusiones.
+
+**Los mensajes en el foro puede ser evaluado por profesores o estudiantes (evaluación por pares)**. Las clasificaciones pueden agregarse a una calificación final que se registra en el libro de calificaciones.
+
+Los foros tiene muchos usos, como por ejemplo
+
+- Un espacio social para que los estudiantes se conozcan
+- Para los avisos del curso (usando un foro de noticias con suscripción forzada)
+- Para discutir el contenido del curso o de materiales de lectura
+- Para continuar en línea una cuestión planteada previamente en una sesión presencial
+- Para discusiones solo entre profesores del curso (mediante un foro oculto)
+- Un centro de ayuda donde los tutores y los estudiantes pueden dar consejos
+- Un área de soporte uno-a-uno para comunicaciones entre alumno y profesor (usando un foro con grupos separados y con un estudiante por grupo)
+- Para actividades complementarias, como una "lluvia de ideas" donde los estudiantes puedan reflexionar y proponer ideas
+
 **Entre las ventajas de la utilización de los foros podemos destacar las siguientes:**
 
 - Ejercitan el **pensamiento crítico** **y creativo** del alumnado al obligarles a basar sus opiniones en argumentos sólidos.
@@ -12,18 +37,10 @@ El **foro** es el medio para publicar mensajes breves y mantener discusiones pú
 - Educan en el respeto a las **diferencias de opiniones**.
 - Ayudan a **entender y valorar las diferencias**.
 
-**La plataforma Moodle ofrece distintas posibilidades de configuración de los foros:**
-
-- Pueden estructurarse de diferentes maneras.
-- Pueden incluir la evaluación de cada mensaje por los compañeros.
-- Se puede acceder a los mensajes de distintas formas.
-- Permiten adjuntar archivos e incrustar imágenes.
-- Los alumno/as y profesor/as inscritos, pueden recibir copias de los mensajes en su buzón de correo electrónico.
 
 Debemos definir el tipo de foro que nos conviene utilizar en función de nuestros objetivos educativos:
 
 ### Tipos de foros
-
 
 ![](img/foros-tipos_de_foro.png)
 
@@ -37,5 +54,12 @@ Debemos definir el tipo de foro que nos conviene utilizar en función de nuestro
 
 - **Cada persona plantea un tema:** Su estructura y utilización es similar al foro de uso general. La diferencia reside en que, en este caso, cada alumno puede proponer un único tema. Su participación se reduce, después, a comentar temas ya propuestos.
 
-- **Foro P y R **(de preguntas y respuestas): Los alumno/as deben responder primero a las preguntas propuestas para poder visualizar las respuestas de sus compañeros. Permite la autoevaluación y es muy enriquecedor al permitir que los alumno/as comenten mutuamente sus respuestas y aportaciones. También es posible hacer búsquedas en un foro. Para realizar una búsqueda avanzada, presiona el botón de búsqueda sin escribir nada en el campo de palabras: aparecerá un formulario completo que le facilitará la realización de búsquedas avanzadas.<br/><br/>
+- **Foro P y R **(de preguntas y respuestas): Los alumno/as deben responder primero a las preguntas propuestas para poder visualizar las respuestas de sus compañeros. Permite la autoevaluación y es muy enriquecedor al permitir que los alumno/as comenten mutuamente sus respuestas y aportaciones. También es posible hacer búsquedas en un foro. Para realizar una búsqueda avanzada, presiona el botón de búsqueda sin escribir nada en el campo de palabras: aparecerá un formulario completo que le facilitará la realización de búsquedas avanzadas.
 - **Foro estándar que aparece en un formato de Blog**: Es un foro abierto en el que cualquier usuario puede iniciar un nuevo tema. La particularidad es que los temas se muestran en una página con enlaces "Discute este tema".
+
+### Videotutorial
+
+En este videotutorial se muestra como usar y configurar los foros:
+{% youtube %}https://youtu.be/yA_59Sonai0 {% endyoutube %}
+
+

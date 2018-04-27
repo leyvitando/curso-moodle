@@ -15,16 +15,26 @@ Esta opción ofrece ventajas, como las siguientes, que facilitan y agilizan nues
 
 ### Tipos de tareas:
 
+![Fig. Captura de pantalla. Inserción de tarea.](/assets/Selección_179.png)
 
-![](img/insertar_tarea.png)
+El texto descriptivo de la tarea de moodle no se ve completo en la captura de pantalla y es el siguiente:
 
-**Fig. 5.4 Captura de pantalla. Inserción de tarea.**
 
- 
+El módulo de Tareas permite a un profesor evaluar el aprendizaje de los alumnos mediante la **creación de una tarea a realizar que luego revisará, valorará, calificará y a la que podrá dar retroalimentación.**
 
-- ** Actividad no en línea:**
+Los alumnos pueden **presentar cualquier contenido digital, como documentos de texto, hojas de cálculo, imágenes, audio y vídeos entre otros**. Alternativamente, o como complemento, la tarea puede requerir que los estudiantes escriban texto directamente en un campo utilizando el editor de texto. Una tarea también puede ser utilizada para recordar a los estudiantes tareas del "mundo real" que necesitan realizar y que no requieren la entrega de ningún tipo de contenido digital. Por ejemplo, presentaciones orales, prácticas de laboratorio, etc.
 
-Este tipo de tarea es útil cuando el trabajo se realiza fuera de la plataforma y, además, lo deben realizar en un formato no electrónico como, por ejemplo, una lámina de dibujo. Los estudiantes pueden ver una descripción de la tarea, pero no pueden subir archivos. No obstante, los docentes pueden calificar a todos los estudiantes y los estudiantes recibirán notificaciones de sus calificaciones.
+Para tareas en grupo, el modulo tiene la capacidad de aceptar tareas de uno de los miembros del grupo y que está quede vinculada al resto.
+
+Durante el proceso de revisión los profesores pueden dejar comentarios y subir archivos, tales como trabajos calificados, documentos con observaciones escritas. Las tareas pueden ser calificadas usando una escala numérica o una escala personalizada; o usando métodos de calificación complejos como rúbricas. Las calificaciones finales se actualizan automáticamente en el módulo de calificaciones.
+
+En los diferentes apartados de "Agregando una nueva tarea" pueden configurarse diferentes opciones:
+
+![](/assets/Selección_180.png)
+
+Entre ellos son importantes los dos que aparecen deplegados:
+
+TIPO DE ENTREGA:
 
 - ** Texto en línea:**
 
@@ -33,3 +43,13 @@ Permite al estudiante hacer uso del editor de texto HTML para escribir directame
 - **Subir archivos:**
 
 En este caso, se permite que los estudiantes puedan subir uno o varios archivos de cualquier tipo. Éste podría ser un documento realizado con un procesador de textos, o una imagen, un sitio web comprimido o algo que se les ha pedido que envíen. El profesorado puede calificar en red las tareas remitidas.
+
+CONFIGURACIÓN DE ENTREGA POR GRUPO
+
+Que permite crear trabajos por grupos y que uno de ellos sea el que entrega.
+
+
+### Videotutorial
+
+En este videotutorial se explican las tareas (Assignements)
+{% youtube %}https://youtu.be/84tQrsVKvT4 {% endyoutube %}

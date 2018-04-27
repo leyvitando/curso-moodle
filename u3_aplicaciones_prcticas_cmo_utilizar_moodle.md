@@ -2,7 +2,7 @@
 # U3. Aplicaciones prácticas. Cómo utilizar Moodle
 
 ![](img/Moodle-icon.png)
-| **Fig. 3.68 Imagen obtenida de [Wikimedia](http://commons.wikimedia.org/wiki/File:Moodle-icon.png?uselang=es).<br/> [Licencia Pública _General GNU](http://en.wikipedia.org/wiki/es:GNU_General_Public_License)**
+ **Fig. Imagen obtenida de [Wikimedia](http://commons.wikimedia.org/wiki/File:Moodle-icon.png?uselang=es).<br/> [Licencia Pública _General GNU](http://en.wikipedia.org/wiki/es:GNU_General_Public_License)**
 
 Ya sabemos subir distintos tipos de recursos a Moodle y gestionar el sistema de archivos. Ahora bien, ¿para qué puede servirnos Moodle? ¿qué podemos hacer en Moodle?
 
@@ -12,5 +12,5 @@ Otra ventaja de Moodle es el tipo de comunicación que puede establecerse entre 
 
 Estas son dos aplicaciones prácticas de Moodle que te ofrecemos como ejemplo y te invitamos a que nos acompañes en su construcción:
 
-- **Catálogo de recursos**.<br/><br/>
+- **Catálogo de recursos**.
 - **Aula virtual**.

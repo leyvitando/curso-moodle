@@ -14,43 +14,30 @@ Si pensamos en un profesor de **Lengua y Literatura**, que da clases de** Lengua
 ## Materiales 3º ESO
 
 Vamos a crear dos etiquetas dentro del mismo tema:
-
  
-
 ### 1. Lecturas.
 
 ### 2. Ortografía.
-
  
-
 Tras la etiqueta de Lecturas vamos a añadir una página con indicaciones generales para la lectura.
-
 
 ![](img/guia_de_lectura.png)
 
-**Fig. 3.69. Captura de pantalla. Inserción de página**
-
- 
+**Fig. 3.69. Captura de pantalla. Inserción de página** 
 
 1. Para las** lecturas** hemos buscado en Google documentos en PDF de obras clásicas que están incluidas en la programación de 3º ESO:
-
 
 ![](img/buscar_en_google.png)
 
 **Fig. 3.70 Captura de pantalla de búsqueda en Google.**
 
- 
-
 Guardamos el archivo en nuestro ordenador y lo subimos al sistema de archivos de Moodle.
 
 Enlazamos el documento, utilizando la página de edición para el recurso **Enlazar un archivo o una web**:
 
-
 ![](img/61c3b1616469646f5f6d696f5f636964.png)
 
 **Fig. 3.71 Captura de pantalla de Enlazar archivo o web**
-
- 
 
 Como queremos dar la posibilidad de que se descarguen un documento de nuestra página de Moodle, conviene que activemos **Forzar descarga**; así, al seleccionar el documento, se tendrá la doble opción de** Abrir** o **Guardar archivo:**
 
