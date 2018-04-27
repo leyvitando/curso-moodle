@@ -26,15 +26,7 @@ Descarga e instala  eXeLearning en tu equipo.
 
 
 
-Puedes hacerlo desde la página oficial:
-
-
-
-o desde la página del CNATIC (****C**entro **Na**cional de Referencia de Aplicación de las **TIC**, basadas en fuentes abiertas**), que está desarrollando nuevas versiones con nuevas funcionalidades:
-
-
-
-[http://forja.cenatic.es/projects/iteexe/](http://forja.cenatic.es/projects/iteexe/) o desde [exelearning.net](http://exelearning.net/).
+Puedes hacerlo desde [exelearning.net](http://exelearning.net/).
 
 
 ## Actividad 3

@@ -34,4 +34,4 @@ Desde **Herramientas&gt;Editor de iDevices** el propio usuario puede crear otros
 
 ![](img/menu_utilidades_exe.png)
 
-**Fig. 3.97 Captura de patnalla del menú Utilidades**
+**Fig. Captura de patnalla del menú Utilidades**

@@ -5,12 +5,9 @@
 
 En este apartado se crea la estructura de navegación del contenido, mostrando las páginas y subpáginas que lo componen (nodos). Ofrece, sobre el árbol de la estructura las herramientas para añadir, borrar o renombrar páginas.
 
- 
-
-
 ![](img/Estructura_exe.png)
 
-**Fig. 3.93 Captura de pantalla de la estructura en eXeLearning**
+**Fig.  Captura de pantalla de la estructura en eXeLearning**
 
  
 
@@ -21,7 +18,7 @@ Los iDevices son herramientas que permiten mostrar los contenidos con un determi
 
 ![](img/idevices_exe.png)
 
-**Fig. 3.94 Captura de pantalla de los iDevices en eXeLearning**
+**Fig. Captura de pantalla de los iDevices en eXeLearning**
 
  
 
@@ -34,7 +31,7 @@ Por último, puedes observar dos pestañas: la pestaña** Autoría **que es la 
 
 ![](img/propiedades_exe.png)
 
-**Fig. 3.95 Captura de pantalla de las propiedades en eXeLearning**
+**Fig. Captura de pantalla de las propiedades en eXeLearning**
 
  
 

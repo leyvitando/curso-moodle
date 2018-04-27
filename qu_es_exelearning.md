@@ -1,8 +1,8 @@
 
 # ¿Qué es eXeLearning?
 
-![](img/exe_logo.png)
-|**Fig. 3.85 Icono de eXeLearning.<br/>Obtenido del INTEF.**
+![](/assets/exe50.jpg)
+**Fig. Icono de eXeLearning.<br/>Obtenido del INTEF.**
 
 ExeLearning es un editor que permite crear contenidos didácticos para la Web, sin necesidad de saber HTML.
 

@@ -22,4 +22,4 @@ multimedia y actividades de diverso tipo.
 
 ![](img/idevices_exe.png)
 
-**Fig. 3.96 Captura de pantalla de los iDevices en eXeLearning**
+**Fig. Captura de pantalla de los iDevices en eXeLearning**

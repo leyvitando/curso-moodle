@@ -14,8 +14,3 @@
 
 ![](img/web2bThumbnail.png)
 
-**iDevice Lupa**
-
-Observa los detalles de esta imagen
-
-## Actividad

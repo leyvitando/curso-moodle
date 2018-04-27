@@ -2,7 +2,7 @@
 # Como aula virtual
 
 ![](img/1371862876_d000792dbc_o.gif)
-|**Fig. 3.83 Obtenida de [Flickr](http://www.flickr.com/photos/13414078@N07/1371862876/sizes/o/in/photostream/). Galería de Microlearning Org.  Licencia CC Atribución**
+**Fig. 3.83 Obtenida de [Flickr](http://www.flickr.com/photos/13414078@N07/1371862876/sizes/o/in/photostream/). Galería de Microlearning Org.  Licencia CC Atribución**
 
 Moodle puede utilizarse como aula virtual, tanto en formación a distancia como en formación presencial o semipresencial. Se puede construir un curso entero o utilizar el aula como apoyo a las clases presenciales.
 
@@ -14,15 +14,13 @@ Para darte una guía, puedes utilizar los tres primeros temas de la página, uno
 
 Empieza creando las etiquetas y ya llegarán los contenidos...
 
-En el apartado de **recursos**, bloque "Los proveedores", hemos hablado de eXeLearning, un gestor de contenidos para editar materiales en HTML, exportarlos como archivos comprimidos (IMS, SCORM) y subirlos a Moodle.
+En el apartado de **recursos**, bloque "Desplegar paquete de contenido IMS", hemos hablado de eXeLearning, un gestor de contenidos para editar materiales en HTML, exportarlos como archivos comprimidos (IMS, SCORM) y subirlos a Moodle.
 
 Aunque no lo tratemos con mucha profundidad, queremos terminar este módulo ofreciéndote la posibilidad de que aprendas a crear tus propios contenidos.
 
 Como eXeLearning tiene un editor HTML semejante al de Moodle, podrás aprovechar lo aprendido para empezar a editar con este gestor de contenidos.
 
 ## Actividad 1
-
- 
 
 Esta actividad es importante porque con ella vas a generar la base sobre la que trabajarás en el resto de los módulos. Sobre lo que hagas ahora deberás añadir actividades, herramientas de comunciación y un calificador para poder evaluar. También añadirás usuarios y conocerás las modalidades de grupos que puedes utilizar en Moodle.
 

@@ -37,42 +37,19 @@ La Barra de menú ofrece las siguientes opciones:** Archivo**, **Herramientas**,
 
 - **Salir **permite cerrar el programa. Recuerde que siempre deberá cerrar el programa desde esta opción.
 
- 
+![Fig. Captura de pantalla del menú Archivo en eXeLearning](img/menu_archivo_exe.png)
 
+**Utilidades** te permite crear tus propios iDevices, configurar las preferencias del proyecto (cambiar el idioma) y actualizar la vista del trabajo.
 
-![](img/menu_archivo_exe.png)
-
-**Fig. 3.89 Captura de pantalla del menú Archivo en eXeLearning**
-
- 
-
-** Herramientas** te permite crear tus propios iDevices, configurar las preferencias del proyecto (cambiar el idioma) y actualizar la vista del trabajo.
-
- 
-
-
-![](img/menu_utilidades_exe.png)
-
-**Fig. 3.90 Captura de pantalla del menú Utilidades en eXeLearning**
-
- 
+![Fig. Captura de pantalla del menú Utilidades en eXeLearning](img/menu_utilidades_exe.png)
 
 ** Estilos** ofrece diferentes plantillas para mostrar el contenido. Los usuarios con conocimientos de HTML y hojas de estilo CSS pueden crear sus propias plantillas.
 
- 
+![Fig. Captura de pantalla del menú Estilos en eXeLearning](img/menu_estilos_exe.png)
 
 
-![](img/menu_estilos_exe.png)
+** Ayuda** ofrece ayuda en línea sobre la herramienta y enlaza al manual de uso.
 
-**Fig. 3.91 Captura de pantalla del menú Estilos en eXeLearning**
-
- 
-
-** Ayuda **ofrece ayuda en línea sobre la herramienta y enlaza al manual de uso.
-
- 
+![Fig. Captura de pantalla del menú Ayuda en eXeLearning](img/menu_ayuda_exe.png)
 
 
-![](img/menu_ayuda_exe.png)
-
-**Fig. 3.92 Captura de pantalla del menú Ayuda en eXeLearning**
