@@ -3,17 +3,12 @@
 
 Cuando los alumnos/as ya están registrados en la plataforma (y tienen por tanto adjudicado un usuario y una contraseña), es relativamente sencillo permitirles el acceso a nuestro curso si no queremos permitir que se matriculen ellos mismos, como proponemos en la **Opción A**.
 
-Para ello debes acceder, en el panel de Administración del menú de la izquierda, a la función **Métodos de matriculación**, como se ha visto en la unidad anterior.
+En el bloque de Administración, despliega la opción **Usuarios **y allí elige la opción **Métodos de matriculación**.
 
+![](/assets/Selección_186.png)
 
-![](img/configurar_metodos_matriculacion.png)
+Si no tienes el bloque de administración, puedes acceder a los "Métodos de matriculación" pulsando "Configuración > Más > Usuarios
 
-**Fig. 4.8. Captura de pantalla. Métodos de matriculación**
-
- 
-
-
-![](img/boton_asignar_roles.png)
 
 En la pantalla que se nos mostrará podremos añadir los usuarios que nos interesen de forma sencilla:
 
