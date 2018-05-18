@@ -38,14 +38,14 @@ Veamos en qué consisten estos tipos de pregunta. No las describimos en el mismo
 
 #### De respuesta de texto:
 
-- **Respuesta corta**: Este tipo de preguntas requieren que el alumno conteste con una palabra o frase corta a un enunciado propuesto.<br/><br/>
-- **Ensayo**:Este tipo de preguntas le quita al cuestionario la característica autoevaluable porque el alumno responde con un texto a una pregunta propuesta por el profesor, éste la revisa y le da una calificación de forma manual.<br/><br/>
+- **Respuesta corta**: Este tipo de preguntas requieren que el alumno conteste con una palabra o frase corta a un enunciado propuesto.
+- **Ensayo**:Este tipo de preguntas le quita al cuestionario la característica autoevaluable porque el alumno responde con un texto a una pregunta propuesta por el profesor, éste la revisa y le da una calificación de forma manual.
 - **Respuestas anidadas (Cloze)**: Esta tipo proporcionan al profesor la posibilidad de enunciar en el mismo texto preguntas de opción múltiple, de respuesta corta o numérica.
 
 #### De emparejamiento:
 
-- **Emparejamiento**: Estas preguntas plantean un enunciado e invitan al alumno a relacionar una serie de elementos “pregunta” con múltiples elementos “respuesta”, de tal forma que ítems y respuestas acaben emparejadas.<br/><br/>
-- **Emparejamiento aleatorio**: Se genera una pregunta de este tipo a partir de las preguntas de tipo “Respuesta Corta” de la misma categoría.<br/><br/>
+- **Emparejamiento**: Estas preguntas plantean un enunciado e invitan al alumno a relacionar una serie de elementos “pregunta” con múltiples elementos “respuesta”, de tal forma que ítems y respuestas acaben emparejadas.
+- **Emparejamiento aleatorio**: Se genera una pregunta de este tipo a partir de las preguntas de tipo “Respuesta Corta” de la misma categoría.
 
 #### De elección:
 
@@ -56,6 +56,3 @@ Veamos en qué consisten estos tipos de pregunta. No las describimos en el mismo
 
 - **Descripción**: Este formato no es un tipo de pregunta en sentido estricto. Se limita a mostrar un texto, gráfico, imagen… sin necesidad de responder. Puede ser útil, por ejemplo, para dar información previa antes de un grupo de preguntas.
 
-## Tarea1
-
-Vas a ir preparando una batería de preguntas para tu práctica final. Piensa en las preguntas que pondrías en un cuestionario. Deberías tener al menos una de cada uno de los tipos de los que hemos presentado en videotutorial.

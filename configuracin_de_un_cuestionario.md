@@ -3,14 +3,9 @@
 
 Vamos a agregar y configurar un cuestionario en Moodle. Para ello, activamos la **edición **y, en el bloque que nos interese pulsamos el botón **Agregar una actividad o un recurso**, seleccionamos **Cuestionario**
 
+![Captura de pantalla. Ventana de inserción de formulario](img/agregar_cuestionario.png)
 
-![](img/agregar_cuestionario.png)
-
-**Fig. 5.29 Captura de pantalla. Ventana de inserción de formulario.**
-
- 
-
-Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opciones:
+Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opciones, entre otros:
 
 1. **General**
 1. **Temporalización**
@@ -18,19 +13,14 @@ Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opc
 1. **Esquema**
 1. **Comportamiento de las preguntas**
 1. **Revisar opciones**
-1. **Mostrar**
+1. **Apariencia**
 1. **Restricciones extra sobre los intentos**
 1. **Retroalimentación global**
 1. **Ajustes comunes del módulo**
 
- 
-
 ### 1. **General**
 
- 
-
-
-![](img/cuestionarios-general.png)
+![](/assets/Selección_248.png)
 
 **Fig. 5.30 Captura de pantalla. General**
 
@@ -40,8 +30,7 @@ Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opc
 
 ### **2. Temporalización**
 
-
-![](img/Cuestionarios-temporalizacion.png)
+![](/assets/Selección_249.png)
 
 **Fig. 5.31 Captura de pantalla. Temporalización**
 
@@ -57,8 +46,7 @@ Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opc
 
 ### 3.  Calificación
 
-
-![](img/cuestionarios-calificacion.png)
+![](/assets/Selección_250.png)
 
 **Fig. 5.32 Captura de pantalla. Calificación.**
 
@@ -88,8 +76,7 @@ Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opc
 
 ### **4. Esquema**
 
-
-![](img/cuestionario-esquema.png)
+![](/assets/Selección_251.png)
 
 **Fig. 5.33 Captura de pantalla. Esquema**
 
@@ -105,8 +92,7 @@ Esta sección especifica cómo se van a presentar las preguntas del cuestionario
 
 ### 5. Comportamiento de las preguntas
 
-
-![](img/cuestionario.comportamiento_de_las_preguntas.png)
+![](/assets/Selección_252.png)
 
 **Fig. 5.34 Captura de pantalla. Compportamiento de las preguntas.**
 
@@ -122,6 +108,8 @@ Esta sección especifica cómo se van a presentar las preguntas del cuestionario
 
 ### 6. Revisar opciones
 
+![](/assets/Selección_253.png)
+
 Estas opciones controlan qué información pueden ver los estudiantes cuando revisan un intento de resolver el cuestionario o cuando consultan los informes del cuestionario.
 
 - **Durante el intento**: los ajustes solo son relevantes en algunas situaciones, como en el caso "interactivo con varios intentos", que pueden mostrar información durante el intento.<br/><br/>
@@ -136,67 +124,13 @@ Para cada uno de estos momentos presenta las mismas opciones que hay que activar
 
 **Fig. 5.35 Captura de pantalla. Revisar opciones**
 
- 
+### Apariencia
 
-### 7. Mostrar
+![](/assets/Selección_254.png)
 
+### Restricciones extra sobre los intentos
 
-![](img/cuestionario-mostrar.png)
-
-**Fig. 5.36 Captura de pantalla. Mostrar.**
-
- 
-
-- **Mostrar la imagen del usuario. **Un ejemplo en el que interesaría hacer esto es en cuestionarios **proctorados** (vigilados en el aula) para hacer más sencillo el verificar la identidad del usuario que intenta el cuestionario.**<br/><br/>**
-- **Decimales en las calificaciones**: Especifica el número de decimales que tendrá la calificación de cada uno de los intentos.<br/><br/>
-- **Decimales en las calificaciones de las preguntas. **Especifica el número de decimales que tendrá la calificación de cada una de las preguntas.**<br/><br/>**
-- **Mostrar bloques durante los intentos: **Si se seleccionamos SÍ, se mostrarán los bloques normales durante los intentos de resolver el cuestionario
-
-###  
-
-### <br/>8. Restricciones extra sobre los intentos
-
-
-![](img/cuestionario-restricciones_sobre_los_intentos.png)
-
-**Fig. 5.37 Captura de pantalla. Restricciones extra sobre los intentos**
-
- 
-
-- **Se requiere contraseña**: Si se especifica, los alumnos tendrán que introducirla para poder realizar cada intento<br/><br/>
-- **Se requiere dirección de red**: Se puede restringir el acceso a un cuestionario a una subred particular en una LAN o en Internet especificando una lista separada por comas de los números parciales o completos del dirección IP. Puede ser útil para casos de cuestionarios sin vigilancia, para asegurar que solo las personas en ciertas ubicaciones pueden acceder al cuestionario<br/><br/>
-- **Forzar demora entre los intentos primero y segundo**: Se puede especificar el tiempo que tendrá que esperar el alumno para poder contestar por segunda vez el cuestionario.<br/><br/>
-- **Forzar demora entre intentos posteriores**: Igualmente puede especificarse un tiempo que deberá esperar el alumno para sucesivos intentos de resolver el cuestionario<br/><br/>
-- **Seguridad del navegador**: Si está seleccionada la "Pantalla completa emergente con cierta seguridad JavaScript",<br/><br/>
-<ul>
-- El cuestionario sólo se iniciará si el estudiante tiene un navegador con JavaScript activado<br/><br/>
-- El cuestionario aparece en una ventana emergente a pantalla completa que cubre todas las otras ventanas y no tiene controles de navegación<br/><br/>
-- Se impide a los estudiantes, en la medida de lo posible, el uso de acciones como copiar y pegar
-
- 
-
-### <br/>9. Retroalimentación global
-
-
-![](img/cuestionario-retroalimentacion_global.png)
-
-**Fig. 5.38 Captura de pantalla. Retroalimentación global**
-
- 
-
-La retroalimentación global consiste en un texto que se muestra al estudiante una vez que ha completado un intento de resolver el cuestionario. El texto puede depender de la calificación que el estudiante haya obtenido.
-
-Los límites de las calificaciones pueden especificarse en forma de porcentajes, por ejemplo "31.41%", o en forma de números, por ejemplo "7". Si el cuestionario tiene 10 notas, un límite de calificación de 7 significa 7/10 o superior.
-
-### <br/>10. Ajustes comunes del módulo
-
-Este apartado ya lo hemos visto al hablar de las tareas. 
-
- 
-
- 
-
-Para terminar debes pulsar sobre el botón **Guardar cambios y regresar al curso**, que te llevará a la página principal del curso, o en el botón **Guardar cambios y mostrar**, lo que te llevará a ver el cuestionario que hemos creado o modificado. También puedes optar por **Cancelar**, con lo que perderás todos los cambios hechos.
+![](/assets/Selección_254.png)
 
 ## Tarea1
 
