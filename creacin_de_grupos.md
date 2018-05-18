@@ -41,15 +41,3 @@ También puedes usar la **vista general** que tienes en la pestaña superior. De
 
 Si ahora vas al **panel de participantes** y seleccionas uno de los grupos, verás, además del listado de miembros, todo lo que hayas añadido: **nombre, descripción, imagen,...**
 
-
-![](img/grupo_con_datos.png)
-
-**Fig. 4.32 Captura de pantalla. Detalle de grupo**
-
- 
-
-Encontrarás una explicación breve de todo esto en el siguiente vídeo tutorial.
-
-
-![](portada_del_videotutorial_editar_grupos..png)
-

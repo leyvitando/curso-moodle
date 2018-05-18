@@ -84,7 +84,7 @@
 
 ## M4 Las actividades en Moodle
 
-* [M5 Las actividades en Moodle](index4.md)
+* [M4 Las actividades en Moodle](index4.md)
 * [Introducción](introduccin4.md)
 * [Contenido](contenido4.md)
   * [U1. Actividades interactivas de un curso Moodle](u1_actividades_interactivas_de_un_curso_moodle.md)

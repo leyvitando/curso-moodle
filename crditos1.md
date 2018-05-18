@@ -7,9 +7,7 @@
 
 Adaptación de Ángel Tambo Santos
 
- 
-
- 
+Adaptación (2018) José Cariñena Burbano.
 
 **© Gobierno de Aragón**
 
