@@ -87,7 +87,6 @@
 * [Introducción](index4.md)
 * [U1. Actividades interactivas de un curso Moodle](u1_actividades_interactivas_de_un_curso_moodle.md)
   * [Tareas](tareas.md)
-    * [Actividad no en línea](actividad_no_en_lnea.md)
     * [Texto en línea](texto_en_lnea.md)
     * [Subir archivos](subir_archivos.md)
     * [Otras opciones para las tareas](otras_opciones_para_las_tareas.md)
