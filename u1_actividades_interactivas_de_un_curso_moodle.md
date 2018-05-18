@@ -1,32 +1,20 @@
 
 # U1. Actividades interactivas de un curso Moodle
 
-Moodle dispone de un menú muy completo de actividades que podemos incluir en nuestros cursos y que nos permiten realizar un aprendizaje interactivo: tareas, talleres, blog, foros, glosario, lecciones, etc. La primera vez que entres en un nuevo curso solo se mostrará el foro Novedades. Para añadir otro tipo de actividades deberás incluirlas desde el bloque del mismo nombre. Para acceder a este menú, como ya has podido ver, debes ****activar edición**** desde el bloque **Administración**.
+Moodle dispone de un menú muy completo de actividades que podemos incluir en nuestros cursos y que nos permiten realizar un aprendizaje interactivo: tareas, talleres, blog, foros, glosario, lecciones, etc. La primera vez que entres en un nuevo curso solo se mostrará el foro Novedades. Para añadir otro tipo de actividades deberás incluirlas desde el bloque del mismo nombre. Para acceder a este menú, como ya has podido ver, debes **activar edición** desde el menú de **Administración**.
 
 
-![](img/activar_edicion.png)
+![](/assets/Selección_112.png)
 
-**Fig. 5.1 Captura de pantalla. Bloque Administración**
+Entonces verás que en cada tema aparecen un botón para añadir una nueva actividad:
 
- 
-
-Entonces verás que en cada tema aparecen dos menús desplegables que corresponden a Recursos y a Actividades.
-
-
-![](img/anadir_actividad.png)
-
-**Fig. 5.2 Captura de pantalla. Detalle del enlace de inserción de actividades**
+![](/assets/Selección_144.png)
 
  
-
 Al pulsar sobre este enlace aparece una ventana emergente con la lista de actividades y recursos que podemos incluir en nuestro curso:
 
+![Captura de pantalla. Ventana de inserción de actividades](img/lista_de_actividades.png)
 
-![](img/lista_de_actividades.png)
-
-**Fig. 5.3 Captura de pantalla. Ventana de inserción de actividades**
-
- 
 
 Este menú te muestra todas las posibilidades disponibles en tu curso. Puedes disponer de más actividades mediante la descarga de módulos no estándar de Moodle.
 
