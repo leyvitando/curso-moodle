@@ -131,13 +131,3 @@ Puedes ver de forma más gráfica la creación de este recurso en el siguiente v
 
 {% youtube %} https://www.youtube.com/watch?v=bjC99KRiYHw {% endyoutube %}
 
-
-## Actividad 4
-
-Crea una página web que contenga:
-
-- Un enlace externo.
-- Una imagen.
-- Una tabla de, al menos, 3 columnas y 3 filas.
-
-Insistimos en lo de siempre. Procura que lo que hagas sea "real", es decir, que te sirva para tu proyecto final. Así tendrás camino ya andado.
