@@ -2,11 +2,11 @@
 # Glosario
 
 ![](img/diccionario.jpg)
-|**Fig. 5.44 Obtenida de [Pixabay](http://pixabay.com/en/business-trade-definition-1799/). Licencia CC0**
+**Obtenida de [Pixabay](http://pixabay.com/en/business-trade-definition-1799/). Licencia CC0**
 
 Esta actividad permite a los participantes hacer un listado de términos del curso con sus definiciones.
 
-Las entradas pueden buscarse o navegarse de diferentes maneras.<br/> <br/> El glosario también permite a los profesores exportar las entradas de un glosario a otro (el principal) dentro del mismo curso.<br/> <br/> Finalmente, es posible crear automáticamente enlaces a estas entradas en todo el curso.
+Las entradas pueden buscarse o navegarse de diferentes maneras. El glosario también permite a los profesores exportar las entradas de un glosario a otro (el principal) dentro del mismo curso. Finalmente, es posible crear automáticamente enlaces a estas entradas en todo el curso.
 
 Características de un glosario
 

@@ -15,10 +15,19 @@ Podemos insertar preguntas de las que tenemos guardadas en el Banco de Preguntas
 
 Tras seleccionar las preguntas que queremos insertar(**1** y **2**) y pinchar después el botón **Añadir a cuestionario** (**3**). Las preguntas seleccionadas pasarán a formar parte del cuestionario.
 
-![Captura de pantalla. Preguntas del cuestionario](/assets/Selección_266.png)
+![Captura de pantalla. Preguntas del cuestionario](/assets/Selección_266b.png)
  
 Cada una de ellas podremos verla, configurarla, moverla o quitarla del cuestionario.
 
-
+Aquí tienes un videotutorial en el que se explican con detalle los cuestionarios.
 
 {% youtube %} https://www.youtube.com/watch?v=ZE15P1ahjiI {% endyoutube %}
+
+## Para saber más: Importar cuestionarios desde un archivo de texto.
+
+Si tienes cuestionarios grandes en archivos de texto, puede ser un proceso largo y repetitivo pasarlos a moodle rellenando las preguntas una a una.
+
+En esos casos es mejor hacer una importaciçon automática.
+
+[En este documento](http://serviciosgate.upm.es/docs/moodle/importar_preguntas.pdf) se explican las diferentes formas de hacerlo.
+
