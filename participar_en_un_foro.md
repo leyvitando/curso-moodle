@@ -1,7 +1,7 @@
 
 # Participar en un foro
 
-El foro aparecerá en el bloque de **Actividades**, **Foros **y también en el tema del curso en el que lo hemos añadido: **Foro de la evaluación 1.**
+El foro aparecerá en el tema del curso en el que lo hemos añadido: **Foro de la evaluación 1.**
 
 
 ![](img/foros-acceso_a_foros.png)

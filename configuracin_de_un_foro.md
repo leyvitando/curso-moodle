@@ -1,16 +1,11 @@
 
 # Configuración de un foro
 
-Al añadir un curso, se crea siempre un F**oro de novedades** sólo modificable por el docente (los alumnos/as solo pueden leer). Podemos utilizarlo para plantear preguntas, dinamizar actividades, debatir sobre temas concretos, etc.
+Al añadir un curso, se crea siempre un **![](assets/Selección_108.png)Foro de novedades** sólo modificable por el docente (los alumnos/as solo pueden leer). Podemos utilizarlo para plantear preguntas, dinamizar actividades, debatir sobre temas concretos, etc.
 
 Para añadir** un foro a un curso**, hemos de pinchar en el enlace **Añadir una actividad o un recurso** del tema correspondiente y elegir **Foro** en la ventana de elección de tipo de actividad**:**
 
-
-![](img/foros-agregar_foro.png)
-
-**Fig. 5.57 Captura de pantalla. Ventana de inserción de un foro.**
-
- 
+![Captura de pantalla. Ventana de inserción de un foro.](img/foros-agregar_foro.png)
 
 Se abre un cuadro de diálogo con los apartados siguientes:
 
@@ -22,16 +17,9 @@ Se abre un cuadro de diálogo con los apartados siguientes:
 1. **Calificaciones**
 1. **Ajustes comunes del módulo**
 
- 
-
 ### **1. General**
 
-
-![](img/foros-general.png)
-
-**Fig. 5.58 Captura de pantalla. General.**
-
- 
+![Captura de pantalla. General.](/assets/Selección_276.png)
 
 Hemos de rellenar los siguientes campos:
 
@@ -40,16 +28,9 @@ Hemos de rellenar los siguientes campos:
 - **Muestra la descripción en la página del curso**: Marcas esta opción si queremos que la descripción del foro se vea también en la página inicial del curso.
 - **Tipo de foro:** a elegir entre los tipos de foros que hemos comentado en el anterior capítulo.
 
- 
-
 ### 2. Adjuntos y recuento de palabras
 
-
-![](img/foros-_adjuntos_y_recuento_de_palabras.png)
-
-**Fig. 5.59 Captura de pantalla. Adjuntos y recuento de palabras.**
-
- 
+![Captura de pantalla. Adjuntos y recuento de palabras.](/assets/Selección_277.png) 
 
 Tendremos que decidir sobre las siguientes cuestiones:
 
@@ -61,23 +42,20 @@ Tendremos que decidir sobre las siguientes cuestiones:
 
 ### 3. Suscripción y seguimiento
 
-
-![](img/666f726f732d737573637269706369c3b36e5f795f73656775696d69656e746f.png)
-
-**Fig. 5.60 Captura de pantalla. Suscripción y seguimiento.**
-
- 
+![Captura de pantalla. Suscripción y seguimiento.](/assets/Selección_278.png) 
 
 La suscripción a los foros supone que el usuario suscrito recibe una copia de los mensajes a ese moro en su correo electrónico.
 
 Hay que definir:
 
-<li>**Modalidad de suscripción**: Determina cómo se van a suscribir los usuarios:
-<ul>
+**Modalidad de suscripción**: Determina cómo se van a suscribir los usuarios:
+
 - **Opcional**: Los usuarios pueden elegir si desean suscribirse o no.
 - **Forzosa**: Todos están suscritos y no puede darse de baja.
 - **Automática**: Todos están suscritos inicialmente pero cada usuario puede desactivar la suscripción en cualquier momento.
-- **Desactivada**: No se permiten suscripciones.<br/><br/>
+- **Deshabilitada**: No se permiten suscripciones.<br/><br/>
+
+**Rastreo de lectura**
 
 - **Opcional**: los alumnos pueden activar o desactivar el seguimiento a su discreción.
 - **Conectado**: El seguimiento siempre está activo.
@@ -85,14 +63,9 @@ Hay que definir:
 
  
 
-### 4. Umbral de mensajes para bloqueo
+### 4. Bloqueos
 
-
-![](img/foros-umbral_de_mensajes.png)
-
-**Fig. 5.61 Captura de pantalla. Umbral de mensajes para bloqueo.**
-
- 
+![Captura de pantalla. Bloqueando discusión y Umbral de mensajes para bloqueo](/assets/Selección_279.png) 
 
 Consiste en **impedir a los usuarios enviar mensajes después que hayan enviado cierto número de ellos en un período determinado** y, conforme se aproximan a ese número, se les advertirá de que se están acercando al límite permitido. Si se desactiva el bloqueo, también se desactivarán las advertencias. **Ninguno de estos ajustes afecta a los mensajes enviados por los profesores/as**.
 
@@ -103,27 +76,15 @@ Consiste en **impedir a los usuarios enviar mensajes después que hayan enviado 
 
 ### 5. Calificación
 
-
-![](img/foros-calificacion.png)
-
-**Fig. 5.62 Captura de pantalla. Calificación.**
-
- 
+![Captura de pantalla Calificación](/assets/Selección_280.png) 
 
 - **Categoría de la calificación**: Permite establecer a qué categoría del libro de calificaciones irán las correspondientes a esta actividad.
 
- 
-
 ### 6. Calificaciones
 
-
-![](img/foros-calificaciones.png)
-
-**Fig. 5.63 Captura de pantalla. Calificaciones.**
-
+![Captura de pantalla Calificaciones](/assets/Selección_280.png) 
  
-
-- **Roles con permiso para calificar**: Esto realmente no es una opción, sino que informa de quiénes pueden calificar el glosario. Se establece en el enlace a **Permisos** del **Bloque Configuración**.
+- **Roles con permiso para calificar**: Esto realmente no es una opción, sino que informa de quiénes pueden calificar el glosario. Se establece en la página **Permisos**.
 - **Tipos de consolidación**: Define cómo se toman las calificaciones para establecer la calificación global de la actividad. Si se elige "No hay valoraciones" la nota de esta actividad no aparecerá en el libro de calificaciones.
 - **Escala**: Se pueden elegir escalas personales (creadas desde el enlace a Calificaciones del bloque Administración del curso) o numérica. Si elegimos un valor numérico, la calificación máxima no podrá superar el valor elegido.
 - **Limitar las calificaciones a los elementos con fechas en este rango**: Las calificaciones se pueden restringir a un intervalo de tiempo.
@@ -132,21 +93,8 @@ Consiste en **impedir a los usuarios enviar mensajes después que hayan enviado 
 
 ### 7. Ajustes comunes del módulo
 
-
-![](img/foros-ajustes_generales_del_modulo.png)
-
-**Fig. 5.64 Captura de pantalla. Ajustes comunes del módulo.**
-
- 
+![Captura de pantalla Ajustes comunes del módulo](/assets/Selección_281.png) 
 
 Aquí pueden cambiarse los ajustes predeterminados que tiene el módulo. Los cambios sólo afectarán a este foro.
 
- 
-
 Una vez rellenados todos los campos necesarios se **guardan** los cambios.
-
- 
-
-## Tarea1
-
-Crea un foro para uso general en tu curso.
