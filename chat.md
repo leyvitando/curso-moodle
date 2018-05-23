@@ -4,7 +4,7 @@
 ![](img/chat.png)
 |**Fig. 5.70 Obtenida de [Pixabay](http://pixabay.com/en/icon-blue-chat-shapes-out-free-35342/). Licencia CC0**
 
-**La charla o ****chat **es otra de las actividades más importantes de **aprendizaje interactivo **de un curso Moodle ya que permite a los participantes mantener una conversación escrita en tiempo real.
+**La charla o chat** es otra de las actividades más importantes de **aprendizaje interactivo** de un curso de Moodle ya que permite a los participantes mantener una conversación escrita en tiempo real.
 
 Su utilidad varía mucho según el curso sea totalmente a distancia o no. Su aplicación suele ser más relevante en un curso totalmente a distancia o cuando el curso contiene grupos que no coinciden en las mismas clases presenciales.
 

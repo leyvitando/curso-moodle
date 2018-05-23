@@ -3,12 +3,7 @@
 
 Al acceder a un **chat **se muestra la pantalla:
 
-
-![](img/chat-entrar.png)
-
-**Fig. 5.76 Captura de pantalla. Entrada al chat.**
-
- 
+![Captura de pantalla. Entrada al cha](/assets/Selección_290.png)
 
 Hacemos clic en **Entrar en la sala**.
 
@@ -21,30 +16,9 @@ Se muestra una pantalla que se divide en dos partes:
 
 Por debajo, aparece un **cuadro de texto**, en el que podemos **escribir el mensaje** que deseamos enviar a la página de la sesión del Chat.
 
-
-![](img/chat-sala1.png)
-
-**Fig. 5.77 Captura de pantalla. Ventana de chat.**
-
- 
+![Captura de pantalla. Ventana de chat.](/assets/Moodle3.2: chat del curso - Google Chrome_291.png)
 
 Después de escribir nuestro mensaje, hacemos clic en la tecla **ENTER **y el texto aparecerá en la **lista de mensajes**. Después de unos instantes, será visible para los asistentes de la sala de chat.
-
-
-![](img/chat-sala2.png)
-
-**Fig. 5.77 Captura de pantalla. Detalle de conversación.**
-
- 
-
-A continuación tenemos una imagen con la intervención de un alumno/a:
-
-
-![](img/chat-sala3.png)
-
-**Fig. 5.78 Captura de pantalla. Detalle de conversación.**
-
- 
 
 Podemos utilizar las siguientes facilidades durante el chat:
 
@@ -58,7 +32,7 @@ Podemos utilizar las siguientes facilidades durante el chat:
 
 ### Guardar sesiones de chat
 
-Nos muestra los registros de las anteriores sesiones de Chat. Sólo nos muestra las sesiones anteriores determinadas por la opción de **Guardar sesiones pasadas** en la configuración del Chat. Su visualización para el alumnado depende de la opción seleccionada en **Todos **pueden ver las sesiones pasadas.
+Nos muestra los registros de las anteriores sesiones de Chat. Sólo nos muestra las sesiones anteriores determinadas por la opción de **Guardar sesiones pasadas** en la configuración del Chat. Su visualización para el alumnado depende de la opción seleccionada en **Todos** pueden ver las sesiones pasadas.
 
 El listado de las sesiones antiguas nos muestra de cada sesión de chat:
 
@@ -66,11 +40,9 @@ El listado de las sesiones antiguas nos muestra de cada sesión de chat:
 
 - Los **usuarios que participaron** el la sala de Chat seguido con el número de intervenciones entre paréntesis.
 
-<li>Finalmente tenemos dos enlaces para: <br/> <br/>
-<ul>
+Finalmente tenemos dos enlaces para:
+
 - **Ver esta sesión.**
 - **Borrar esta sesión.**
 
-## Tarea1
-
-Abre tu moodle en dos navegadores distintos. En uno de ellos entra como profesor/a y en el otro como alumno/a. Haz varias intervenciones en el chat.
+![](/assets/Selección_292.png)

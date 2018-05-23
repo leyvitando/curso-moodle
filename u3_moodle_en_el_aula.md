@@ -1,5 +1,5 @@
 
-# U3. Moodle en el aula
+# Moodle en el aula
 
 ### Usos básicos de Moodle en la enseñanza presencial
 
