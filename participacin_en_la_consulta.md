@@ -14,7 +14,6 @@ Cuando los alumnos/as hayan contestado la consulta, el profesor/a podrá ver los
 
 Para ello entra en la **consulta **y pincha en **Ver respuestas**
 
-![](/assets/Selección_296.png)
 Desde este menú puede:
 
 - **Seleccionar votos y Borrarlas**.
