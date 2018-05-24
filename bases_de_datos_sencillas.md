@@ -2,7 +2,7 @@
 # Bases de datos sencillas
 
 ![](img/database.png)
-|**Fig. 5.89 Obtenida de [Pixabay](http://pixabay.com/en/computer-database-network-server-156948/). Licencia CC0**
+**Obtenida de [Pixabay](http://pixabay.com/en/computer-database-network-server-156948/). Licencia CC0**
 
 Esta actividad permite que los usuarios incorporen datos en un formulario diseñado por el profesor/a del curso. Las entradas se pueden clasificar, buscar,... y pueden contener el texto, imágenes y otros formatos de información.
 
@@ -17,8 +17,6 @@ Tiene diferentes tipos de campos:
 - **Menú (Selección múltiple)**
 - **Botón de marcar (Checkbox)**
 - **Botones de elección (Radio buttons)**
-
- 
 
 ### Las características más importantes de una base de datos son
 

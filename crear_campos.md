@@ -3,23 +3,14 @@
 
 Haciendo clic en **Guardar cambios y mostrar **aparece la siguiente pantalla:
 
-
-![](img/bd-agregar_campo.png)
-
-**Fig. 5.94 Captura de pantalla. Creación de campos.**
-
- 
+![Captura de pantalla. Creación de campos.](/assets/Selección_301.png) 
 
 Vamos a crear campos para esta base de datos.
 
 - **Crear un nuevo campo:** En esta pantalla puede crear los campos que formarán parte de su base de datos. Cada campo admite distintos tipos de datos, con diferentes interfaces. Se puede elegir entre:
 
 
-![](img/bd-tipos_de_campo.png)
-
-**Fig. 5.95 Captura de pantalla. Tipos de campos.**
-
- 
+![Captura de pantalla. Tipos de campos](img/bd-tipos_de_campo.png)
 
 ### Tipos de campos
 
@@ -27,7 +18,7 @@ Vamos a crear campos para esta base de datos.
 
 - **Botones de radio: **Permite al usuario **escoger una de diversas opciones**. Además, tan sólo podrá guardar la entrada cuando haya realizado la selección. Si sólo hay dos opciones opuestas (por ejemplo verdadero/falso, sí/no), se puede utilizar una caja de selección múltiple, aunque de esta manera se podrán guardar entradas aunque el usuario no haya seleccionado ninguna de las opciones.
 
-- **Campo de texto**: Los usuarios pueden escribir hasta** 60 caracteres de texto**. El **campo área de texto** se puede utilizar para **textos más largos** o que requieran algún tipo de formato.<br/><br/>
+- **Campo de texto**: Los usuarios pueden escribir hasta** 60 caracteres de texto**. El **campo área de texto** se puede utilizar para **textos más largos** o que requieran algún tipo de formato.
 - **Caja de selección:** Permite crear una o más cajas de selección. Cada línea escrita en las "opciones" aparecerá como una caja de selección diferente en la ventana de edición de la entrada. Al editar la entrada podremos seleccionar una o más de las opciones y al visualizar la entrada aparecerá en el campo correspondiente el texto de la o las opción/es seleccionada/s (en el caso de que se haya seleccionado más de una opción aparecerán la una bajo la otra, no en la misma línea). Los Botones de radio se pueden utilizar si se desea que el usuario, al editar la entrada, seleccione tan sólo una de las opciones.
 
 - **Fecha**: Permite que los usuarios entren una fecha seleccionando en un listado desplegable el día, mes y año correspondientes.<br/><br/>
@@ -54,28 +45,14 @@ De acuerdo con la pregunta formulada tendremos que poner a disposición de los a
 
 Vamos a crear el campo **Nombre y apellidos** como campo de texto. Seleccionamos **texto **y aparece la pantalla:
 
-
-![](img/bd-campo_texto.png)
-
-**Fig. 5.96 Captura de pantalla. Creación de campo de texto.**
-
- 
+![Captura de pantalla. Creación de campo de texto](/assets/Selección_302.png)
 
 Todos los campos necesitan un nombre y una descripción cuando se crean.
 
 Pinchando en **Agregar **aparece el nuevo campo creado y podemos seguir añadiendo campos.
 
-
-![](img/bd-campos.png)
-
-**Fig. 5.97 Captura de pantalla. Campos.**
-
- 
+![Captura de pantalla. Campos](/assets/Selección_303.png)
 
 Desde esta ventana podemos volver a **editar **cualquiera de los campos o **eliminarlos**.
 
 La base de datos ya está disponible para añadir entradas.
-
-## Tarea1
-
-Configura una base de datos para tu curso que contenga al menos tres campos a rellenar por tus alumnos/as.
