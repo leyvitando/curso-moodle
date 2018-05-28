@@ -1,5 +1,27 @@
 
-# U1. El libro de calificaciones
+# U1 Configuración de calificaciones.
+
+Como hemos visto, la calificación de cada actividad, se configura en cada una de las actividades seleccionando "editar ajustes".
+
+Cada actividad puede evaluarse con una escala diferente. Moodle otorga por defecto  a cada actividad una ponderación en la calificación correspondiente a su nota máxima dividida por la suma de todas las notas que se pueden alcanzar.
+
+Esto puede modificarse en la configuración de calificaciones:
+
+![](/assets/Selección_311.png)
+
+Al acceder a la configuracición de calificaciones no muestra una lista de las actividades evaluables de nuestro curso de moodle. Cada una de ellas muestra un valor en la columna "Ponderaciones" que es el % de la calificación final de la actividad. Ese % se ajusta automáticamente por moodle en función de la Calificación máxima (en la siguiente columna).
+
+![](/assets/Selección_313.png)
+
+En esta imagen se ve un curso con 3 actividades con calificación máxima 100, 100 y 10 respectivamente. Si no se indica lo contrario, moodle interpreta que el curso es sobre 210 puntos en total y por tanto la primera actividad vale 100/210 de la nota, un 47%.
+
+Esta ponderación se puede modificar pulsando en la checkbox situada junto a ella.
+
+En la parte superior de la Configuración de calificaciones hay un menú desplegable que te permite recorrer las diferentes pantallas relacionadas con la calificación:
+
+![](/assets/Selección_315.png)
+
+
 
 Todas las calificaciones obtenidas por los alumnos matriculados en un curso se recogen en el libro de calificaciones. Puedes acceder al calificador de varias formas.
 

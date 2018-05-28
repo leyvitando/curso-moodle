@@ -114,11 +114,12 @@
     * [Participar en una base de datos](participar_en_una_base_de_datos.md)
 * [Créditos](crditos4.md)
 
-## M5. El calificador, rastro de finalización e insignias.
+## M5. El calificador, rastreo de finalización e insignias.
 
 * [Introducción](introduccin5.md)
-* [U1. El libro de calificaciones](u1_el_libro_de_calificaciones.md)
-  * [Exportar el libro de calificaciones](exportar_el_libro_de_calificaciones.md)
+* [U1. Configuración de calificaciones](u1_el_libro_de_calificaciones.md)
+  * [Ajustes de la calificación del curso](ajustes-de-la-calificacion-del-curso.md)
+  * [Preferencias del informe del calificador](preferencias-del-informe-del-calificador.md)
 * [U2. Escalas de calificación](u2_escalas_de_calificacin.md)
 * [U3. Calificación con letras](u3_calificacin_con_letras.md)
 * [U4. Calificar una actividad](u4_calificar_una_actividad.md)
