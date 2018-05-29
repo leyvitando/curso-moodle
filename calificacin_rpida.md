@@ -1,31 +1,37 @@
+# Foros Calificables.
 
-# Calificación rápida
+Es posible convertir un Foro en una actividad evaluable. Esto permite potenciar la participación en los foros y permite también que la retroalimentación que ofrezca el profesor a un alumno en una entrega de un trabajo sea aprovechada por todos los alumnos, esto se puede emplear no sólo con mensajes sino con cualquier tipo de archivo adjunto en mensajes de foros.
 
-La calificación de las tareas también puede configurarse con la opción Calificación rápida. Opción disponible en la parte inferior del calificador. Para ello, marca la casilla correspondiente y haz clic en el botón “Guardar preferencias”.
+Otra utilidad muy interesante de los foros calificables es permitir la coevaluación, que se puede conseguir configurando el permiso a los estudiantes para evaluar un foro.
 
+## Configurando la calificación de un foro.
 
-![](img/calificador-calificacion_rapida.png)
+Para configurar la calificación, basta con ir al menú "editar ajustes" del foro.
 
-**Fig. 6.25 Captura de pantalla. Calificador.**
+Una ve ahí, observamos que hay dos secciones relacionadas, Calificación y Calificaciones.
 
- 
+![](/assets/Selección_330.png)
 
-La vista del calificador con el modo de calificación rápida es la siguiente:
+En "Calificaciones" debemos configurar primero el tipo de consolidación para convertir el foro en calificable
 
+Pulsando el interrogante junto a "Tipo de consolidación" nos explica las diferentes opciones:
 
-![](img/calificador-calificacion_rapida_2.png)
+![](/assets/Selección_332.png)
 
-**Fig. 6.26 Captura de pantalla. Calificador con calificación rápida.**
+Una vez seleccionado un tipo de consolidación, podemos ya elegir la calificación para aprobar en la sección "Calificación".
 
- 
+Si queremos que haya coevaluación y los alumnos puedan calificar los mensajes de sus compañeros, tenemos que entrar en el foro y desde ahí, en el menú desplegable seleccionar "Permisos"
 
-El modo de calificación rápida te permite calificar las tareas sin necesidad de acceder a la pantalla de retroalimentación de cada uno de los alumnos/as. Puedes escribir un comentario directamente y activar la calificación pulsando sobre el icono que aparece en la columna **Editar**, y hacerlo de forma sucesiva con varios alumnos/as. Una vez realizadas las calificaciones será necesario guardar los cambios haciendo clic en el botón correspondiente.
+![](/assets/Selección_334.png)
 
- 
+Una vez ahí, hay que bajar hasta "Calificar mensajes" y pulsar "+"
 
- 
+![](/assets/Selección_336.png)
 
-## Tarea1
+Basta luego con seleccionar "Estudiante" y con esto ya podrán calificar los mensajes.
 
-Activa la calificación rápida y accede a la calificación de algunas de las tareas. 
+## Calificando un foro.
 
+Para calificar un mensaje de un foro, basta con entrar en el hilo donde se encuentre y desplegar las posibles calificaciones que podemos asignar (en función de la escala) y elegir una.
+
+![](/assets/Selección_337.png)
