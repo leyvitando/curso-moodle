@@ -126,6 +126,9 @@
   * [Foros calificables](calificacin_rpida.md)
   * [Calificación de cuestionarios](calificacion-de-cuestionarios.md)
 * [U3. Categorías de calificación](u6_categoras_de_calificacin.md)
-  * [Crear y asignar categorías](crear_y_asignar_categoras.md)
+* [U4. Rastreo de Finalización](u4-rastreo-de-finalizacion.md)
+  * [Informe de finalización](u4-rastreo-de-finalizacion/informe-de-finalizacion.md)
+  * [Bloque de progreso de completado](u4-rastreo-de-finalizacion/bloque-de-progreso-de-completado.md)
+  * [Finalización del curso](u4-rastreo-de-finalizacion/finalizacion-del-curso.md)
 * [U7. Insignias](u7_insignias.md)
 

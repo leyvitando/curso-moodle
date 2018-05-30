@@ -37,23 +37,11 @@ Algunas de las opciones
 
 Hay más opciones ocultas que aparecerán pulsando en el correspondiente enlace "**Ver más...**" de cada uno de los bloques.
 
-Si, al crear una nueva categoría, ya había otra u otras creadas antes, parecerá una nueva opción que permitirá convertirla directamente en subcategoría de una de las anteriores. Por defecto se crea como subcategoría de la categoría general del curso.
 
 Después no tenemos más que pinchar en el botón **Guardar cambios**.
 
-Las categoría creadas aparecerán vacías. Tendremos que incluir en ellas los items de evaluación que les correspondan:
+Para mover actividades a categorías de calificación, se seleccionan marcando su "checkbox" y se despliega el menú **"mover los items seleccionados a"**
 
-
-![](img/categorias-incluir_items_en_categoria.png)
-
-**Fig. 6.35 Captura de pantalla. Categorías de calificación**
-
+![](/assets/Selección_340.png)
  
-
-Para ello hemos marcado las que nos interesaban y, bajo la lista de items hemos elegido en el desplegable la categoría en la que queremos incluirlos. Repetimos el proceso con todos los items que queremos incluir en una categoría. Así quedaría nuestro curso tras la creación de dos categorías:
-
-
-![](img/categorias-items_organizados.png)
-
-**Fig. 6.36 Captura de pantalla. Categorías de calificación**
 
