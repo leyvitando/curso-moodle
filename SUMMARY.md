@@ -130,5 +130,6 @@
   * [Informe de finalización](u4-rastreo-de-finalizacion/informe-de-finalizacion.md)
   * [Bloque de progreso de completado](u4-rastreo-de-finalizacion/bloque-de-progreso-de-completado.md)
   * [Finalización del curso](u4-rastreo-de-finalizacion/finalizacion-del-curso.md)
-* [U7. Insignias](u7_insignias.md)
+* [U5. Insignias](u7_insignias.md)
+* [Créditos](creditos.md)
 
