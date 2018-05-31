@@ -16,7 +16,7 @@ Moddle es, además, software libre, con lo que en el actual desarrollo de la pla
 
 El sitio de Moodle en Internet es [http://moodle.org/](http://moodle.org/), al que debe acudirse para bajar el programa y obtener información.
 
-La documentación sobre la plataforma Moodle puedes encontrarla publicada en castellano en [http://docs.moodle.org/es/](http://docs.moodle.org/es/)
+La documentación sobre la plataforma Moodle puedes encontrarla publicada en castellano en [http://docs.moodle.org/es/](http://docs.moodle.org/es/).
 
  
 
