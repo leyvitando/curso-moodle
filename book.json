@@ -1,1 +1,20 @@
-{ "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"], "pluginsConfig": { "image-captions": { "caption": "Imagen - _CAPTION_" }, "localized-footer": { "hline": true, "filename": "./FOOTER.md" } } }
+{
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Moodle 3.2 para la enseñanza",
+        "author": "Área de Formación en Red del INTEF. Adaptación de Ángel Tambo Santos",
+        "collaborators": [
+            { "name": "José Cariñena Burbano.", "edited": "Adaptación (2018)" }
+        ]
+    },
+    "pluginsConfig": {
+        "image-captions": {
+            "caption": "Imagen - _CAPTION_"
+        },
+        "localized-footer": {
+            "hline": true,
+            "filename": "./FOOTER.md"
+        }
+    }
+}

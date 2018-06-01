@@ -12,7 +12,6 @@
   * [El tema](el_tema.md)
   * [Las columnas](las_columnas.md)
 * [Añadiendo bloques](u2_aadiendo_bloques.md)
-* [Créditos](crditos1.md)
 
 ## M2. Los recursos de Moodle
 
@@ -52,7 +51,6 @@
   * [Combinación de paquetes](combinacin_de_paquetes.md)
   * [Formatos de exportación](formatos_de_exportacin.md)
   * [Saber más](saber_ms.md)
-* [Créditos](crditos2.md)
 
 ## M3 Gestión de Usuarios en Moodle
 
@@ -80,7 +78,6 @@
   * [Agregar Bloque Mensajería](agregar_bloque_mensajera.md)
   * [Como usar la Mensajería](como_usar_la_mensajera.md)
   * [Ajustes y Configuración](ajustes_y_configuracin.md)
-* [Créditos](crditos3.md)
 
 ## M4 Las actividades en Moodle
 
@@ -112,7 +109,6 @@
     * [Configuración de una base de datos](configuracin_de_una_base_de_datos.md)
     * [Crear campos](crear_campos.md)
     * [Participar en una base de datos](participar_en_una_base_de_datos.md)
-* [Créditos](crditos4.md)
 
 ## M5. El calificador, rastreo de finalización e insignias.
 
@@ -131,5 +127,7 @@
   * [Bloque de progreso de completado](u4-rastreo-de-finalizacion/bloque-de-progreso-de-completado.md)
   * [Finalización del curso](u4-rastreo-de-finalizacion/finalizacion-del-curso.md)
 * [U5. Insignias](u7_insignias.md)
+
+___
 * [Créditos](creditos.md)
 

@@ -2,16 +2,17 @@
 
 ## Autoría
 
-Área de Formación en Red del INTEF.
+* {{ book.author }}
 
-Adaptación de Ángel Tambo Santos
-Adaptación de José Cariñena Burbano 2018
+### Colaboradores:
 
- 
+{% for collaborator in book.collaborators %}
+* {{collaborator.name}} en {{collaborator.edited}}
+{% endfor %}
 
- 
+___
 
-**© Gobierno de Aragón**
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
 
 **Materiales cofinanciados por Fondo Social Europeo**
 
