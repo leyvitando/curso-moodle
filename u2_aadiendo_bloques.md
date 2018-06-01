@@ -36,5 +36,5 @@ Un bloque más complicado de insertar pero muy útil en la interacción con alum
 
 Se hace de la siguiente forma:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpGSUxkTJi4o7y0nMljlQ0ua_C2pGTCjQ28C6KoOtoJhl_E027DbIkLpDv1hAW0-dsdBNYlJyQa9WB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTpGSUxkTJi4o7y0nMljlQ0ua_C2pGTCjQ28C6KoOtoJhl_E027DbIkLpDv1hAW0-dsdBNYlJyQa9WB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
