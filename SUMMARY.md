@@ -3,7 +3,6 @@
 * [Introducción](README.md)
 
 ## M1. Introducción.
-
 * [Introducción](introduccin.md)
 * [Moodle en el aula](u3_moodle_en_el_aula.md)
 * [El entorno de un curso: Las columnas de Moodle](introduccin1.md)
@@ -14,7 +13,6 @@
 * [Añadiendo bloques](u2_aadiendo_bloques.md)
 
 ## M2. Los recursos de Moodle
-
 * [Introducción](introduccin2.md)
 * [El sistema de archivos](u1_el_sistema_de_archivos.md)
   * [Crear una carpeta](crear_una_carpeta.md)
@@ -53,7 +51,6 @@
   * [Saber más](saber_ms.md)
 
 ## M3 Gestión de Usuarios en Moodle
-
 * [Introducción](introduccin3.md)
 * [U1. Matriculación](u1_matriculacin.md)
   * [El alumno puede matricularse por sí mismo](el_alumno_puede_matricularse_por_s_mismo.md)
@@ -80,7 +77,6 @@
   * [Ajustes y Configuración](ajustes_y_configuracin.md)
 
 ## M4 Las actividades en Moodle
-
 * [Introducción](index4.md)
 * [U1. Actividades interactivas de un curso Moodle](u1_actividades_interactivas_de_un_curso_moodle.md)
   * [Tareas](tareas.md)
@@ -111,7 +107,6 @@
     * [Participar en una base de datos](participar_en_una_base_de_datos.md)
 
 ## M5. El calificador, rastreo de finalización e insignias.
-
 * [Introducción](introduccin5.md)
 * [U1. Configuración de calificaciones](u1_el_libro_de_calificaciones.md)
   * [Ajustes de la calificación del curso](ajustes-de-la-calificacion-del-curso.md)
