@@ -25,7 +25,7 @@ Tras la etiqueta de Lecturas vamos a añadir una página con indicaciones genera
 
 1. Para las** lecturas** hemos buscado en Google documentos en PDF de obras clásicas que están incluidas en la programación de 3º ESO:
 
-![Fig. Captura de pantalla de búsqueda en Google.](img/buscar_en_google.png)
+![Fig. Captura de pantalla de búsqueda en Google.](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/buscar_en_google.png)
 
 
 Guardamos el archivo en nuestro ordenador y lo subimos al sistema de archivos de Moodle.
@@ -34,7 +34,7 @@ Enlazamos el documento, utilizando la página de edición para el recurso **Enla
 
 Como queremos dar la posibilidad de que se descarguen un documento de nuestra página de Moodle, conviene que activemos **Forzar descarga**; así, al seleccionar el documento, se tendrá la doble opción de** Abrir** o **Guardar archivo:**
 
-![Fig Captura de pantalla de descarga de archivo](img/descargando_mio_cid.png)
+![Fig Captura de pantalla de descarga de archivo](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/descargando_mio_cid.png)
  
 2. Para el apartado de **Ortografía **tenemos subido el archivo en PDF de la **Ortografía de la Lengua Española**, editada por la Real Academia Española, por el recurso de **Archivo** y también la web de Ortografía de la RAE.
 

@@ -1,7 +1,7 @@
 
 # U2. Actividades de comunicación y colaboración
 
-![](img/colaboracion.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/colaboracion.png)
 |**Fig. 5.55 Obtenida de [Pixabay](http://pixabay.com/en/conference-leaders-politics-debate-156068/). Licencia CC0**
 
 En esta segunda unidad del módulo 5 vamos a ver otras actividades disponibles en Moodle y que inciden directamente en la comunicación y la colaboración entre los usuarios: foro, chat, consultas y base de datos.

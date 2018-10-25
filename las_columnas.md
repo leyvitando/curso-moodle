@@ -5,13 +5,13 @@ Las columnas de un curso se definen añadiendo o elminando bloques o componentes
 
 Tanto si el curso dispone de dos o tres columnas, siempre habrá una **parte central **que presentará los **contenido**s de nuestro curso, **todo el material didáctico y las actividades**, las **pruebas de evaluación**, las **herramientas de comunicación**: foros, chat, etc. En esta zona es donde aparecen los diferentes temas cada uno con las diferentes actividades que se hayan propuesto.
 
-![](img/columna_central.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/columna_central.png)
 
 **Fig. 2.6. Captura de pantalla de parte central de contenido en Moodle**
  
 En las columnas laterales, tanto si el curso presenta una o dos, existen una serie de bloques que pueden modificarse o cambiarse de posición. En dichas columnas nos podemos encontrar alguno de los elementos o bloques que podemos ver en la imagen siguiente:
 
-![](img/bloques.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloques.png)
 
 ** Fig. 2.7. Recopilación de capturas de pantalla de bloques en Moodle**
 
@@ -26,7 +26,7 @@ En la figura siguiente se muestra el aspecto de uno de estos elementos cuando se
  
 
 
-![](img/bloque_calendario.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_calendario.png)
 
 **Fig. 2.8. Captura de pantalla del bloque Calendario**
 

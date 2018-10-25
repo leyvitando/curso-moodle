@@ -5,7 +5,7 @@
 
 eXeLearning puede exportar los proyectos a formatos como IMS, SCORM, archivo de texto o página sola. La página web exporta el contenido a una carpeta autocontenida o comprimida.
 
-![](img/exportar_paquetes.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/exportar_paquetes.png)
 
 **Fig 3.99 Captura de pantalla del menú Archivo - Exportar**
 

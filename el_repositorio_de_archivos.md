@@ -26,7 +26,7 @@ Sería posible, siempre y cuando los administradores de Moodle lo instalaran y h
 Al incorporar un archivo desde otro repositorio (pongamos Wikimedia), nos pregunta algunos datos del recurso:
 
 
-![Fig Captura de pantalla. Incorporación desde otro repositorio](img/importarr_de_repositorio.png)
+![Fig Captura de pantalla. Incorporación desde otro repositorio](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/importarr_de_repositorio.png)
 
 
 Los datos que nos pide son el nombre que queremos dar al archivo que incorporamos a nuestra carpeta o al recurso que editamos, el autor y el tipo de licencia.

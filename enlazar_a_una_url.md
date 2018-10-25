@@ -4,7 +4,7 @@
 Una URL es una dirección que apunta a un archivo. Quizás lo más común sea una dirección que apunta a una página web, pero puede ser también la dirección de una imagen que está en internet, un vídeo de Youtube, o cualquier otro archivo, incluso que esté en nuestro Moodle.
 
 
-![Fig  Captura de pantalla de inserción de URL](img/anadir_URL.png)
+![Fig  Captura de pantalla de inserción de URL](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_URL.png)
 
  Eligiendo URL obtenemos esta ventana:
 

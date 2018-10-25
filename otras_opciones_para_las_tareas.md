@@ -22,7 +22,7 @@ En estas opciones marcaremos el tiempo en que la tarea estará visible y si siem
 En el caso en que haya que elegir fecha, podemos hacerlo eligiendo el valor en los desplegables correspondientes (día - mes - año - hora - minuto) o podemos pulsar sobre el icono del calendario para seleccionar la fecha sobre un calendario emergente. Es más cómodo, pero hay que estar atento a todos los valores de día, mes y año antes de aceptar un valor. La hora no pondemos elegirla en el calendario y habría que hacerlo sobre los desplegables correspondientes a horas y minutos.
 
 
-![](img/calendario.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calendario.png)
 
 **Fig. 5.16 Captura de pantalla. Cambiar fecha.**
 

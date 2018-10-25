@@ -18,7 +18,7 @@ En el editor corresponden a los siguientes iconos:
 Para incluir una Página tenemos que **activar la edición**, como hemos hecho en otras ocasiones, y pulsar en el enlace "**Añadir una actividad o un recurso**" del tema en el que queramos trabajar. En la ventana que aparece elegimos la opción **Página** entre los recursos que nos ofrece:
 
 
-![Fig. Captura de pantalla de selección de página](img/anadir_una_pagina.png)
+![Fig. Captura de pantalla de selección de página](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_una_pagina.png)
 
 
 Obtendremos la siguiente ventana en la que rellenaremos los campos título y descripción. Debajo podremos añadir el contenido de la página que queremos crear:
@@ -29,7 +29,7 @@ Vamos a poner contenido utilizando las herramientas que hemos mencionado antes.
 
 ### Insertar vínculo
 
-![](img/vinculo.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/vinculo.png)
 
 Debemos seleccionar este icono, que representa el eslabón de una cadena, si queremos establecer un **vínculo** dentro del documento.
 
@@ -48,7 +48,7 @@ Además, el botón de crear enlace aparece activo aunque no tengamos ningún tex
 
 ### Quitar vínculo
 
-![](img/boton_quitar_enlace.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/boton_quitar_enlace.png)
 
 Para eliminar un vínculo, se marca el texto o la zona vinculada, o símplemente se coloca el cursor sobre él y se hace clic sobre el icono del eslabón roto:
 

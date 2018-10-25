@@ -19,4 +19,4 @@ Apartado "Saber más" obra de Adolfo Amella Santolaria. Forma parte del curso "H
 
 **Materiales cofinanciados por Fondo Social Europeo**
 
-![](img/FSE_grande_fondo_blanco.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/FSE_grande_fondo_blanco.jpg)

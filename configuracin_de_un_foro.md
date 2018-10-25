@@ -5,7 +5,7 @@ Al añadir un curso, se crea siempre un **![](assets/Selección_108.png)Foro de 
 
 Para añadir** un foro a un curso**, hemos de pinchar en el enlace **Añadir una actividad o un recurso** del tema correspondiente y elegir **Foro** en la ventana de elección de tipo de actividad**:**
 
-![Captura de pantalla. Ventana de inserción de un foro.](img/foros-agregar_foro.png)
+![Captura de pantalla. Ventana de inserción de un foro.](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/foros-agregar_foro.png)
 
 Se abre un cuadro de diálogo con los apartados siguientes:
 

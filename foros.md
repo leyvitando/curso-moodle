@@ -42,7 +42,7 @@ Debemos definir el tipo de foro que nos conviene utilizar en función de nuestro
 
 ### Tipos de foros
 
-![](img/foros-tipos_de_foro.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/foros-tipos_de_foro.png)
 
 **Fig. 5.56 Captura de pantalla. Tipos de foro.**
 

@@ -4,7 +4,7 @@
 Para crear una **base de datos**, hemos de **activar la edición** y pulsar sobre el enlace Agregar una actividad o un recurso. En la ventana de elección de actividades seleccionamos **Base de datos**:
 
 
-![](img/bd-agregar_bd.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bd-agregar_bd.png)
 
 **Fig. 5.90 Captura de pantalla. Inserción de base de datos.**
 

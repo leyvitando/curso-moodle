@@ -1,7 +1,7 @@
 
 # Cuestionarios
 
-![](img/cuestionario.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/cuestionario.png)
 **Fig. 5.24 Obtenida de [Pixabay](http://pixabay.com/en/questionnaire-questions-paper-158862/). Licencia CC0**
 
 El tipo de actividad **cuestionario** permite al profesorado diseñar y plantear una colección de preguntas de distinto tipo. El usuario recibirá una valoración inmediata de sus respuestas.

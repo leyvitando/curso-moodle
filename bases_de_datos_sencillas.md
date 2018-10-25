@@ -1,7 +1,7 @@
 
 # Bases de datos sencillas
 
-![](img/database.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/database.png)
 **Obtenida de [Pixabay](http://pixabay.com/en/computer-database-network-server-156948/). Licencia CC0**
 
 Esta actividad permite que los usuarios incorporen datos en un formulario diseñado por el profesor/a del curso. Las entradas se pueden clasificar, buscar,... y pueden contener el texto, imágenes y otros formatos de información.

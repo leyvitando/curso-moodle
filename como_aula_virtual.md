@@ -1,7 +1,7 @@
 
 # Como aula virtual
 
-![](img/1371862876_d000792dbc_o.gif)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/1371862876_d000792dbc_o.gif)
 **Fig. 3.83 Obtenida de [Flickr](http://www.flickr.com/photos/13414078@N07/1371862876/sizes/o/in/photostream/). Galería de Microlearning Org.  Licencia CC Atribución**
 
 Moodle puede utilizarse como aula virtual, tanto en formación a distancia como en formación presencial o semipresencial. Se puede construir un curso entero o utilizar el aula como apoyo a las clases presenciales.

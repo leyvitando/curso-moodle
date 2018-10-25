@@ -20,6 +20,6 @@ multimedia y actividades de diverso tipo.
 
 
 
-![](img/idevices_exe.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/idevices_exe.png)
 
 **Fig. Captura de pantalla de los iDevices en eXeLearning**

@@ -5,7 +5,7 @@ Esta opción nos da la posibilidad de mostrar un gran número de archivos en un 
 
 En realidad, muestra todos los archivos que haya dentro de una de las carpetas del almacén.
 
-![Fig. 3.64. Captura de pantalla de inserción de carpeta.](img/anadir_carpeta.png)
+![Fig. 3.64. Captura de pantalla de inserción de carpeta.](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_carpeta.png)
 
 Elegimos Carpeta y aceptamos para obtener la siguiente pantalla:
 

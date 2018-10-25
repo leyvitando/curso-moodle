@@ -1,7 +1,7 @@
 
 # Otros Roles
 
-![](img/admin.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/admin.png)
 **Fig. 4.16 Obtenida de [Pixabay](http://pixabay.com/en/man-avator-person-admin-161282/). Licencia CC0**
 
 Atendiendo al listado de roles que hemos presentado más arriba y a la jerarquía de privilegios establecida en ella, desde el invitado al administrador, deberíais poder adivinar cuáles son los roles que el profesor/a puede asignar en un curso.

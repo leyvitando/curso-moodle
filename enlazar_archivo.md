@@ -5,7 +5,7 @@ En la plataforma Moodle podemos enlazar cualquier tipo de archivo que podamos in
 
 Primero debemos **Activar la edición**, y, como siempre, pulsar en el enlace "Añadir una actividad o un recurso" del tema que queramos editar. Aparecerá la ventana de elección de actividad o recurso. Elegimos "**Archivo**". 
 
-![Fig Captura de pantalla de inserción de archivo](img/enlazar_archivo.1.png)
+![Fig Captura de pantalla de inserción de archivo](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/enlazar_archivo.1.png)
 
 Como también vemos la descripción completa del recurso, no incidimos más en ello.
 

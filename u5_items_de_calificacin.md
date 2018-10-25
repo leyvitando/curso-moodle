@@ -6,14 +6,14 @@ Un ítem es cualquier elemento del curso para el que puede darse una calificaci�
 Para ver los ítems (además de verlos sobre el libro de calificaciones) debemos entrar primero en el libro de calificaciones. Ahí podremos acceder a los ítems desde el bloque **Administración** o desde el **desplegable de opciones** del calificador:
 
 
-![](img/items-acceso.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/items-acceso.png)
 
 **Fig. 6.27 Captura de pantalla. Acceso a Items.**
 
 <br/>En ambos casos elegimos **Vista simple**.
 
 
-![](img/items-editar_items.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/items-editar_items.png)
 
 **Fig. 6.28 Captura de pantalla. Editar categorías e ítems.**
 
@@ -26,7 +26,7 @@ En la columna **Acciones** hay, para cada una de los ítems, unos iconos:
 **Editar**: Este icono nos da acceso a la configuración de la tarea. Nos da acceso a la ventana de edición de la forma en que se va a calificar cada uno de los ítems. Los datos que presenta los coge de la propia definición de la actividad:
 
 
-![](img/items-editar_item.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/items-editar_item.png)
 
 **Fig. 6.29 Captura de pantalla. Opciones para editar item.**
 
@@ -37,7 +37,7 @@ Aquí podremos definir temas como la calificación mínima para aprobar o el pes
 **Mover**: Permite mover el ítem y así cambiar el orden de ellos. Esto no supone que la actividad cambia de módulo del curso, sólo se modifica el orden en el libro de calificaciones. Se accede a una ventana en la que tenemos que pinchar sobre la posición en que lo queremos dejar:
 
 
-![](img/items-mover_un_item.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/items-mover_un_item.png)
 
 **Fig. 6.30 Captura de pantalla. Opciones para mover ítem.**
 

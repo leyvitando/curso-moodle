@@ -3,7 +3,7 @@
 
 Vamos a agregar y configurar un cuestionario en Moodle. Para ello, activamos la **edición **y, en el bloque que nos interese pulsamos el botón **Agregar una actividad o un recurso**, seleccionamos **Cuestionario**
 
-![Captura de pantalla. Ventana de inserción de formulario](img/agregar_cuestionario.png)
+![Captura de pantalla. Ventana de inserción de formulario](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/agregar_cuestionario.png)
 
 Se abre un cuadro de diálogo que hemos de rellenar los siguientes grupos de opciones, entre otros:
 
@@ -90,7 +90,7 @@ Estas opciones controlan qué información pueden ver los estudiantes cuando rev
 Para cada uno de estos momentos presenta las mismas opciones que hay que activar si se desea que se vean:
 
 
-![Captura de pantalla. Revisar opciones](img/cuestionario-revisar_opciones.png)
+![Captura de pantalla. Revisar opciones](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/cuestionario-revisar_opciones.png)
 
 ### Apariencia
 

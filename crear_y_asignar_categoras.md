@@ -7,7 +7,7 @@ Para crear una categoría de calificación:
 Entra al calificador y desde allí accede a la opción **Categorías e ítems-Vista simple**, como hemos visto para los ítems en la unidad anterior:
 
 
-![](img/items-acceso.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/items-acceso.png)
 
 **Fig. 6.32 Captura de pantalla. Acceso a categorías de calificación**
 
@@ -16,7 +16,7 @@ Entra al calificador y desde allí accede a la opción **Categorías e ítems-Vi
 Configura el curso para que las calificaciones finales sean resultado de hacer la media entre todas notas de cada evaluación y a continuación haz clic en el botón "Añadir categoría" que puedes ver en la parte inferior de la página.
 
 
-![](img/categorias-crear_nueva.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/categorias-crear_nueva.png)
 
 **Fig. 6.33 Captura de pantalla. Editar categorías e ítems.**
 
@@ -25,7 +25,7 @@ Configura el curso para que las calificaciones finales sean resultado de hacer l
 Pon un nombre a la categoría de calificación y establece los ajustes apropiados a la categoría que has creado. Pinchando en los enlaces "**Ver más...**" podrás ver más opciones para cada uno de los bloques de configuración. Cuando termines haz clic en el botón "Guardar los cambios". Observa la imagen siguiente: 
 
 
-![](img/categorias-nueva_categoria.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/categorias-nueva_categoria.png)
 
 **Fig. 6.34 Captura de pantalla. Opciones para Categoría de calificación**
 
@@ -48,7 +48,7 @@ Después no tenemos más que pinchar en el botón **Guardar cambios**.
 Las categoría creadas aparecerán vacías. Tendremos que incluir en ellas los items de evaluación que les correspondan:
 
 
-![](img/categorias-incluir_items_en_categoria.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/categorias-incluir_items_en_categoria.png)
 
 **Fig. 6.35 Captura de pantalla. Categorías de calificación**
 
@@ -57,6 +57,6 @@ Las categoría creadas aparecerán vacías. Tendremos que incluir en ellas los i
 Para ello hemos marcado las que nos interesaban y, bajo la lista de items hemos elegido en el desplegable la categoría en la que queremos incluirlos. Repetimos el proceso con todos los items que queremos incluir en una categoría. Así quedaría nuestro curso tras la creación de dos categorías:
 
 
-![](img/categorias-items_organizados.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/categorias-items_organizados.png)
 
 **Fig. 6.36 Captura de pantalla. Categorías de calificación**

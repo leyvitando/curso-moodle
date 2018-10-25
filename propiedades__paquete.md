@@ -3,7 +3,7 @@
 
 Normalmente la vista de eXeLearning es la vista de Autoría, pero cuando pulsamos sobre la pestaña propiedades aparece lo siguiente:
 
-![](img/08_propiedades_copia.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/08_propiedades_copia.jpg)
 | 
 
  Bajo la pestaña **Propiedades** que acabamos de pulsar aparecen 3 botones más. Por defecto entramos en la sección a la que lleva el primer botón: **Paquete**

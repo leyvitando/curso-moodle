@@ -4,7 +4,7 @@
 ![](http://en.wikipedia.org/wiki/es:Licencia_de_documentaci%C3%B3n_libre_de_GNU)
 
 
-![](img/Exquisite-folder_document_vip.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Exquisite-folder_document_vip.png)
 
 Fig. Imagen obtenidade [Wikimedia](http://commons.wikimedia.org/wiki/File:Single_Hierarchy_folder.jpg?uselang=es) , [Licencia de documentación libre GNU](http://en.wikipedia.org/wiki/es:Licencia_de_documentaci%C3%B3n_libre_de_GNU), **versión 1.2**
 

@@ -4,7 +4,7 @@
 Ya hemos visto en el módulo 2 de este curso cómo podemos, con nuestro perfil de profesor con permisos de edición, agregar el bloque "**Mensajes**" en las columnas de nuestro curso. Una vez que lo tenemos incluido:
 
 
-![](img/bloque_mensajes.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_mensajes.png)
 
 **Fig. 4.55 Captura de apntalla. Bloque Mensajes**
 
@@ -13,7 +13,7 @@ Ya hemos visto en el módulo 2 de este curso cómo podemos, con nuestro perfil d
 Cuando lo hagamos, podemos activar también el ****bloque usuarios en linea**** que nos permitirá enviar un mensaje a aquellos usuarios que estén en línea en un momento determinado.
 
 
-![](img/bloque_usuarios_en_linea.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_usuarios_en_linea.png)
 
 **Fig. 4.56. Bloque usuarios en línea**
 

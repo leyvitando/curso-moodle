@@ -3,7 +3,7 @@
 
 ## Introducción
 
-![](img/logo-1024x254.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/logo-1024x254.jpg)
 Imagen obtenida de https://moodle.org/logo/
 
 Hemos visto cómo adaptar el entorno de Moodle a nuestras necesidades, podemos añadir recursos para los alumnos y profesores del curso y hemos aprendido a gestionar los usuarios y nuestro perfil. 

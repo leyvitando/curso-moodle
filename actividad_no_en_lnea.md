@@ -10,7 +10,7 @@ El profesor/a accederá al trabajo del estudiante fuera de la plataforma pero po
 Para crear una tarea de este tipo tenemos que, como ya se ha dicho, **activar edición** y pulsar en el botón añadir una actividad o un recurso. Aparecerá la ventana con la lista de actividades y recursos que podemos añadir. Elegimos **Tarea**. Con esto aparecerá en pantalla un formulario con las opciones necesarias para configurar la tarea:
 
 
-![](img/actividad_no_en_linea.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/actividad_no_en_linea.png)
 
 **Fig. 5.5 Captura de pantalla. Opciones para tarea.**
 
@@ -25,7 +25,7 @@ La otra cuestión importante es que, en la sección de "**Tipos de entrega**", n
 El alumno verá este tipo de tarea de la siguiente forma:
 
 
-![](img/entrega_de_tarea_no_en_linea.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/entrega_de_tarea_no_en_linea.png)
 
 **Fig. 5.6 Captura de pantalla. Vista de tarea.**
 

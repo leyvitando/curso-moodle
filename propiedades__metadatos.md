@@ -3,7 +3,7 @@
 
 Como vemos en la imagen, podemos ir a **Propiedades&gt;Metadatos&gt;Dublin Core**.
 
-![](img/09_metadatos.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/09_metadatos.jpg)
 <td style="text-align: center;">Imagen 09. Elaboración propia</td>
 
  

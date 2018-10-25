@@ -9,7 +9,7 @@ Vamos a emplear iDevices que permiten una pequeña interacción con el usuario, 
 
 Se trata esencialmente de unas actividades en las que un botón añade información de realimentación, que el usuario puede utilizar o no.
 
-![](img/ActLec.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/ActLec.jpg)
 <td style="text-align: center;">Imagen 07. Elaboración propia</td>
 
 ## Importante

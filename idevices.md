@@ -32,6 +32,6 @@ Desde **Herramientas&gt;Editor de iDevices** el propio usuario puede crear otros
  
 
 
-![](img/menu_utilidades_exe.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/menu_utilidades_exe.png)
 
 **Fig. Captura de patnalla del menú Utilidades**

@@ -1,7 +1,7 @@
 
 # U3. Categorías de calificación
 
-![](img/categorias.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/categorias.png)
 **Fig. 6.31 Obtenida de [Pixabay](http://pixabay.com/en/school-notebook-education-note-34599/). Licencia CC0**</td>
 
 ## Crear y asignar categorías

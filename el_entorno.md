@@ -21,4 +21,4 @@ swfobject.registerObject("csSWF", "9.0.28", "expressInstall.swf");
 
 
 
-![Fig Captura de pantalla del aspecto de eXeLearning](img/entorno_exe.png)
+![Fig Captura de pantalla del aspecto de eXeLearning](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/entorno_exe.png)

@@ -7,7 +7,7 @@ Para un nivel de utilización básico de Moodle vamos a mostrar, en primer lugar
 
  
 
-![Fig. Fuente INTEF](img/development.gif)
+![Fig. Fuente INTEF](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/development.gif)
 
 
 #### Moodle para organizar y exhibir recursos:
@@ -28,7 +28,7 @@ Y se puede, por último, subir un recurso con un formato apropiado, que contenga
 
  
 
-![Fig Fuente INTEF](img/community.gif)
+![Fig Fuente INTEF](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/community.gif)
 
 
 #### Moodle como lugar de relación:
@@ -49,7 +49,7 @@ El alumnado puede ser organizado en forma de grupos, de forma que cada grupo ten
 
  
 
-![Fig.Fuente INTEF](img/Tareas.png)
+![Fig.Fuente INTEF](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Tareas.png)
 
 
 #### Moodle para anotar y evaluar:
@@ -60,13 +60,13 @@ Si al alumnado ya está participando, el profesorado puede realizar anotaciones 
 
  
 
-![Fig. Fuente INTEF](img/Entorno.png)
+![Fig. Fuente INTEF](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Entorno.png)
 
 #### Entorno multiforme
 
 Cada curso de Moodle es muy configurable, es decir, los alumnos/as pueden entrar a cursos en los que el eje por el que se van desplazando son los temas que componen el curso, pero pueden hacerse cursos por períodos de tiempo, si así se requiere, o cursos en los que, sobre un entorno social tipo foro, se vertebra toda la acción.<br/> Además, la pantalla que ve el alumno/a puede ser modificada y enriquecida por el profesor/a, en base a la introducción de los elementos llamados "bloques" que proporcionan funcionalidades de muchos tipos a los participantes en el curso, desde canales RSS hasta funcionalidades que recogen relojes, vídeos u otros códigos embebidos.
 
-![Fig. Fuente INTEF](img/mipc.png)
+![Fig. Fuente INTEF](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/mipc.png)
 
 #### Más ideas para usar Moodle:
 
@@ -91,7 +91,7 @@ Actividades de Moodle especialmente relacionadas con este enfoque: wiki, foros, 
 
  
 
-![Fig. Fuente INTEF](img/Central.png)
+![Fig. Fuente INTEF](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Central.png)
 
 ### Usos avanzados de Moodle
 

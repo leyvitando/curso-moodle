@@ -10,7 +10,7 @@
 ## Web 2.0
 
 
-![](img/web2Thumbnail.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/web2Thumbnail.png)
 
-![](img/web2bThumbnail.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/web2bThumbnail.png)
 

@@ -5,39 +5,39 @@ Los bloques que vienen "por defecto" en Moodle varían con cada versión, pero b
 
 ### LOS BLOQUES Y SU FUNCIÓN
 
-![](img/bloque_personas.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_personas.png)
 
 Nos permite conocer a las personas que están en el mismo curso, independientemente de su perfil.
 
-![](img/bloque_actividades.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_actividades.png)
 
 Este bloque nos permite ver de una forma rápida las actividades y tareas a realizar en el curso. Su aspecto y contenido cambiará en función de las actividades que se hayan definido. En la imagen de la izquierda se muestra se muestran 8 actividades porque son ocho los tipos de actividades que el curso tiene creadas.
 
-![](img/bloque_buscar_en_foros.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_buscar_en_foros.png)
 
 Nos permitrá encontrar de forma rápida intervenciones en los foros. Se puede buscar introduciendo un término para nuestra consulta o mediante un formulario para una Búsqueda avanzada . Este bloque no está disponible en este curso.
 
-![](img/bloque_ultimas_noticias.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_ultimas_noticias.png)
 
 Aquí se nos mostrarán las novedades y anuncios que vayan apareciendo en el curso. Pulsando en Agregar un nuevo tema podremos realizar anuncios.
 
-![](img/bloque_eventos_proximos.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_eventos_proximos.png)
 
 Nos permitirá definir la realización o convocatoria de determinadas actividades. Por ejemplo la convocatoria de una sesión de chat, y que se refleje en el calendario. Los eventos pueden ser de Usuario, de Curso o de Sitio (éstos sólo disponibles para el administrador).
 
-![](img/bloque_actividad_reciente.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_actividad_reciente.png)
 
 Interesante bloque que nos muestra la actividad realizada en el curso por los participantes, en las actividades, por los grupos, y en una fecha o rango de fechas determinados.
 
-![](img/bloque_usuarios_en_linea.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_usuarios_en_linea.png)
 
 Nos muestra las personas que están en un momento determinado conectadas a la vez que nosotros en el curso y, podríamos así, contactar con ellas mediante, por ejemplo, el bloque de mensajería interna.
 
-![](img/bloque_mensajes.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_mensajes.png)
 
 Sistema de mensajería interna de Moodle. Mediante este bloque podemos mandar mensajes privados a las demás personas participantes en el curso o a nuestros tutores/as.
 
-![](img/bloque_calendario.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bloque_calendario.png)
 
 En él se nos muestra un calendario navegable con indicación, mediante un código de colores, de las fechas en las que hay eventos y de qué tipo son.
 
@@ -50,7 +50,7 @@ Compara los bloques descritos con los que aparezcan por defecto en tu aula virtu
 Aunque esto excede de los objetivos del este curso de Moodle os remitimos, por si tenéis curiosidad, a la propia página de Moodle en la que podréis revisar la gran disponibilidad de nuevos bloques y módulos. Este es el enlace [Módulos, bloques y plugins, para Moodle](http://moodle.org/plugins/), como podéis ver en la imagen siguiente.
 
 
-![](img/moodle_plugin.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/moodle_plugin.png)
 
  
 

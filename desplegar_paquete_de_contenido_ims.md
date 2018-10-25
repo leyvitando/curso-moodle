@@ -16,7 +16,7 @@ Un paquete IMS tiene un formato comprimido .zip y se sube al almacén como cualq
 Seguimos el camino ya conocido: activar edición, Añadir una actividad o un recurso, **paquete de contenidos IMS**.
 
 
-![Fig Captura de pantalla de inserción de Paquete de contenido](img/anadir_IMS.png)
+![Fig Captura de pantalla de inserción de Paquete de contenido](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_IMS.png)
 
 Aceptando nos presenta la siguiente pantalla
 

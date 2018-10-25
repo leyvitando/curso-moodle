@@ -6,7 +6,7 @@ Podemos configurar cómo se va a comportar Moodle respecto a la mensajería. No 
 Se accede a la configuración desde el bloque **Administración**, en los **Ajustes de mi perfil**:
 
 
-![](img/ajustes_de_mensajeria.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/ajustes_de_mensajeria.png)
 
 **Fig. 4.65 Captura de pantalla. Panel Administración. Ajustes de mi perfil**
 
@@ -15,7 +15,7 @@ Se accede a la configuración desde el bloque **Administración**, en los **Ajus
 Pulsando se accede a la configuración:
 
 
-![](img/opciones_de_configuracion_de_mensajeria.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/opciones_de_configuracion_de_mensajeria.png)
 
 **Fig. 4.66 Captura de pantalla. Configuración de la mensajería**
 
@@ -26,7 +26,7 @@ Para cada una de estas opciones podemos elegir que se envíen por medio de una n
 Las notificaciones emergentes se presentan en la esquina inferior izquierda de nuestro navegador. Algo así:
 
 
-![](img/6e6f7469666963616369c3b36e5f656d657267656e7465.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/6e6f7469666963616369c3b36e5f656d657267656e7465.png)
 
 **Fig. 4.67 Captura de pantalla. Aviso de mensaje nuevo.**
 

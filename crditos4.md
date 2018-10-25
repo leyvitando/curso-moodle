@@ -16,4 +16,4 @@ Adaptación de José Cariñena Burbano 2018
 
 **Materiales cofinanciados por Fondo Social Europeo**
 
-![](img/FSE_grande_fondo_blanco.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/FSE_grande_fondo_blanco.jpg)

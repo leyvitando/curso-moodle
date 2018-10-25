@@ -16,7 +16,7 @@ Como decíamos, puedes incluir imágenes y otro tipo de elementos audiovisuales.
 Por ejemplo, aquí hemos colocado el logo de eXelearning.
 
 
-![](img/exe_logo.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/exe_logo.png)
 
 ## En este módulo aprenderemos a...
 

@@ -3,7 +3,7 @@
 
 
 
-![](img/moodle-logo.gif)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/moodle-logo.gif)
 
 
 
@@ -50,7 +50,7 @@ Para Piaget, y esto entra de lleno en el constructivismo, nuestra lógica consti
  
 
 
-![](img/120px-Jean_Piaget.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/120px-Jean_Piaget.jpg)
 
 **Fig. 1.4 Fuente de la imagen: [Wikipedia](http://commons.wikimedia.org/wiki/File:Jean_Piaget.jpg). Licencia CC Attribution-Share Alike 3.0**
 
@@ -69,7 +69,7 @@ Por extensión, los procesos mentales superiores se adquieren primero socialment
  
 
 
-![](img/Lev_Vygotsky_1896-1934.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Lev_Vygotsky_1896-1934.jpg)
 
 **Fig. 1.5. Fuente de la imagen:[ Wikimedia](http://commons.wikimedia.org/wiki/File:Lev_Vygotsky_1896-1934.jpg?uselang=es). Licencia CC Genérica de Atribución/Compartir-Igual**
 
@@ -84,7 +84,7 @@ Desde este punto de vista, el aprendizaje es una reconstrucción. El aprendizaje
  
 
 
-![](img/Papert.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Papert.jpg)
 
 **Fig. 1.6. Fuente de la imagen: [Wikipedia](http://es.wikipedia.org/wiki/Seymour_Papert). Licencia CC Attribution-Share Alike 2.0 Generic**
 
@@ -113,7 +113,7 @@ Martin Dougiamas (Australia, 1969) es el creador y principal desarrollador de Mo
 Dougiamas estudió informática y cursó estudios de posgrado en informática y en educación. En 1986 comenzó a trabajar en la Universidad Tecnológica de Curtin en las primeras aplicaciones web y como administrador de la plataforma Webct de la Universidad. El hecho de no poder mejorar el sistema, debido a las restricciones de propiedad intelectual, le convenció de la necesidad de crear una solución de código abierto. Partiendo de esta idea, comienza a realizar una tesis doctoral sobre un sistema de gestión de contenido de código abierto y gratuito. Esos fueron los comienzos de Moodle, proyecto que comenzó en 1999.
 
 
-![](img/Martin_Dougiamas_2010.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Martin_Dougiamas_2010.png)
 
 **Fig. 1.7. Fuente de la imagen: [Wikipedia](http://en.wikipedia.org/wiki/File:Martin_Dougiamas_2010.png). Licencia CC0 (Dominio público)**
 

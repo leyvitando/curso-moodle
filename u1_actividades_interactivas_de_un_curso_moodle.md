@@ -13,7 +13,7 @@ Entonces verás que en cada tema aparecen un botón para añadir una nueva activ
  
 Al pulsar sobre este enlace aparece una ventana emergente con la lista de actividades y recursos que podemos incluir en nuestro curso:
 
-![Captura de pantalla. Ventana de inserción de actividades](img/lista_de_actividades.png)
+![Captura de pantalla. Ventana de inserción de actividades](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/lista_de_actividades.png)
 
 
 Este menú te muestra todas las posibilidades disponibles en tu curso. Puedes disponer de más actividades mediante la descarga de módulos no estándar de Moodle.

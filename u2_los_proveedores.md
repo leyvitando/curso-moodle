@@ -14,9 +14,9 @@ Puedes comprobar que la apariencia de la página cambia y que aparecen diversos 
 
 Cada tema o módulo te ofrece varias opciones de configuración:
 
-![](img/boton_mover.png) Mover
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/boton_mover.png) Mover
 
-![](img/boton_configurar.png) Configurar
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/boton_configurar.png) Configurar
 
 El menú "Editar" de un tema ofrece las siguientes opciones:
 

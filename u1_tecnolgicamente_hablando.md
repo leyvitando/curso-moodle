@@ -7,7 +7,7 @@ Moodle responde al esquema de lo suele denominarse aplicaciones de web dinámica
 
 ### Páginas estáticas
 
-![](img/HTML_logo.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/HTML_logo.png)
 |**Fig. 1.2 Logo HTML (obtenida de [Wikimedia](http://commons.wikimedia.org/wiki/File:HTML_logo.png?uselang=es).<br/>Licencia CC0 (Dominio público)**
 
 Las páginas estáticas que vemos en Internet están escritas, fundamentalmente, en un lenguaje de programación llamado HTML. Es un lenguaje en forma de etiquetas. Por ejemplo, cuando una palabra nos aparece en negrita en nuestro navegador es que está situada entre dos etiquetas, una de cierre y otra de apertura con un código, que es interpretado por el navegador, para que la ponga en un tamaño y una trama más gruesa, que es lo que conocemos como negrita. También con etiquetas se genera una tabla, se colocan los términos en listas, se insertan imágenes, se producen hiperenlaces, etc.
@@ -32,7 +32,7 @@ Para que una aplicación dinámica funcione, requiere que en el ordenador que no
 <tbody>
 <tr>
 
-![](img/Crystal_Clear_mimetype_source_php.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Crystal_Clear_mimetype_source_php.png)
 </tr>
 <tr>
 <td>

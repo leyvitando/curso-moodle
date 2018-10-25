@@ -5,7 +5,7 @@
 
 En este apartado se crea la estructura de navegación del contenido, mostrando las páginas y subpáginas que lo componen (nodos). Ofrece, sobre el árbol de la estructura las herramientas para añadir, borrar o renombrar páginas.
 
-![](img/Estructura_exe.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Estructura_exe.png)
 
 **Fig.  Captura de pantalla de la estructura en eXeLearning**
 
@@ -16,7 +16,7 @@ En este apartado se crea la estructura de navegación del contenido, mostrando l
 Los iDevices son herramientas que permiten mostrar los contenidos con un determinado formato. En los siguientes apartados explicaremos cómo utilizarlos.
 
 
-![](img/idevices_exe.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/idevices_exe.png)
 
 **Fig. Captura de pantalla de los iDevices en eXeLearning**
 
@@ -29,7 +29,7 @@ Por último, puedes observar dos pestañas: la pestaña** Autoría **que es la 
  
 
 
-![](img/propiedades_exe.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/propiedades_exe.png)
 
 **Fig. Captura de pantalla de las propiedades en eXeLearning**
 

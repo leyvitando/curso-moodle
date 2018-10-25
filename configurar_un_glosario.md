@@ -6,7 +6,7 @@ Vamos a ver cómo agregar un **glosario **en Moodle.
 Hay que entrar en **Agregar una actividad o un recurso **(previamente hemos activado la edición): Buscamos ahí la opción **Glosario**:
 
 
-![Captura de pantalla. Inserción de glosario](img/glosario-agregar_glosario.png)
+![Captura de pantalla. Inserción de glosario](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/glosario-agregar_glosario.png)
 
 Se abre un cuadro de diálogo con los apartados siguientes:
 

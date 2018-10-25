@@ -10,7 +10,7 @@ Vamos a crear campos para esta base de datos.
 - **Crear un nuevo campo:** En esta pantalla puede crear los campos que formarán parte de su base de datos. Cada campo admite distintos tipos de datos, con diferentes interfaces. Se puede elegir entre:
 
 
-![Captura de pantalla. Tipos de campos](img/bd-tipos_de_campo.png)
+![Captura de pantalla. Tipos de campos](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/bd-tipos_de_campo.png)
 
 ### Tipos de campos
 

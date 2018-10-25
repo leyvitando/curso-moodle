@@ -4,7 +4,7 @@
 Como en otras actividades, para añadir una Consulta debemos **Activar la edición** y, el el tema correspondiente del curso pulsar en el enlace "**Añadir una actividad o un recurso**". Aparecerá la ventana con la relación de actividades disponibles, en la que tendremos que elegir **Consulta**:
 
 
-![Captura de pantalla. Inserción de encuesta.](img/consulta.agregar_consulta.png)
+![Captura de pantalla. Inserción de encuesta.](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/consulta.agregar_consulta.png)
 
 Se abre un cuadro de diálogo con los apartados siguientes:
 

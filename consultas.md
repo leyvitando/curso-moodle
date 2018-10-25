@@ -1,7 +1,7 @@
 
 # Consultas
 
-![](img/consulta.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/consulta.png)
 **Fig. 5.79 Obtenida de [Pixabay](http://pixabay.com/en/box-poll-election-polls-elections-32384/). Licencia CC0**
 
 La **consulta **es una actividad muy sencilla, consiste en plantear a los alumnos/as una pregunta y especificar varias posibles respuestas.

@@ -1,7 +1,7 @@
 
 # Glosario
 
-![](img/diccionario.jpg)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/diccionario.jpg)
 **Obtenida de [Pixabay](http://pixabay.com/en/business-trade-definition-1799/). Licencia CC0**
 
 Esta actividad permite a los participantes hacer un listado de términos del curso con sus definiciones.

@@ -9,7 +9,7 @@ Para hacerlo tenemos dos opciones:
 1. Usar las opciones del **menú desplegable** que aparece en el Calificador
 
 
-![](img/calificador-exportar.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calificador-exportar.png)
 
 **Fig. 6.6 Captura de pantalla. Accesos a Exportar el libro de calificaciones**
 
@@ -18,7 +18,7 @@ Para hacerlo tenemos dos opciones:
 Accediendo a exportar (en nuestro caso a Hoja de cálculo Excel, aunque todas las posibilidades de exportación ofrecen unas opciones muy similares) presenta la siguiente pantalla:
 
 
-![](img/calificador-exportar_excel.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calificador-exportar_excel.png)
 
 **Fig. 6.7 Captura de pantalla. Opciones para exportar a Excel.**
 

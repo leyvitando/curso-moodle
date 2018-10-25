@@ -28,7 +28,7 @@ Todas las calificaciones obtenidas por los alumnos matriculados en un curso se r
 La primera vez que accedes al calificador, una vez creado el curso, tendrás que hacerlo desde el **bloque de Administración**. Haciendo clic sobre el enlace a **Calificaciones ** que aparece dentro de este bloque:
 
 
-![](img/calificador-acceso.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calificador-acceso.png)
 
 **Fig. 6.1 Captura de pantalla. Bloque Administración.**
 
@@ -39,7 +39,7 @@ Al hacer clic sobre esta opción entrarás en el calificador general del curso, 
 Este será el aspecto que mostrará el calificador antes de incluir las actividades evaluables:
 
 
-![](img/calificador_vacio.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calificador_vacio.png)
 
 **Fig. 6.2 Captura de pantalla. Calificador**
 
@@ -54,7 +54,7 @@ Cuando se califica la actividad de un estudiante, la calificación pasa automá
 En la parte superior del libro encontramos un menú desplegable que le permitirá acceder a los diferentes elementos implicados en el proceso de evaluación.
 
 
-![](img/opciones_calificador.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/opciones_calificador.png)
 
 **Fig. 6.3. Captura de pantalla. Opciones del calificador.**
 
@@ -63,7 +63,7 @@ En la parte superior del libro encontramos un menú desplegable que le permitir�
 Si queremos ver las calificaciones de cada estudiante en detalle en ese menú seleccionamos **Vista-&gt;Usuario**. En la ventana que aparece podremos ir seleccionando un estudiante cada vez o verlos todos utilizando el menú desplegable Seleccionar todos o un usuario.
 
 
-![](img/calificador-usuario.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calificador-usuario.png)
 
 **Fig. 6.4 Captura de pantalla. Vista - Usuario**
 
@@ -72,7 +72,7 @@ Si queremos ver las calificaciones de cada estudiante en detalle en ese menú s
 Otro modo de obtener esta vista es hacer clic en el icono que hay junto al nombre del estudiante en el libro de calificaciones general.
 
 
-![](img/calificador-acceso_a_usuario.png)
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/calificador-acceso_a_usuario.png)
 
 **Fig. 6.5 Captura de pantalla. Calificador. Acceso a la vista usuario.**
 
