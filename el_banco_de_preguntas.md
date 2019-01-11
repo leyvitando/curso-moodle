@@ -11,7 +11,6 @@ Y una vez ahí, nos aparece una sección de "Banco de preguntas"
 
 ![Captura de pantalla. Administración del curso](/assets/Selección_244.png)
 
-Captura de pantalla. Administración del curso
 Si accedemos a Categorías podremos crear nuestras propias categorías y subcategorías rellenando el formulario que aparece para agregar una nueva o pulsando en el icono de edición de cada una de las ya creadas para modificarlas:
 
 ![Captura de pantalla. Categorías](/assets/Selección_245.png)
@@ -56,3 +55,22 @@ Veamos en qué consisten estos tipos de pregunta. No las describimos en el mismo
 
 - **Descripción**: Este formato no es un tipo de pregunta en sentido estricto. Se limita a mostrar un texto, gráfico, imagen… sin necesidad de responder. Puede ser útil, por ejemplo, para dar información previa antes de un grupo de preguntas.
 
+>**tip**
+
+>### Añadamos preguntas a los cuestionarios procedentes de otros bancos {#preguntas-bancos}
+>
+>Para añadir preguntas procedentes de otros bancos a nuestros cuestionarios, primero tenemos que crear una categoría. En el campo 'Categoría padre' deberemos seleccionar una categoría a la que pertenezcan los otros cursos desde los que queramos seleccionar las preguntas.
+>
+>![Categoría del banco de preguntas](img/categoria-banco-preguntas.png)
+>
+>Una vez creada esa categoría, deberemos mover a la misma las preguntas que queramos mostrar disponibles para otros cursos. **Cuando creamos preguntas se guardan en bancos llamas "Por defecto en <nombre del curso>". Si queremos que esas preguntas estén disponibles para otros cursos deberemos moverlas a las categorías creadas por nosotros**.
+>
+>![Añadimos preguntas a la categoría](img/anado-preguntas-a-la-categoria.png)
+>
+>![Añadimos preguntas a la categoría II](img/anado-preguntas-a-la-categoria-II.png)
+>
+>Ya podemos añadir preguntas a nuestros cuestionarios procedentes de bancos creados por nosotros.
+>
+>![Añado preguntas al cuestionario](img/anado-pregunta-al-cuestionario.png)
+>
+>![Añado preguntas al cuestionario II](img/anado-pregunta-al-cuestionario-II.png)
