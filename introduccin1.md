@@ -1,5 +1,4 @@
-
-# El entorno de un curso: Las columnas de Moodle
+# El entorno de un curso Moodle
 
 Moodle es una plataforma modular. Esto supone que pueden presentarse en pantalla aquellos elementos que interese tener, ocultando quellos que no.
 
@@ -12,5 +11,7 @@ En este módulo veremos cómo puede personalizarse un curso presentando unos blo
 Los objetivos que pretendemos alcanzar en este módulo son los siguientes:
 
 1. Conocer el entorno general de Moodle
-1. Aprender a gestionar los bloques de un curso
+2. Aprender a gestionar los bloques de un curso
+
+
 
