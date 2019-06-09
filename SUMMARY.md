@@ -1,14 +1,14 @@
 # Summary
 
-* [Introducción](README.md)
+## Introducción
+
+* [¿Qué es Moodle?](README.md)
 * [Moodle en el aula](u3_moodle_en_el_aula.md)
 
 ## M1. El entorno de Moodle
 
-* [El entorno de un curso: Las columnas de Moodle](introduccin1.md)
+* [El entorno de un curso Moodle](introduccin1.md)
 * [El entorno de Moodle. Un poco de organización:](u1_el_entorno_de_moodle_un_poco_de_organizacin.md)
-  * [El formato](el_formato.md)
-  * [El tema](el_tema.md)
   * [Las columnas](las_columnas.md)
 * [Añadiendo bloques](u2_aadiendo_bloques.md)
 
