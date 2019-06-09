@@ -14,5 +14,5 @@ Desde allí mismo podremos elegir tanto el **formato de curso** \(por temas, sem
 
 Tras realizar cualquier cambio en esta página, será importantísimo pulsar el botón **Guardar cambios y mostrar**, para que éstos se apliquen.![](/assets/editarAjustes2.png)
 
-Otro elemento que también nos añadirá funcionalidad y versatilidad en la apariencia del curso, son los bloques, que veremos a continuación.
+Otro elemento que también nos añadirá funcionalidad y versatilidad en la apariencia del curso, son los bloques que podremos disponer en las zonas laterales o columnas, como veremos a continuación.
 
