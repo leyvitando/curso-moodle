@@ -2,7 +2,7 @@
 
 Si en lugar de pulsar sobre un archivo pulsamos sobre una carpeta ésta se abrirá y pasaremos a estar situados en ella. Pero si pulsamos **con el botón derecho del ratón **entraremos en la ventana de opciones de la carpeta:
 
-![Fig. Captura de pantalla. Ventana de edición de carpeta](/assets/Selección_136.png)
+![](/assets/carpeta.png)
 
 ---
 
