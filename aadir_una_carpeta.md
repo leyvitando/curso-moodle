@@ -1,4 +1,3 @@
-
 # Añadir una carpeta
 
 Esta opción nos da la posibilidad de mostrar un gran número de archivos en un mismo documento.
@@ -17,6 +16,5 @@ Más abajo podremos elegir si se muestra el contenido de la carpeta en una pági
 
 También podemos elegir si se han de mostrar las subcarpetas o no.
 
-## Actividad 6
 
-Utilizando el recurso Carpeta, añade varios archivos, al menos 3, que vayas a utilizar para tu módulo. Pueden ser imágenes, documentos, presentaciones.... material adicional que pueden utilizar tus alumnos para el estudio del tema o para realizar los trabajos. Preséntalos de forma que se vea el árbol de carpetas en la propia página de inicio.
+
