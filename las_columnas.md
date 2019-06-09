@@ -19,17 +19,24 @@ imagen
 
 En la imagen siguiente podemos ver los bloques que podemos encontrar en nuestra plataforma:
 
-imagen
+![](/assets/listaBloques1.png)![](/assets/listadoBloques2.png)
 
-Los bloques y elementos disponibles depende de los que se hayan instalado en la plataforma. Cada bloque tiene un pequeño icono en su parte superior derecha que permite contraer o expandir el contenido del bloque dentro de la columna en la que se encuentra. Al activar la edición del curso, aparece una barra con mas botones que nos permitirán mover el bloque, ocultarlo, cambiarlo de columna o eliminarlo.
+Los bloques y elementos disponibles depende de los que se hayan instalado en cada plataforma. Cada bloque tiene un pequeño icono en su parte superior derecha que permite contraer o expandir el contenido del bloque dentro de la columna en la que se encuentra. Al activar la edición del curso, aparece una barra con mas botones que nos permitirán mover el bloque, ocultarlo, cambiarlo de columna o eliminarlo.
+
+![](blob:https://legacy.gitbook.com/32056325-b398-49ac-b0f3-fb1b5a58c915)
+
+  
+
 
 **Añadiendo bloques**
 
+Para añadir bloques es necesario **Activar edición**, desde la Configuración del curso, ésto te permite no sólo añadir bloques, sino, posteriormente, realizar cambios en los contenidos y actividades de tu curso.
 
+![](/assets/configuraciónCurso.png)
 
-En la figura siguiente se muestra el aspecto de uno de estos elementos cuando se ha activado la edición, algo que solo podrán hacer los que tengan un perfil con permisos de edición, como veremos más adelante.
+Al activar la edición aparece la opción ![](/assets/agregaBloque.png) en la parte inferior izquierda, que da acceso a la lista de bloques disponibles en nuestra plataforma.
 
+Como hemos visto más arriba, la cantidad de bloques disponibles es muy grande, por lo que es aconsejable trastear con ellos para ver qué bloques pueden ser de interés en cada curso en función de los objetivos que desean cumplirse.
 
-
-
+Recuerda **desactivar edición** desde el mismo sitio que la has activado, cuando termines de añadir bloques u otro contenido a tu curso.
 
