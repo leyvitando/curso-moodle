@@ -23,7 +23,7 @@
   * [Editor HTML](editor_html.md)
   * [Etiquetas](etiquetas.md)
   * [Libro](libro.md)
-  * [Páginas web](pginas_web.md)
+  * [Páginas](pginas_web.md)
   * [Recursos externos](recursos_externos.md)
   * [Enlazar a una URL](enlazar_a_una_url.md)
   * [Enlazar archivo](enlazar_archivo.md)

@@ -1,5 +1,5 @@
 
-# Páginas web
+# Páginas
 
 En este recurso puedes utilizar todas las posibilidades que te ofrece el editor HTML.
 
