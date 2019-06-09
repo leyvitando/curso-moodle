@@ -5,7 +5,7 @@ Las etiquetas son un recurso que se genera de modo interno y se utilizan para ti
 
 Se incluyen como cualquier otro recurso, pulsando en "Añadir una actividad o un recurso" y previamente hay que activar la edición, tal como se ha explicado anteriormente.
 
-![Fig.  Captura de pantalla. Ventana de inserción de etiqueta](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Insertar_etiquetas.png)
+
 
 La descripción del recurso nos aparece en la imagen, así que nos evitamos describirlo aquí.
 
