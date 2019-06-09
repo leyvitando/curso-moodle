@@ -56,8 +56,3 @@ Visualiza este videotutorial que hay en el siguiente apartado, para ver de forma
 
 {% youtube %}https://www.youtube.com/watch?v=Woap4QYsyOM {% endyoutube %}
 
-## Actividad 3
-
-Redacta un texto con el contenido para uno de los capítulos del curso que estás creando como actividad final de este curso.
-
-Dale estructura de capítulos y subcapítulos. No te preocupes ahora de las actividades. Eso lo veremos más adelante. Ahora se trata de agregar contenido..
