@@ -15,12 +15,9 @@
 
 * [Introducción](introduccin2.md)
 * [El sistema de archivos](u1_el_sistema_de_archivos.md)
-  * [Crear una carpeta](crear_una_carpeta.md)
-  * [Subir un archivo](subir_un_archivo.md)
   * [Opciones para archivos](opciones_para_archivos.md)
   * [Opciones para carpetas](opciones_para_carpetas.md)
   * [El Repositorio de archivos](el_repositorio_de_archivos.md)
-  * [Actividades](actividades2.md)
 * [Temas y Recursos](u2_los_proveedores.md)
   * [Recursos internos](recursos_internos.md)
   * [Editor HTML](editor_html.md)

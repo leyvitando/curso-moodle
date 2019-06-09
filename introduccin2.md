@@ -1,8 +1,7 @@
 # M2 Los recursos de Moodle
 
-![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/logo-1024x254.jpg)
-Imagen obtenida de https://moodle.org/logo/
-
+![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/logo-1024x254.jpg)  
+Imagen obtenida de [https://moodle.org/logo/](https://moodle.org/logo/)
 
 # Introducción
 
@@ -17,6 +16,8 @@ En este módulo veremos cómo hacerlo, guardando los recursos en el almacén de 
 Para este módulo nos planteamos los siguientes objetivos:
 
 1. Conocer la manera de acceder al sistema de archivos de Moodle
-1. Aprender a guardar los recursos en el sistema de archivos
-1. Aprender a organizar los recursos y a presentarlos con coherencia en un curso de Moodle
-1. Elaborar material con eXeLearning
+2. Aprender a guardar los recursos en el sistema de archivos
+3. Aprender a organizar los recursos y a presentarlos con coherencia en un curso de Moodle
+
+
+
