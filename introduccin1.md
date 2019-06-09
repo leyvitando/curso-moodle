@@ -1,6 +1,8 @@
 # El entorno de un curso Moodle
 
+## ![](/assets/logo.png)
 
+Imagen obtenida de [https://moodle.org/logo/](https://moodle.org/logo/)
 
 ## Introducción
 
