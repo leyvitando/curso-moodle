@@ -5,17 +5,17 @@ Las columnas de un curso se definen añadiendo o eliminando bloques o componente
 * **una central** más amplia donde se presentará los contenidos de nuestro curso todo el material didáctico y las actividades, las pruebas de evaluación, las herramientas de comunicación: foros, chat, etc. En esta zona es donde aparecen los diferentes temas cada uno con las diferentes actividades que se hayan propuesto.
 * y **otra lateral **más estrecha donde se colocarán los bloques. 
 
-imagen
+![](/assets/doscolumnas.png)
 
 En algunos casos, en función del tema de apariencia que se seleccione, será posible disponer los componentes en **tres columnas**: dos zonas laterales para situar los bloques más la zona central de contenido.
 
-imagen
+![](/assets/trescolumnas.png)
+
+Nota que hemos modificado la apariencia del curso para las capturas de pantalla anteriores. Ésto se debe a que el tema de apariencia actual de Aularagón \(Maker\) no permite configuración en dos columnas, ya que tiene una estructura fija de tres columnas, en las que la columna de la izquierda muestra los bloques de Navegación y Administración sin aspecto de bloque y en la columna de la derecha se muestran/añaden el resto de bloques.
 
 # Los bloques
 
 En las columnas laterales existen una serie de componentes que llamamos bloques y que añaden funcionalidad a nuestro curso y hacen más accesible algunos de los elementos del curso. Éstos bloques pueden modificarse o cambiarse de posición, dentro de la misma zona lateral, entre las dos zonas laterales si existiesen o incluso su desplazamiento podría forzar la creación de la segunda zona lateral, si no existiera.
-
-imagen
 
 En la imagen siguiente podemos ver los bloques que podemos encontrar en nuestra plataforma:
 
@@ -24,9 +24,6 @@ En la imagen siguiente podemos ver los bloques que podemos encontrar en nuestra 
 Los bloques y elementos disponibles depende de los que se hayan instalado en cada plataforma. Cada bloque tiene un pequeño icono en su parte superior derecha que permite contraer o expandir el contenido del bloque dentro de la columna en la que se encuentra. Al activar la edición del curso, aparece una barra con mas botones que nos permitirán mover el bloque, ocultarlo, cambiarlo de columna o eliminarlo.
 
 ![](blob:https://legacy.gitbook.com/32056325-b398-49ac-b0f3-fb1b5a58c915)
-
-  
-
 
 **Añadiendo bloques**
 
