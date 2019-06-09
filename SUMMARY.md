@@ -8,8 +8,8 @@
 ## M1. El entorno de Moodle
 
 * [El entorno de un curso Moodle](introduccin1.md)
-* [El entorno de Moodle. Un poco de organización:](u1_el_entorno_de_moodle_un_poco_de_organizacin.md)
-  * [Las columnas](las_columnas.md)
+* [Personalizando nuestro curso](u1_el_entorno_de_moodle_un_poco_de_organizacin.md)
+* [Las columnas](las_columnas.md)
 * [Añadiendo bloques](u2_aadiendo_bloques.md)
 
 ## M2. Los recursos de Moodle
