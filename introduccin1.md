@@ -1,5 +1,9 @@
 # El entorno de un curso Moodle
 
+
+
+## Introducción
+
 Moodle es una plataforma modular. Esto supone que pueden presentarse en pantalla aquellos elementos que interese tener, ocultando quellos que no.
 
 Además, es posible encontrar módulos que no aparecen en la instalación original de Moodle. Son módulos que ponen los desarrolladores a disposición de los usuarios, unos de forma gratuita y otros no, para que los puedan ensamblar en sus propias plataformas, obteniéndose así mejoras en las funcionalidades de Moodle.
