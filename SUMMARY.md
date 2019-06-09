@@ -30,22 +30,6 @@
   * [Añadir una carpeta](aadir_una_carpeta.md)
   * [Desplegar paquete de contenido IMS](desplegar_paquete_de_contenido_ims.md)
 * [Aplicaciones prácticas. Cómo utilizar Moodle](u3_aplicaciones_prcticas_cmo_utilizar_moodle.md)
-  * [Como catálogo de recursos](como_catlogo_de_recursos.md)
-  * [Como aula virtual](como_aula_virtual.md)
-  * [eXeLearning](exelearning.md)
-  * [¿Qué es eXeLearning?](qu_es_exelearning.md)
-  * [Descarga e instalación](descarga_e_instalacin.md)
-  * [El entorno](el_entorno.md)
-  * [Barra de menú](barra_de_men.md)
-  * [Barra lateral](barra_lateral.md)
-  * [Edición](edicin.md)
-  * [iDevices](idevices.md)
-  * [Presentar contenidos o temas](presentar_contenidos_o_temas.md)
-  * [Contenidos externos del web](contenidos_externos_del_web.md)
-  * [Mostrar elementos multimedia](mostrar_elementos_multimedia.md)
-  * [Combinación de paquetes](combinacin_de_paquetes.md)
-  * [Formatos de exportación](formatos_de_exportacin.md)
-  * [Saber más](saber_ms.md)
 
 ## M3 Gestión de Usuarios en Moodle
 

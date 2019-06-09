@@ -13,4 +13,9 @@ Otra ventaja de Moodle es el tipo de comunicación que puede establecerse entre 
 Estas son dos aplicaciones prácticas de Moodle que te ofrecemos como ejemplo y te invitamos a que nos acompañes en su construcción:
 
 - **Catálogo de recursos**.
+También podría hablarse de expositor o repositorio. Nos referimos a la necesidad que a veces tiene un profesor de facilitar material a sus alumnos o quizá a otros profesores. Es cierto que también tenemos otras posibilidades para hacerlo, como enviar un archivo adjunto por correo electrónico, subirlo a una página web o repartir fotocopias, pero Moodle añade el valor de establecer una comunciación, de que podamos relacionarnos con los distintos usuarios que accedan a la plataforma, pedirles su opinión y darles la nuestra e incluso permitirles que sean ellos mismos los que añadan recursos.
+Este catálogo pretende ser un instrumento de apoyo a las clases.
+
 - **Aula virtual**.
+Moodle puede utilizarse como aula virtual, tanto en formación a distancia como en formación presencial o semipresencial. Se puede construir un curso entero o utilizar el aula como apoyo a las clases presenciales.
+En los siguientes módulos vas a aprender a crear actividades en Moodle, a generar herramientas de comunicación y a manejar un calificador para poder puntuar y llevar un registro de las actividades de tus alumnos.
