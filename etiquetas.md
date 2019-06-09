@@ -15,7 +15,7 @@ Se puede añadir texto e incluso imágenes u objetos multimedia.
 
 Una función de las etiquetas es cambiar la apariencia de la portada del curso, dirigiendo la atención y ofreciendo información visual que guíe hacia los contenidos y las actividades.
 
-
+![](/assets/etiqueta2.png)
 
 Otra función de las etiquetas es añadir elementos multimedia, audio o videos, a la portada del curso. Para ello, en el cuerpo de la etiqueta se pulsa el botoón multimedia como indica este videotutorial:
 
