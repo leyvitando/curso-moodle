@@ -1,4 +1,6 @@
 
+
+
 # Libro
 
 Una manera de presentar información al alumno es agregando el recurso **Libro**.
@@ -6,7 +8,7 @@ Una manera de presentar información al alumno es agregando el recurso **Libro**
 Como siempre, para hacerlo necesitamos activar la edición y pulsar en el enlace "Añadir una actividad o un enlace" del tema en el que estemos trabajando.
 
 
-![Fig. Captura de pantalla. Ventana de inserción del recurso Libro](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_un_libro.png)
+![](/assets/recursolibro.PNG)
 
  
 
