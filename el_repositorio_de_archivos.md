@@ -1,8 +1,8 @@
-# El Repositorio de archivos
+# El Selector de archivos
 
-El repositorio de Moodle permite a los usuarios subir archivos desde nuestro equipo o desde otros Repositorios externos o, incluso, explorar las imágenes de una dirección web y mostrarlas para incorporarlas a nuestro repositorio. Se accede a él al subir un archivo.
+El selector de archivos de Moodle permite a los usuarios subir archivos desde nuestro equipo o desde otros repositorios externos o, incluso, explorar las imágenes de una dirección web y mostrarlas para incorporarlas a nuestro repositorio. Se accede a él al subir un archivo.
 
-![Fig. 3.17 Captura de pantalla. Selector de archivos](/assets/Selección_139.png)
+![](/assets/selectordeArchivos.png)
 
 ---
 
@@ -17,15 +17,13 @@ En él podemos:
 
 ### ¿Para qué nos sirve?
 
-El Repositorio nos sirve para incorporar archivos al recurso que estemos modificando o a nuestros Archivos privados. Así podemos incorporarlos desde otro recurso \(siempre que nuestro permiso nos lo permita\), desde nuestro equipo subiendo el archivo o desde un recurso remoto como puede ser la Wikimedia u otra página web cualquiera.
+El Selector de archivos nos sirve para incorporar archivos al recurso que estemos modificando o a nuestros **Ficheros privados**. Así podemos incorporarlos desde otro recurso \(siempre que nuestro permiso nos lo permita\), desde nuestro equipo subiendo el archivo o desde un recurso remoto como puede ser la Wikimedia u otra página web cualquiera.
 
 Sería posible, siempre y cuando los administradores de Moodle lo instalaran y habilitaran, incorporar el acceso a otro repositorios como Flikr, Box,...
 
 Al incorporar un archivo desde otro repositorio \(pongamos Wikimedia\), nos pregunta algunos datos del recurso:
 
-![Fig Captura de pantalla. Incorporación desde otro repositorio](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/importarr_de_repositorio.png)
+![](/assets/moodleicon.png)
 
 Los datos que nos pide son el nombre que queremos dar al archivo que incorporamos a nuestra carpeta o al recurso que editamos, el autor y el tipo de licencia.
-
-
 

@@ -17,7 +17,7 @@
 * [El sistema de archivos](u1_el_sistema_de_archivos.md)
   * [Opciones para archivos](opciones_para_archivos.md)
   * [Opciones para carpetas](opciones_para_carpetas.md)
-  * [El Repositorio de archivos](el_repositorio_de_archivos.md)
+  * [El Selector de archivos](el_repositorio_de_archivos.md)
 * [Temas y Recursos](u2_los_proveedores.md)
   * [Recursos internos](recursos_internos.md)
   * [Editor HTML](editor_html.md)
