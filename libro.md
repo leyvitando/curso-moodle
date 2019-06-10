@@ -56,5 +56,5 @@ De esta manera podríamos crear el contenido dividido en capítulos de una forma
 
 Visualiza este videotutorial que hay en el siguiente apartado, para ver de forma dinámica la creación de estos recursos. 
 
-{% youtube %}https://www.youtube.com/watch?v=Woap4QYsyOM {% endyoutube %}
+{% youtube %}https://youtu.be/QXB985rK8mQ {% endyoutube %}
 

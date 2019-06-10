@@ -129,5 +129,5 @@ Una vez terminada la página, la guardamos eligiendo entre: **Guardar cambios y 
 
 Puedes ver de forma más gráfica la creación de este recurso en el siguiente videotutorial .
 
-{% youtube %} https://www.youtube.com/watch?v=bjC99KRiYHw {% endyoutube %}
+{% youtube %} https://youtu.be/2eAJs946Gqc {% endyoutube %}
 

@@ -13,7 +13,7 @@ Copiamos la URL en el campo URL externa y le ponemos un nombre y una descripció
 
 Desplegando el menú de apariencia podemos elegir el tamaño de la ventana que se abre al abrir la URL o que se abrá en un a ventana emergente.
 
-{% youtube %}https://youtu.be/krpl2GlInDwM {% endyoutube %}
+{% youtube %}https://youtu.be/fwm7Zp9ifTg {% endyoutube %}
 
 
 ## Actividad
