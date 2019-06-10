@@ -8,11 +8,11 @@ Para ello tendríamos que entrar en la propia actividad o recurso y en el menú 
 
 Nos aparecerá la ventana con la lista de roles disponibles y cuántos hay asignados en este momento:
 
-![Captura de pantalla. Roles disponibles](/assets/Selección_201.png)
+![](/assets/asignarolenforo.PNG)
 
 Pinchando en cada uno de ellos podremos asignar, sólo para esta tarea, un rol distinto a los usuarios matriculados en nuestro curso:
 
-![Captura de pantalla. Asignación de roles](/assets/Selección_202.png)
+![](/assets/asignarollocalmente.PNG)
 
 Esto podría ser interesante si, por ejemplo, tuviéramos en un curso dos grupos de estudiantes y quisiéramos que uno de ellos realizara una actividad y otro no. Para ello deberíamos solicitar a nuestro administrador que creara un rol específico para cada grupo de estudiantes, de manera que en la actividad correspondiente pudiéramos adjudicar el acceso sólo a uno de los dos.
 
