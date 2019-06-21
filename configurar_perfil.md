@@ -6,11 +6,11 @@ Para configurar la información que muestra nuestro perfil personal, la mayor pa
 
 En la ventana que se abre a continuación encontraremos las siguientes opciones \( te las vamos a mostrar en varias imágenes que muestran los distintos bloques\):
 
-![](/assets/Selección_215b.png)
+![](/assets/editaperfil.png)
 
-* Como podéis ver, los **campos marcados en rojo**, son lo que Moodle solicita para activar a un usuario y son, por lo tanto, **imprescindibles**. Vemos también que desde la opción "Mostrar correo" podemos elegir ocultarlo, **pero no podemos quitar este dato**. Los demás datos no son obligatorios. Y, sin embargo, algunos datos son fundamentales, tanto para los estudiantes como para el profesorado.
+Como se puede ver, los **campos marcados en rojo**, son lo que Moodle solicita para activar a un usuario y son, por lo tanto, **imprescindibles**. Vemos también que desde la opción "Mostrar correo" podemos elegir ocultarlo, **pero no podemos quitar este dato**. Los demás datos no son obligatorios. Y, sin embargo, algunos datos son fundamentales, tanto para los estudiantes como para el profesorado.
 
-![](/assets/Selección_216.png)
+![](/assets/editaperfil2.png)
 
 ## Importante
 
