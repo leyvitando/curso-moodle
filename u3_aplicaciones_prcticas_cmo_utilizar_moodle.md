@@ -2,7 +2,7 @@
 # U3. Aplicaciones prácticas. Cómo utilizar Moodle
 
 ![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Moodle-icon.png)
- **Fig. Imagen obtenida de [Wikimedia](http://commons.wikimedia.org/wiki/File:Moodle-icon.png?uselang=es).<br/> [Licencia Pública _General GNU](http://en.wikipedia.org/wiki/es:GNU_General_Public_License)**
+ **Imagen obtenida de [Wikimedia](http://commons.wikimedia.org/wiki/File:Moodle-icon.png?uselang=es).<br/> [Licencia Pública _General GNU](http://en.wikipedia.org/wiki/es:GNU_General_Public_License)**
 
 Ya sabemos subir distintos tipos de recursos a Moodle y gestionar el sistema de archivos. Ahora bien, ¿para qué puede servirnos Moodle? ¿qué podemos hacer en Moodle?
 

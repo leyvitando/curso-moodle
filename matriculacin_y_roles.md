@@ -14,11 +14,11 @@ En la pantalla que se nos mostrará podremos añadir los usuarios que nos intere
 
 ![](/assets/Selección_190.png)
 
-En el cuadro de la izquierda muestra los usuarios matriculados actualmente en el curso y en el de la derecha la lista completa de usuarios de nuestro Moodle. Sólo es cuestión de ir seleccionando a los usuarios de la derecha \(manteniendo pulsada la tecla CTRL mientras lo hacemos podemos seleccionar a varios\). Una vez seleccionados pulsamos en el botón **Agregar**.
+En el cuadro de la izquierda muestra los usuarios matriculados actualmente en el curso y en el de la derecha la lista completa de usuarios de nuestro Moodle. Sólo es cuestión de ir seleccionando a los usuarios de la derecha \(manteniendo pulsada la tecla CTRL, mientras lo hacemos, podemos seleccionar a varios\). Una vez seleccionados pulsamos en el botón **Agregar**.
 
 Antes de hacer nada comprueba las siguientes cuestiones:
 
-1. Qué el rol a asignar es **estudiante**.
+1. Que el rol a asignar es **estudiante**.
 2. El periodo de vigencia de la matrícula, que oscila entre **sin límites y 365 días**. Lo normal es que dejes la opción **sin límites**.
 3. **Fecha en que comienza la matrícula**. Por defecto aparece el día actual, pero puedes establecer una fecha diferente si, por ejemplo, te interesa que los estudiantes no puedan acceder al curso hasta una fecha concreta, mientras preparas los materiales, actividades, …
 
@@ -33,6 +33,4 @@ Si hemos sido cuidadosos, al introducir a los usuarios en nuestro curso les habr
 Esto nos lleva a la relación de usuarios que hay matriculados en nuestro curso con la opción de cambiarles el rol. Desde aquí podemos también quitar a un usuario del curso o cambiar las condiciones de su matrícula:
 
 ![](/assets/cambiarrol.png)
-
-
 

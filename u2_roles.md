@@ -1,7 +1,7 @@
 # U2. Roles
 
 ![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/roles.png)  
-**Fig. 4.7 Obtenida de **[**Pixabay**](http://pixabay.com/en/queue-communal-community-group-154925/)**. Licencia CC0**
+I**Imagen obtenida de **[**Pixabay**](http://pixabay.com/en/queue-communal-community-group-154925/)**. Licencia CC0**
 
 Los roles permiten definir los distintos niveles de interacción \(y control\) y acceso que un usuario puede establecer en un contexto Moodle determinado \(curso, actividad,...\). Los roles llevan asociados permisos y habilidades que se pueden aplicar a diferentes usuarios y contextos. Las capacidades y permisos asociados a un rol determinado se pueden modificar desde un nivel de administrador. La capacidad de configuración de los roles en el nivel de profesor/a está más limitada.
 
