@@ -13,4 +13,4 @@ En esta vista de detalle, observamos que hay una sección **Informes**. Especial
 
 Si quieres saber más sobre los informes de curso, puedes ver este videotutorial que lo explica:
 
-{% youtube %} https://www.youtube.com/watch?v=4EgcI3TtHcE& {% endyoutube %}
+{% youtube %} https://www.youtube.com/watch?v=VR91YcB3tCw {% endyoutube %}
