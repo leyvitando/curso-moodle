@@ -47,7 +47,6 @@
   * [Panel Inferior](panel_inferior.md)
 * [U4. Perfil personal](u4_perfil_personal.md)
   * [Configurar Perfil](configurar_perfil.md)
-  * [Otras funciones](otras_funciones.md)
   * [Informe de actividad](informe_de_actividad.md)
 * [U5. Configuración grupos](u5_configuracin_grupos.md)
   * [Creación de grupos](creacin_de_grupos.md)
