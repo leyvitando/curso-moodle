@@ -16,14 +16,15 @@ Desde ambos caminos llegamos a la configuración de Grupos donde veremos las sig
 
 Si queremos crear un nuevo grupo lo haríamos pulsando el **Crear grupo.** En la pantalla que se abrirá a continuación, podrás definir las características de cada grupo, pero siempre podrás modificar pulsando el botón **editar ajustes de grupo**.
 
-![](/assets/Selección_222.png)
+![](/assets/ConfGrupo.png)
 
 En esta pantalla podemos:
 
 1. **Dar nombre al grupo**, por ejemplo, **Grupo A**.
 2. Incluir una pequeña **descripción** del mismo.
 3. **Clave de matriculación**, en el caso de que deseemos que nuestros estudiantes tengan que conocer una clave para entrar en el grupo. Recuerda marcar la casilla **"desenmascarar"** para asegurarte de que escribes bien la clave.
-4. Por último, podemos **identificar** cada uno de nuestros **grupos** con una** imagen**, para lo que tendremos que arrastrarla hasta el selector de archivos y dejar la opción ocultar imagen como **no**. Esto es muy útil cuando, por ejemplo, en un foro, permitimos que participen varios grupos, pero queremos que los profesores puedan identificar rápidamente a los participantes de su curso.
+4. **Group messaging**: permite habilitar la opción de poder definir mensajes grupales.
+5. Por último, podemos **identificar** cada uno de nuestros **grupos** con una** imagen**, para lo que tendremos que arrastrarla hasta el selector de archivos y dejar la opción ocultar imagen como **no**. Esto es muy útil cuando, por ejemplo, en un foro, permitimos que participen varios grupos, pero queremos que los profesores puedan identificar rápidamente a los participantes de su curso.
 
 No olvides, al finalizar este proceso, pulsar el botón **Guardar cambios** si estás conforme con lo que has hecho, o **Cancelar** si no quieres guardar los cambios.
 
@@ -35,7 +36,7 @@ Encontrarás cada uno de los grupos que hayas creado, con el **profesor/a** en p
 
 También puedes usar la **visión general** que tienes en la pestaña superior. De esta manera podrás ver todos tus grupos con sus miembros a la vista.
 
-Si ahora vas al **panel de participantes** verás que vas a poder **filtrar también por grupos** y además en el listado aparecerá una nueva columna en la que se indique el grupo al que pertenece cada participante, o si no pertenece a ningún grupo. 
+Si ahora vas al **panel de participantes** verás que vas a poder **filtrar también por grupos** y además en el listado aparecerá una nueva columna en la que se indique el grupo al que pertenece cada participante, o si no pertenece a ningún grupo.
 
 ![](/assets/panelParticipantesconGrupos.png)
 

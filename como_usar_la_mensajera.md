@@ -35,12 +35,5 @@ Cuando el usuario no está en línea y recibe mensajes, estos quedan pendientes 
 
 **Fig. 4.64 Captura de pantalla. Bloque Mensajes**
 
-## Actividad 12
 
-
-Incluye a 10 estudiantes de tu curso en la **lista de contactos**.
-
-
-
-**Envía mensajes** a dos de ellos y **bloquea** a otros dos.
 
