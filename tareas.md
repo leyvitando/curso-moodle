@@ -5,8 +5,9 @@ La actividad **Tarea **de Moodle permite proponer un ejercicio a los estudiantes
 
 ![](/assets/tarea.PNG)
 
-A la hora de crear una tarea, deberemos asignarle un nombre y una descripción en la que expliquemos qué debe realizar el alumno/a.
-Además desde la configuración de la tarea se pueden especificar numerosos parámetros como en qué fechas está disponible, si es posible o no entregar después de la fecha límite, si la respuesta va a ser un texto y/o uno o varios archivos adjuntos, tipo y tamaño de los archivos que se pueden adjuntar, número máximo de intentos que pueden realizar, tipo de calificación...  
+A la hora de crear una tarea, deberemos asignarle un nombre y una descripción en la que expliquemos qué debe realizar el alumno/a. Ésta descripción puede ir acompañada de enlaces, incluso de algún vídeo en el que expliquemos directamente el trabajo a desarrollar.
+
+Además desde la configuración de la tarea se pueden especificar numerosos parámetros como: en qué fechas está disponible, si es posible o no entregar después de la fecha límite, si la respuesta va a ser un texto y/o uno o varios archivos adjuntos, tipo y tamaño de los archivos que se pueden adjuntar, número máximo de intentos que pueden realizar, tipo de calificación...  
 
 ![](/assets/confTarea.PNG)
 
