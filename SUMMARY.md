@@ -54,7 +54,6 @@
   * [Configuración modo grupos](configuracin_modo_grupos.md)
 * [U6. Mensajería](u6_mensajera.md)
   * [Como usar la Mensajería](como_usar_la_mensajera.md)
-  * [Ajustes y Configuración](ajustes_y_configuracin.md)
 
 ## M4 Las actividades en Moodle
 
