@@ -1,23 +1,18 @@
-
 # Participar en un foro
 
-El foro aparecerá en el tema del curso en el que lo hemos añadido, en este caso es un **Foro de avisos**
+Para participar en un foro, accederemos al mismo haciendo click sobre él y nos dirigirá a la página del foro, donde se verán los mensajes si los hubiera. 
 
-![Captura de pantalla Accesos a los foros.](/assets/Selección_283.png)
+![](/assets/accesoforo.PNG)
 
-Haciendo clic en el **Foro de avisos**aparece la pantalla siguiente:
+Comenzaremos pulsando el botón **Añadir un nuevo tema de discusión** que nos llevará a la página donde daremos título al hilo de nuestro foro y escribiremos el mensaje. 
 
-![Captura de pantalla. Añadir nuevo tema de discusión.](/assets/Selección_284.png)
+![](/assets/contenidoforo.PNG)![](/assets/contenidoforo2.PNG)
 
-Vamos a hacer una** primera intervención en el foro**, para ello hacemos clic en **Añadir un nuevo tema**:
-
-![Captura de pantalla. Opciones para un nuevo tema](/assets/Selección_285.png)
-
-- **Asunto**: Título o tema del foro.
-- **Mensaje**: escribimos una breve descripción de la temática o finalidad del foro.
-- **Suscripción**: Cuando alguien se subscribe a un foro recibe por correo electrónico una copia de cada mensaje enviado a ese foro (los mensajes son enviados aproximadamente 30 minutos después de haber sido escritos). Los participantes normalmente pueden escoger si desean o no suscribirse a cada uno de los foros. Sin embargo, si un profesor/a fuerza la suscripción a un foro concreto, esta posibilidad de elección es anulada y todos recibirán copias por correo electrónico de los mensajes de ese foro. Esto es especialmente útil en el foro de Noticias y en los foros de principio del curso (antes de que todos sepan que pueden suscribirse por sí mismos). T
-- ** Enviar notificaciones del tema sin tiempo de espera para edición**: El mensaje se envía en ese mismo momento por correo electrónico a los usuarios suscritos, sin el retardo habitual de 30 minutos.
-- **Archivo adjunto:** Se pueden adjuntar en este caso hasta 9 archivos de cualquier tipo. Estos archivo son subidos al servidor y guardado con su mensaje. .
+* **Asunto**: Título o tema del foro.
+* **Mensaje**: escribimos una breve descripción de la temática o finalidad del foro.
+* **Suscripción**: Cuando alguien se subscribe a un foro recibe por correo electrónico una copia de cada mensaje enviado a ese foro \(los mensajes son enviados aproximadamente 30 minutos después de haber sido escritos\). Los participantes normalmente pueden escoger si desean o no suscribirse a cada uno de los foros. Sin embargo, si un profesor/a fuerza la suscripción a un foro concreto, esta posibilidad de elección es anulada y todos recibirán copias por correo electrónico de los mensajes de ese foro. Esto es especialmente útil en el foro de Noticias y en los foros de principio del curso \(antes de que todos sepan que pueden suscribirse por sí mismos\). T
+* ** Enviar notificaciones del tema sin tiempo de espera para edición**: El mensaje se envía en ese mismo momento por correo electrónico a los usuarios suscritos, sin el retardo habitual de 30 minutos.
+* **Archivo adjunto:** Se pueden adjuntar en este caso hasta 9 archivos de cualquier tipo. Estos archivo son subidos al servidor y guardado con su mensaje. .
 
 ## IMPORTANTE
 
@@ -33,8 +28,9 @@ Para **verlo** se hace clic en el tema del mensaje y el mensaje se mostrará en 
 
 Desde aquí podemos:
 
-- **Editar**:permite corregir el contenido de la entrada.
-- **Borrar**: permite borrar la entrada.
-- **Responder**: permite contestar al mensaje.
+* **Editar**:permite corregir el contenido de la entrada.
+* **Borrar**: permite borrar la entrada.
+* **Responder**: permite contestar al mensaje.
 
 También podemos volver a la pantalla de configuración haciendo clic en el botón **Actualizar foro. **
+
