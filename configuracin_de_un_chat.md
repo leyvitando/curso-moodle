@@ -45,10 +45,6 @@ Vamos a ver los campos a rellenar en el primer punto ya que el segundo es común
 
 ### 3. Ajustes comunes del módulo
 
-Permite modificar algunos de los ajustes generales del módulo. Ya lo hemos visto más arriba.
+Permite modificar algunos de los ajustes generales del módulo. 
 
-Una vez creado el chat lo guardamos haciendo clic en **Guardar cambios y regresar al curso**. Podremos acceder a él seleccionando directamente el enlace **Chat del curso**
-
-![Captura de pantalla. Accesos al chat](/assets/Selección_289.png)
-
-Captura de pantalla. Accesos al chat
+Una vez creado el chat lo guardamos haciendo clic en **Guardar cambios y regresar al curso**. 
