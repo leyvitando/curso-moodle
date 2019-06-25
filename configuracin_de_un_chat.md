@@ -3,10 +3,8 @@
 
 Para añadir un chat a un curso, tras **activar la edición**, hemos de pinchar en el enlace **Añadir una actividad o un recurso** del tema correspondiente y elegir **chat** en la ventana de elección de tipo de actividad:
 
+![](/assets/chat.PNG)
 
-![](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/chat-agregar_chat.png)
-
-**Fig. 5.71 Captura de pantalla. Ventana de inserción de Chat**
 
  
 
