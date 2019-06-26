@@ -22,9 +22,13 @@ El menú "Editar" de un tema ofrece las siguientes opciones:
 * **Destacar**: Hace ese tema más visible para los estudiantes.
 * **Ocultar tema**: Permite ocultar ese tema a los estudiantes para acompasar su ritmo de aprendizaje o mientras ese tema está en creación. Un tema oculto es invisible para los estudiantes pero se ve en tonos más apagados desde el profesor del curso:
 
-Además de estos iconos, vemos que aparece, al final del tema, la posibilidad de agregar una actividad o recurso:
 
-![](/assets/anadeactividadorecurso.PNG)
+
+Además de estos iconos, vemos que al final de la página se muestra la opción **Añadir secciones** que nos permitirá ir añadiendo **temas **a nuestro curso.
+
+
+
+También vemos que al final de cada tema aparece la posibilidad de agregar una actividad o recurso:
 
 Pinchando en ella nos da acceso a una ventana con la lista de todos los tipos de actividades y recursos que podemos añadir a nuestro tema. Para cada uno de ellos nos da una explicación de en qué consiste.
 
