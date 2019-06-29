@@ -12,11 +12,11 @@ Ahi tenemos dos opciones para letras: Vista y editar.
 
 Haciéndolo accedemos a la Vista de las letras \(aunque si en editable elegimos "Editar", entraremos directamente en la edición\). Esta es la pantalla de vita de las letras de calificación:
 
-![](/assets/Selección_323.png)
+![](/assets/letras.png)
 
 Pulsando en el enlace **Editar letras de calificación** podremos acceder a la pantalla que nos permita modificarlas:
 
-![](/assets/Selección_324.png)
+![](/assets/editarLetras.png)
 
 Nos encontramos con las clasificación ya hecha y sin posibilidad de editar. Para poder modificarlo tenemos que marcar la casilla de la primera opción "**Pasar por algo los valores por defecto del sitio**", de tal manera que en ese momento los campos de la lista de letras son editables.
 
