@@ -2,11 +2,11 @@
 
 Existen diferentes actividades calificables, no sólo las tareas.
 
-La calificación de cada actividad se configura, como ya hemos visto, en las secciones "Calificación" y "Calificaciones" del menú **Editar ajustes** de dicha tarea.
+La calificación de cada actividad se configura, como ya hemos visto, en las secciones **Calificación** y **Calificaciones** del menú **Editar ajustes** de dicha tarea.
 
 ## Configurando la calificación de una tarea.
 
-Elegimos editar ajustes en la configuración de la actividad. Una vez ahí bajamos a la sección calificación:
+Elegimos editar ajustes en la configuración de la actividad. Una vez ahí bajamos a la sección **Calificación**:
 
 ![](/assets/Selección_326.png)
 
@@ -17,7 +17,7 @@ Elegimos también el método de calificación y la calificación mínima para ap
 Para proceder a la calificación de las tareas enviadas recuerda que deberás acceder al calificador de cada una de ellas.  Para hacerlo hay varias opciones:
 
 * Pulsando sobre la tarea en la portada del curso.
-* Seleccionando esa tarea en el "Informe del calificador"
+* Seleccionando esa tarea en el **Informe del calificador**
 
 Entraremos en la descripción de la tarea, en la que habrá un botón para **Ver/Calificar todas las entregas**
 
@@ -44,8 +44,6 @@ Particularmente nos puede ser muy útil:
 * **Filtro**: donde podemos seleccionar qué estudiantes ver en el listado anterior. Si elegimos **Requiere calificación**, cuando accedamos a la calificación de la tarea, únicamente nos mostrará las entregas que hayan sido enviadas y estén pendientes de calificación. Así iremos directamente a ellas y no tendremos que ir buscándolas entre todo el listado.
 * **Calificación rápida**: Si marcamos esta opción, la tabla anterior será editable y podremos asignar calificaciones directamente sobre la tabla.
 
-
-
 Hemos visto que tanto junto a la descripción de la tarea, como en la tabla anterior, aparecía el botón **Calificación.**
 
 ![](/assets/botonCalificacion.png)
@@ -59,8 +57,6 @@ En esta página se previsualiza en la zona de la izquierda si hubiera algún arc
 En la zona superior derecha aparece el menú de navegación entre estudiantes. También nos serán de ayuda aquí hacer uso del filtro para que en esta navegación solo aparezcan aquellas entregas que requieren calificación.
 
 ![](/assets/filtroCalificación.png)
-
-
 
 Una vez hayamos calificado, debemos asegurarnos de pulsar el botón **Guardar cambios**, para pasar al calificador general de la tarea o **Guardar y mostrar el siguiente** para calificar la tarea del siguiente alumno.
 
