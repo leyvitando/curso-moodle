@@ -26,7 +26,9 @@ En segundo lugar, estas insignias pueden ser exportadas a Open Badges por lo que
 
 Por último, la edición de las insignias no siempre está abierta. Puedes editar una insignia tantas veces como quieras mientras no haya sido concedida a ningún usuario. Cuando el primer usuario la recibe, esta insignia se vuelve estática y no puede ser editada, por lo que debes asegurarte mucho antes de desbloquear su consecución por parte de los estudiantes.
 
-Una vez creada la insignia y subido el archivo de su imagen, aparece esta pantalla a la que se puede llegar también pulsando "Gestionar insignias"
+
+<!--
+Una vez creada la insignia y subido el archivo de su imagen, aparece la pantalla a la que se puede llegar también pulsando "Gestionar insignias"
 
 La gestión de una insignia \(La creada aquí se llama Moodoe 3.2 se reparte en 5 pestañas diferentes.
 
@@ -80,3 +82,4 @@ Muestra la lista de usuarios de Moodle que han recibido esta insignia.
 
 ![](/assets/Selección_366.png)
 
+--!>
