@@ -22,7 +22,7 @@ Una vez seleccionado un tipo de consolidación, podemos ya elegir la calificaci�
 
 Si queremos que haya coevaluación y los alumnos puedan calificar los mensajes de sus compañeros, tenemos que entrar en el foro y desde ahí, en el menú desplegable seleccionar "Permisos"
 
-![](/assets/Selección_334.png)
+![](/assets/permisosforo.png)
 
 Una vez ahí, hay que bajar hasta "Calificar mensajes" y pulsar "+"
 
@@ -32,6 +32,7 @@ Basta luego con seleccionar "Estudiante" y con esto ya podrán calificar los men
 
 ## Calificando un foro.
 
-Para calificar un mensaje de un foro, basta con entrar en el hilo donde se encuentre y desplegar las posibles calificaciones que podemos asignar (en función de la escala) y elegir una.
+Para calificar un mensaje de un foro, basta con entrar en el hilo donde se encuentre y desplegar las posibles calificaciones que podemos asignar \(en función de la escala\) y elegir una.
 
 ![](/assets/Selección_337.png)
+
