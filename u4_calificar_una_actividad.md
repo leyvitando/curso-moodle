@@ -2,15 +2,11 @@
 
 Existen diferentes actividades calificables, no sólo las tareas.
 
-La calificación de cada actvidad se configura, como ya hemos visto, en las secciones "Calificación" y "Calificaciones" del menu **Editar ajustes** de dicha tarea.
+La calificación de cada actividad se configura, como ya hemos visto, en las secciones "Calificación" y "Calificaciones" del menú **Editar ajustes** de dicha tarea.
 
 ## Configurando la calificación de una tarea.
 
-Elegimos editar ajustes en la configuración de la actividad.
-
-![](/assets/Selección_325.png)
-
-Una vez ahí bajamos a la sección calificación:
+Elegimos editar ajustes en la configuración de la actividad. Una vez ahí bajamos a la sección calificación:
 
 ![](/assets/Selección_326.png)
 
@@ -23,19 +19,48 @@ Para proceder a la calificación de las tareas enviadas recuerda que deberás ac
 * Pulsando sobre la tarea en la portada del curso.
 * Seleccionando esa tarea en el "Informe del calificador"
 
-![](/assets/Selección_327.png)
+Entraremos en la descripción de la tarea, en la que habrá un botón para **Ver/Calificar todas las entregas**
 
-Entraremos en la descripción de la tarea, en la que habrá un enlace para **Ver/Calificar todas las tareas**
+![](/assets/calificartarea.png)
 
-![](/assets/Selección_328.png)
+Si pulsamos el botón **Ver/Calificar todas las entregas**:
 
-Una vez ahí, podemos calificar las tareas una por una pulsando el botón "Calificación" o bien seleccionar la "Calificación rápida" para calificar todas las entregas desde la misma pantalla.
+Nos llevará a una nueva página donde aparecen el listado de estudiantes y para cada uno de ellos:
 
-![](/assets/Selección_329.png)
+* sus datos: icono de perfil, nombre completo, correo electrónico
+* un botón de acceso a la Calificación, 
+* un botón de Editar, que permite acceder a Calificación, como el anterior, o bien evitar cambios en la entrega o bien dar un nuevo intento.
+* Información relativa a la entrega: fecha de entrega, texto en línea de la entrega \(respuesta\) que podremos leer directamente en este listado \(usaremos el icono lupa\), el archivo o los archivos enviados: desde aquí podremos descargar éstos archivos para su consulta, y los comentarios de la entrega.
+* Información relativa a la calificación: fecha de la calificación, retroalimentación a la calificación, anotación en PDF \(si hubiere\), archivos adjuntos a la retroalimentación \(si le adjuntásemos alguna guía, manual, ayuda... para su corrección\) y calificación final.
 
-Aquí, si lo hubiera podríamos descargar el archivo que el alumno haya subido como trabajo para evaluar. Podemos también ponerle una calificación.
+![](/assets/calificarTarea.png)
 
-También podremos ponerle la retroalimentación \(porque así se ha definido en la tarea\) tanto en forma de texto en el editor o con un archivo que le subamos.
+En la parte inferior de la tabla tenemos una serie de opciones que nos ayudarán a la hora de llevar a cabo las calificaciones:
 
-Después no tenemos más que **Guardar los cambios**, para pasar al calificador general de la tarea o **Guardar y mostrar el siguiente** para calificar la tarea del siguiente alumno.
+![](/assets/opcionesCalificación.png)
+
+Particularmente nos puede ser muy útil:
+
+* **Filtro**: donde podemos seleccionar qué estudiantes ver en el listado anterior. Si elegimos **Requiere calificación**, cuando accedamos a la calificación de la tarea, únicamente nos mostrará las entregas que hayan sido enviadas y estén pendientes de calificación. Así iremos directamente a ellas y no tendremos que ir buscándolas entre todo el listado.
+* **Calificación rápida**: Si marcamos esta opción, la tabla anterior será editable y podremos asignar calificaciones directamente sobre la tabla.
+
+
+
+Hemos visto que tanto junto a la descripción de la tarea, como en la tabla anterior, aparecía el botón **Calificación.**
+
+![](/assets/botonCalificacion.png)
+
+Si lo pulsamos nos redirige a una navegación por las fichas de calificación de cada estudiante para una actividad concreta:
+
+![](/assets/calificación.png)
+
+En esta página se previsualiza en la zona de la izquierda si hubiera algún archivo como entrega, pudiendo añadir comentarios y después en la zona de la derecha se consulta el texto en línea de la entrega y se completan los campos referidos a la calificación.
+
+En la zona superior derecha aparece el menú de navegación entre estudiantes. También nos serán de ayuda aquí hacer uso del filtro para que en esta navegación solo aparezcan aquellas entregas que requieren calificación.
+
+![](/assets/filtroCalificación.png)
+
+
+
+Una vez hayamos calificado, debemos asegurarnos de pulsar el botón **Guardar cambios**, para pasar al calificador general de la tarea o **Guardar y mostrar el siguiente** para calificar la tarea del siguiente alumno.
 
