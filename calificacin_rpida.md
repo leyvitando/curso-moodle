@@ -34,5 +34,5 @@ Basta luego con seleccionar "Estudiante" y con esto ya podrán calificar los men
 
 Para calificar un mensaje de un foro, basta con entrar en el hilo donde se encuentre y desplegar las posibles calificaciones que podemos asignar \(en función de la escala\) y elegir una.
 
-![](/assets/Selección_337.png)
+
 
