@@ -1,5 +1,4 @@
-
-# U3. Calificación con letras
+# Calificación con letras
 
 En Moodle es posible también utilizar letras como símbolos que representan un rango de calificaciones. Por ejemplo, la "A" puede usarse para representar calificaciones del 80% y superiores, la "B" para calificaciones entre 70 y 80%... Igualmente se podría poner la calificación de "Aprobado" para calificaciones que superan el 50% y "Suspendido" para calificaciones que no lo alcanzan.
 
@@ -11,7 +10,7 @@ Ahi tenemos dos opciones para letras: Vista y editar.
 
 ![](/assets/Selección_322.png)
 
-Haciéndolo accedemos a la Vista de las letras (aunque si en editable elegimos "Editar", entraremos directamente en la edición). Esta es la pantalla de vita de las letras de calificación:
+Haciéndolo accedemos a la Vista de las letras \(aunque si en editable elegimos "Editar", entraremos directamente en la edición\). Esta es la pantalla de vita de las letras de calificación:
 
 ![](/assets/Selección_323.png)
 
@@ -26,3 +25,4 @@ Es tan sencillo como modificar los que nos interesen, tanto la "l**etra de calif
 Si alguna de las letras ya diseñadas nos sobran, basta con que elijamos en su límite de calificación la opción "**Sin uso**".
 
 Por último debemos pulsar en el botón **Guardar cambios**.
+

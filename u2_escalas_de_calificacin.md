@@ -1,4 +1,4 @@
-# U2. Escalas de calificación
+# Escalas de calificación
 
 Las puntuaciones de las actividades que se pueden evaluar pueden darse de forma numérica \(con valores entre 1 y 100\) o pueden usarse escalas cualitativas.
 
