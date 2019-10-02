@@ -65,6 +65,7 @@
     * [El banco de preguntas](el_banco_de_preguntas.md)
     * [Configuración de un cuestionario](configuracin_de_un_cuestionario.md)
     * [Añadir preguntas a un cuestionario](aadir_preguntas_a_un_cuestionario.md)
+    * [Generar cuestionario con preguntas al azar](preguntas_azar_cuestionario.md)
   * [Glosario](glosario.md)
     * [Configurar un glosario](configurar_un_glosario.md)
     * [Agregar entradas a un glosario](agregar_entradas_a_un_glosario.md)
