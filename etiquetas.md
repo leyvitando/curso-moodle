@@ -5,7 +5,7 @@ Las etiquetas son un recurso que se genera de modo interno y se utilizan para ti
 
 Se incluyen como cualquier otro recurso, pulsando en "Añadir una actividad o un recurso" y previamente hay que activar la edición, tal como se ha explicado anteriormente.
 
-![Fig.  Captura de pantalla. Ventana de inserción de etiqueta](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/Insertar_etiquetas.png)
+![](/assets/etiqueta.PNG)
 
 La descripción del recurso nos aparece en la imagen, así que nos evitamos describirlo aquí.
 
@@ -15,8 +15,8 @@ Se puede añadir texto e incluso imágenes u objetos multimedia.
 
 Una función de las etiquetas es cambiar la apariencia de la portada del curso, dirigiendo la atención y ofreciendo información visual que guíe hacia los contenidos y las actividades.
 
-![Fig.  Captura de pantalla. Ejemplo de etiqueta](/assets/Selección_152.png)
+![](/assets/etiqueta2.png)
 
 Otra función de las etiquetas es añadir elementos multimedia, audio o videos, a la portada del curso. Para ello, en el cuerpo de la etiqueta se pulsa el botoón multimedia como indica este videotutorial:
 
-{% youtube %}https://youtu.be/TgpHjaQsYxQ {% endyoutube %}
+{% youtube %}https://youtu.be/kzbu6zRTYd0 {% endyoutube %}

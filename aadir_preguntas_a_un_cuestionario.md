@@ -1,7 +1,7 @@
 
 # Añadir preguntas a un cuestionario
 
-Para añadir preguntas a un cuestionario debemos entrar en el cuestionario. Encontraremos el botón "**Editar cuestionario**", que nos llevará a la creación de preguntas del cuestionario:
+Para añadir preguntas a un cuestionario debemos entrar en el cuestionario haciendo click sobre el nombre del mismo. Encontraremos el botón "**Editar cuestionario**", que nos llevará a la creación de preguntas del cuestionario:
 
 ![Captura de pantalla. Vista de cuestionario](/assets/Selección_264.png)
 
@@ -21,13 +21,13 @@ Cada una de ellas podremos verla, configurarla, moverla o quitarla del cuestiona
 
 Aquí tienes un videotutorial en el que se explican con detalle los cuestionarios.
 
-{% youtube %} https://www.youtube.com/watch?v=ZE15P1ahjiI {% endyoutube %}
+{% youtube %} https://youtu.be/AcQETDptJro {% endyoutube %}
 
 ## Para saber más: Importar cuestionarios desde un archivo de texto.
 
 Si tienes cuestionarios grandes en archivos de texto, puede ser un proceso largo y repetitivo pasarlos a moodle rellenando las preguntas una a una.
 
-En esos casos es mejor hacer una importaciçon automática.
+En esos casos es mejor hacer una importación automática.
 
 [En este documento](http://serviciosgate.upm.es/docs/moodle/importar_preguntas.pdf) se explican las diferentes formas de hacerlo.
 

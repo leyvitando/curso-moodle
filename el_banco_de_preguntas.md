@@ -5,23 +5,23 @@ El Banco de preguntas es un repositorio de preguntas que podremos utilizar en lo
 
 Para **acceder al banco de preguntas**, debemos recurrir una vez más al menú de configuración y elegir "Más"
 
-![](/assets/Selección_219.png)
+![](/assets/confCurso.png)
 
 Y una vez ahí, nos aparece una sección de "Banco de preguntas"
 
-![Captura de pantalla. Administración del curso](/assets/Selección_244.png)
+![](/assets/administacionCurso1.PNG)
 
 Si accedemos a Categorías podremos crear nuestras propias categorías y subcategorías rellenando el formulario que aparece para agregar una nueva o pulsando en el icono de edición de cada una de las ya creadas para modificarlas:
 
-![Captura de pantalla. Categorías](/assets/Selección_245.png)
+![](/assets/anadirCategoria.PNG)
 
 A cada una de estas categorías podremos añadir tantas preguntas como estimemos oportuno. Para ello debemos pulsar en el acceso "**Preguntas**" del **Banco de preguntas**. Obtendremos lo siguiente:
+![](/assets/crearPregunta.PNG)
 
-![Captura de pantalla. Banco de preguntas](/assets/Selección_246.png)
 
 Al pinchar en el botón **Crear una nueva pregunta** obtendremos el cuadro de diálogo en el que tenemos que elegir el tipo de pregunta que queremos añadir:
 
-![Captura de pantalla. Crear una nueva pregunta](/assets/Selección_247.png)
+![](/assets/tiposdepreguntas.PNG)
 
 Veamos en qué consisten estos tipos de pregunta. No las describimos en el mismo orden en que aparecen en la imagen por agruparlas de alguna manera:
 

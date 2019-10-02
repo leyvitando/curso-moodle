@@ -1,5 +1,5 @@
 
-# Páginas web
+# Páginas
 
 En este recurso puedes utilizar todas las posibilidades que te ofrece el editor HTML.
 
@@ -13,12 +13,12 @@ Vamos a incidir en las siguientes:
 
 En el editor corresponden a los siguientes iconos:
 
-![Fig. Captura de bantalla de la barra de botones del editor HTML](/assets/Selección_147b.png)
+![](/assets/editorhtmlparapagina.png)
 
 Para incluir una Página tenemos que **activar la edición**, como hemos hecho en otras ocasiones, y pulsar en el enlace "**Añadir una actividad o un recurso**" del tema en el que queramos trabajar. En la ventana que aparece elegimos la opción **Página** entre los recursos que nos ofrece:
 
 
-![Fig. Captura de pantalla de selección de página](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_una_pagina.png)
+![](/assets/pagina.PNG)
 
 
 Obtendremos la siguiente ventana en la que rellenaremos los campos título y descripción. Debajo podremos añadir el contenido de la página que queremos crear:
@@ -129,5 +129,5 @@ Una vez terminada la página, la guardamos eligiendo entre: **Guardar cambios y 
 
 Puedes ver de forma más gráfica la creación de este recurso en el siguiente videotutorial .
 
-{% youtube %} https://www.youtube.com/watch?v=bjC99KRiYHw {% endyoutube %}
+{% youtube %} https://youtu.be/2eAJs946Gqc {% endyoutube %}
 

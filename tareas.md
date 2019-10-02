@@ -1,55 +1,32 @@
 
 # Tareas
 
-Dentro del módulo **Tarea **de Moodle existe la opción que permite a los usuarios subir archivos en distintos formatos y a los docentes calificarlos online.
+La actividad **Tarea **de Moodle permite proponer un ejercicio a los estudiantes que deberán responder. Esta respuesta puede ser un texto, o bien puede ir contenida en uno o varios archivos que podremos adjuntar a la tarea, y será corregida por el profesor/a del curso. Además también podrán añadir un comentario a la entrega de la tarea, por si fuera necesario incorporar alguna aclaración o información relativa a la entrega de la tarea.
 
-Esta opción ofrece ventajas, como las siguientes, que facilitan y agilizan nuestra labor como docentes:
+![](/assets/tarea.PNG)
 
-- Los alumno/as pueden subir sus tareas (en cualquier formato de archivo) al servidor.
-- Se registra la fecha en que se han subido.
-- Pueden enviar tareas fuera de tiempo, pero conoceremos la fecha de envío.
-- Existe un único formulario que nos permite evaluar a la clase entera para cada actividad.
-- Nuestras observaciones se adjuntan a la página de la tarea de cada estudiante.
-- Se envía un mensaje de notificación a los alumno/as cuando comentamos sus tareas.
-- Podemos permitir el reenvío de una tarea tras su calificación (para volver a calificarla).
+A la hora de crear una tarea, deberemos asignarle un nombre y una descripción en la que expliquemos qué debe realizar el alumno/a. Ésta descripción puede ir acompañada de enlaces, incluso de algún vídeo en el que expliquemos directamente el trabajo a desarrollar.
 
-### Tipos de tareas:
+Además desde la configuración de la tarea se pueden especificar numerosos parámetros como: en qué fechas está disponible, si es posible o no entregar después de la fecha límite, si la respuesta va a ser un texto y/o uno o varios archivos adjuntos, tipo y tamaño de los archivos que se pueden adjuntar, número máximo de intentos que pueden realizar, tipo de calificación...  
 
-![Fig. Captura de pantalla. Inserción de tarea.](/assets/Selección_179.png)
+![](/assets/confTarea.PNG)
 
-El texto descriptivo de la tarea de moodle no se ve completo en la captura de pantalla y es el siguiente:
+El alumno/a hará click sobre el nombre de la Tarea, leerá en la descripción qué debe realizar y cuando tenga la respuesta preparada, deberá pulsar el botón Agregar tarea, que aparece bajo la descripción de la tarea, para proceder con el envío de su trabajo.
 
+![](/assets/agregarEntrega.PNG)
 
-El módulo de Tareas permite a un profesor evaluar el aprendizaje de los alumnos mediante la **creación de una tarea a realizar que luego revisará, valorará, calificará y a la que podrá dar retroalimentación.**
+Entonces dirigirá al alumno/a a una nueva página en la que se muestra de nuevo la descripción de la tarea, y bajo ésta, los campos para añadir el texto en línea y/o la zona de subida de archivos.
 
-Los alumnos pueden **presentar cualquier contenido digital, como documentos de texto, hojas de cálculo, imágenes, audio y vídeos entre otros**. Alternativamente, o como complemento, la tarea puede requerir que los estudiantes escriban texto directamente en un campo utilizando el editor de texto. Una tarea también puede ser utilizada para recordar a los estudiantes tareas del "mundo real" que necesitan realizar y que no requieren la entrega de ningún tipo de contenido digital. Por ejemplo, presentaciones orales, prácticas de laboratorio, etc.
+![](/assets/texoysubierarchivos.PNG)
 
-Para tareas en grupo, el modulo tiene la capacidad de aceptar tareas de uno de los miembros del grupo y que está quede vinculada al resto.
+Tras añadir la respuesta, deberá pulsar el botón Guardar cambios para completar el envío de la tarea. En el sistema quedará reflejada la fecha de la entrega.
 
-Durante el proceso de revisión los profesores pueden dejar comentarios y subir archivos, tales como trabajos calificados, documentos con observaciones escritas. Las tareas pueden ser calificadas usando una escala numérica o una escala personalizada; o usando métodos de calificación complejos como rúbricas. Las calificaciones finales se actualizan automáticamente en el módulo de calificaciones.
+Después el profesor/a la corregirá según el tipo de calificación que se haya definido en ésta tarea y podrá adjuntar observaciones en la entrega de tarea de cada estudiante. Moodle automáticamente enviará un mensaje de notificación al alumno/a. 
 
-En los diferentes apartados de "Agregando una nueva tarea" pueden configurarse diferentes opciones:
-
-![](/assets/Selección_180.png)
-
-Entre ellos son importantes los dos que aparecen deplegados:
-
-TIPO DE ENTREGA:
-
-- ** Texto en línea:**
-
-Permite al estudiante hacer uso del editor de texto HTML para escribir directamente la respuesta o solución al trabajo solicitado.
-
-- **Subir archivos:**
-
-En este caso, se permite que los estudiantes puedan subir uno o varios archivos de cualquier tipo. Éste podría ser un documento realizado con un procesador de textos, o una imagen, un sitio web comprimido o algo que se les ha pedido que envíen. El profesorado puede calificar en red las tareas remitidas.
-
-CONFIGURACIÓN DE ENTREGA POR GRUPO
-
-Que permite crear trabajos por grupos y que uno de ellos sea el que entrega.
+La tarea puede configurarse para permitir el reenvío, cuando su calificación no sea positiva.
 
 
 ### Videotutorial
 
 En este videotutorial se explican las tareas (Assignements)
-{% youtube %}https://youtu.be/84tQrsVKvT4 {% endyoutube %}
+{% youtube %}https://youtu.be/TiFi1pK5hFI {% endyoutube %}

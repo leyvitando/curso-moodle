@@ -1,23 +1,16 @@
-
 # Listado
 
-En el listado veremos a nuestros participantes según los filtros que hayamos establecido con las opciones mencionadas. Por ejemplo, si seleccionamos la vista **“resumen”** veremos la lista así
+En el listado veremos a nuestros participantes según los filtros que hayamos establecido con las opciones mencionadas. Por defecto, Moodle ordena la lista por el tiempo pasado desde el último acceso pero podemos cambiar esto haciendo clic en los conceptos que aparecen en la parte superior de la lista:
 
-![Captura de pantalla Listado de participantes](/assets/Selección_206.png) 
+Podemos ordenar la lista según **el nombre y apellidos**, **la dirección de correo o el último acceso**. También es posible ocultar/mostrar cualquiera de las columnas del listado, simplemente pulsando en el icono \(- para ocultar / + para expandir\)
 
-Por defecto, Moodle ordena la lista por el tiempo pasado desde el último acceso pero podemos cambiar esto haciendo clic en los conceptos que aparecen en la parte superior de la lista:
+![](/assets/listadoParticipantesOrden.png)
+
+Si queremos ver los detalles de alguna de las personas participantes, podremos hacerlo haciendo click sobre su nombre y nos aparecerán la siguiente vista: 
+
+![](/assets/perfilusuario.png)
+
+Desde aquí también podremos añadirle a nuestros contactos para facilitar la mensajería.
 
 
-Podemos ordenar la lista según **el nombre y apellidos**, **la ciudad, el país, la dirección de correo o el último acceso**. 
 
-Mientras que si optamos por "**Detalles de usuario**" veremos esto
-
-![Captura de pantalla. Detalles de usuario](/assets/Selección_207.png)
- 
-En esta vista, en la columna de la derecha tenemos, además de la casilla para seleccionar al participante, desplegadas otras funciones como son: **blogs, notas, actividad o perfil completo**. Veremos para que sirve cada una de estas opciones un poco más adelante, cuando hablemos del **Perfil Personal**. En este caso ya sólo podemos **ordenar la lista por nombre o apellidos**.
-
-Si pinchamos sobre el nombre de uno de los usuarios accederemos a todos sus datos.
-
-![Captura de pantalla. Datos de un usuario](/assets/Selección_208.png)
-
- 

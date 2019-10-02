@@ -1,14 +1,18 @@
-
-# El entorno de Moodle. Un poco de organización:
+# Personalizando nuestro curso.
 
 Seguro que has visto muchos cursos de Moodle con aspecto y apariencia de lo más variado, en cuanto a diseño y estética.
 
-La apariencia de los cursos en Moodle viene determinada por una serie de parametros, fundamentalmente por el **formato**, los **temas** y por las **columnas** o secciones presentes en el área de trabajo del curso.
+La apariencia de los cursos en Moodle se configura, como el resto de características generales, desde la opción **Editar ajustes **que podremos encontrar en el menú de configuración que en nuestra plataforma aparece en la parte superior derecha de la página principal del curso.
 
-El **formato** y las características generales del curso se definen en la sección de **Editar ajustes** de un curso, al que se accede desde el icono de configuración en la parte superior izquierda de la página principal del curso:
+![](/assets/configuraciónCurso.png)
 
-![Menú administrador](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/administracion.png)
+Nos llevará a una ventana en la que podemos **configurar los parámetros del curso**. Por defecto aparece desplegada la sección General y por debajo vemos que aparecen las demás sin desplegar. Simplemente haciendo click en el triángulo que precede a cada una de ellas se podrán desplegar igualmente.![](/assets/editarAjustes1.png)
 
-![Editar ajustes](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/editarajustes.png)
+Desde allí mismo podremos elegir tanto el **formato de curso** \(por temas, semanas...\) como la **apariencia **del mismo y por apariencia nos referimos a la combinación de colores, tipografías, disposición de los elementos... Viene a ser una "piel" que se pone al curso y que determina el aspecto del mismo.
 
-El **tema** nos define el diseño estético del curso y se selecciona en la administración general de la plataforma Moodle en la que estemos trabajando.
+![](/assets/formatoyApariencia.png)
+
+Tras realizar cualquier cambio en esta página, será importantísimo pulsar el botón **Guardar cambios y mostrar**, para que éstos se apliquen.![](/assets/editarAjustes2.png)
+
+Otro elemento que también nos añadirá funcionalidad y versatilidad en la apariencia del curso, son los bloques que podremos disponer en las zonas laterales o columnas, como veremos a continuación.
+

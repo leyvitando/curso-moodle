@@ -1,56 +1,38 @@
 # Summary
 
-* [Introducción](README.md)
+## Introducción
 
-## M1. Introducción.
-* [Introducción](introduccin.md)
+* [¿Qué es Moodle?](README.md)
 * [Moodle en el aula](u3_moodle_en_el_aula.md)
-* [El entorno de un curso: Las columnas de Moodle](introduccin1.md)
-* [El entorno de Moodle. Un poco de organización:](u1_el_entorno_de_moodle_un_poco_de_organizacin.md)
-  * [El formato](el_formato.md)
-  * [El tema](el_tema.md)
-  * [Las columnas](las_columnas.md)
-* [Añadiendo bloques](u2_aadiendo_bloques.md)
+
+## M1. El entorno de Moodle
+
+* [El entorno de un curso Moodle](introduccin1.md)
+* [Personalizando nuestro curso](u1_el_entorno_de_moodle_un_poco_de_organizacin.md)
+* [Las columnas y  los bloques](las_columnas.md)
 
 ## M2. Los recursos de Moodle
+
 * [Introducción](introduccin2.md)
 * [El sistema de archivos](u1_el_sistema_de_archivos.md)
-  * [Crear una carpeta](crear_una_carpeta.md)
-  * [Subir un archivo](subir_un_archivo.md)
   * [Opciones para archivos](opciones_para_archivos.md)
   * [Opciones para carpetas](opciones_para_carpetas.md)
-  * [El Repositorio de archivos](el_repositorio_de_archivos.md)
-  * [Actividades](actividades2.md)
+  * [El Selector de archivos](el_repositorio_de_archivos.md)
 * [Temas y Recursos](u2_los_proveedores.md)
   * [Recursos internos](recursos_internos.md)
   * [Editor HTML](editor_html.md)
   * [Etiquetas](etiquetas.md)
   * [Libro](libro.md)
-  * [Páginas web](pginas_web.md)
+  * [Páginas](pginas_web.md)
   * [Recursos externos](recursos_externos.md)
   * [Enlazar a una URL](enlazar_a_una_url.md)
   * [Enlazar archivo](enlazar_archivo.md)
   * [Añadir una carpeta](aadir_una_carpeta.md)
   * [Desplegar paquete de contenido IMS](desplegar_paquete_de_contenido_ims.md)
 * [Aplicaciones prácticas. Cómo utilizar Moodle](u3_aplicaciones_prcticas_cmo_utilizar_moodle.md)
-  * [Como catálogo de recursos](como_catlogo_de_recursos.md)
-  * [Como aula virtual](como_aula_virtual.md)
-  * [eXeLearning](exelearning.md)
-  * [¿Qué es eXeLearning?](qu_es_exelearning.md)
-  * [Descarga e instalación](descarga_e_instalacin.md)
-  * [El entorno](el_entorno.md)
-  * [Barra de menú](barra_de_men.md)
-  * [Barra lateral](barra_lateral.md)
-  * [Edición](edicin.md)
-  * [iDevices](idevices.md)
-  * [Presentar contenidos o temas](presentar_contenidos_o_temas.md)
-  * [Contenidos externos del web](contenidos_externos_del_web.md)
-  * [Mostrar elementos multimedia](mostrar_elementos_multimedia.md)
-  * [Combinación de paquetes](combinacin_de_paquetes.md)
-  * [Formatos de exportación](formatos_de_exportacin.md)
-  * [Saber más](saber_ms.md)
 
 ## M3 Gestión de Usuarios en Moodle
+
 * [Introducción](introduccin3.md)
 * [U1. Matriculación](u1_matriculacin.md)
   * [El alumno puede matricularse por sí mismo](el_alumno_puede_matricularse_por_s_mismo.md)
@@ -65,25 +47,20 @@
   * [Panel Inferior](panel_inferior.md)
 * [U4. Perfil personal](u4_perfil_personal.md)
   * [Configurar Perfil](configurar_perfil.md)
-  * [Otras funciones](otras_funciones.md)
   * [Informe de actividad](informe_de_actividad.md)
 * [U5. Configuración grupos](u5_configuracin_grupos.md)
   * [Creación de grupos](creacin_de_grupos.md)
   * [Grupos automáticos](grupos_automticos.md)
   * [Configuración modo grupos](configuracin_modo_grupos.md)
 * [U6. Mensajería](u6_mensajera.md)
-  * [Agregar Bloque Mensajería](agregar_bloque_mensajera.md)
   * [Como usar la Mensajería](como_usar_la_mensajera.md)
-  * [Ajustes y Configuración](ajustes_y_configuracin.md)
 
 ## M4 Las actividades en Moodle
+
 * [Introducción](index4.md)
 * [U1. Actividades interactivas de un curso Moodle](u1_actividades_interactivas_de_un_curso_moodle.md)
   * [Tareas](tareas.md)
-    * [Texto en línea](texto_en_lnea.md)
-    * [Subir archivos](subir_archivos.md)
-    * [Otras opciones para las tareas](otras_opciones_para_las_tareas.md)
-    * [Eliminar una tarea](eliminar_una_tarea.md)
+    * [Opciones de configuración](otras_opciones_para_las_tareas.md)
   * [Cuestionarios](cuestionarios.md)
     * [El banco de preguntas](el_banco_de_preguntas.md)
     * [Configuración de un cuestionario](configuracin_de_un_cuestionario.md)
@@ -107,6 +84,7 @@
     * [Participar en una base de datos](participar_en_una_base_de_datos.md)
 
 ## M5. El calificador, rastreo de finalización e insignias.
+
 * [Introducción](introduccin5.md)
 * [U1. Configuración de calificaciones](u1_el_libro_de_calificaciones.md)
   * [Ajustes de la calificación del curso](ajustes-de-la-calificacion-del-curso.md)
@@ -123,6 +101,7 @@
   * [Finalización del curso](u4-rastreo-de-finalizacion/finalizacion-del-curso.md)
 * [U5. Insignias](u7_insignias.md)
 
-___
+---
+
 * [Créditos](creditos.md)
 

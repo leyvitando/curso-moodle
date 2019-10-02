@@ -5,28 +5,27 @@
 
 Cuando un alumno/a entra a la plataforma Moodle, encuentra en su página principal un listado de cursos, entre los que estaría el nuestro.
 
-![FIg. Captura de pantalla. Entrada a los cursos y tipos de matriculación](/assets/Selección_183.png)
+Si se desea matricular en el mismo, deberá ir a la rueda de configuración que aparece en la parte superior derecha y elegir la opción **Matricularme en este curso**
 
-En función de cómo hayamos configurado nuestro curso, cuando el alumno/a accede a la plataforma se encontrará con dos posibilidades:
+![](/assets/automatricula.PNG)
+
+En función de cómo hayamos configurado nuestro curso se encontrará con dos posibilidades:
 
 1. **No** hemos puesto una **contraseña** de acceso al curso, por lo que cualquiera puede matricularse en él. 
 
 1. Hemos configurado el curso **con una contraseña**. Esta opción limita el acceso únicamente a las personas que conocen la contraseña. **Esta es la opción recomendada.**
 
-![](/assets/Selección_184.png)
+![](/assets/automatricula2.PNG)
 
 ### Configura el curso con contraseña
 
 En el caso de que no tengamos esta opción configurada en nuestro curso, podemos habilitar la contraseña de la siguiente manera:
 
-En el bloque de Administración, despliega la opción **Usuarios **y allí elige la opción **Métodos de matriculación**.
+Desde la rueda de configuración del curso, elegimos **Aún más...** y nos lleva a la ventana de **Administración del curso**, donde haremos click en la pestaña **Usuarios **y allí veremos la opción **Métodos de matriculación**.
 
-![](/assets/Selección_186.png)
+![](/assets/administracionCurso.JPG)
 
-Si no tienes el bloque de administración, puedes acceder a los "Métodos de matriculación" pulsando "Configuración > Más > Usuarios
+Si tienes otra apariencia en el curso, te aparecerá en el bloque de administración, en una de las zonas laterales.
 
-- Hay más opciones pero vamos a obviarlas, aunque puedes echarles un vistazo. Se entienden bien y, además, puedes recurrir al botón de ayuda de cada una de ellas.
-
-
-- A partir de ahora, podrá matricularse en nuestro curso cualquier usuario de Moodle que conozca la contraseña elegida.
+A partir de ahora, podrá matricularse en nuestro curso cualquier usuario de Moodle que conozca la contraseña elegida.
 

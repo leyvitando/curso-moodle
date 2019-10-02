@@ -1,4 +1,6 @@
 
+
+
 # Libro
 
 Una manera de presentar información al alumno es agregando el recurso **Libro**.
@@ -6,7 +8,7 @@ Una manera de presentar información al alumno es agregando el recurso **Libro**
 Como siempre, para hacerlo necesitamos activar la edición y pulsar en el enlace "Añadir una actividad o un enlace" del tema en el que estemos trabajando.
 
 
-![Fig. Captura de pantalla. Ventana de inserción del recurso Libro](https://raw.githubusercontent.com/catedu/curso-moodle/master/img/anadir_un_libro.png)
+![](/assets/recursolibro.PNG)
 
  
 
@@ -54,10 +56,5 @@ De esta manera podríamos crear el contenido dividido en capítulos de una forma
 
 Visualiza este videotutorial que hay en el siguiente apartado, para ver de forma dinámica la creación de estos recursos. 
 
-{% youtube %}https://www.youtube.com/watch?v=Woap4QYsyOM {% endyoutube %}
+{% youtube %}https://youtu.be/QXB985rK8mQ {% endyoutube %}
 
-## Actividad 3
-
-Redacta un texto con el contenido para uno de los capítulos del curso que estás creando como actividad final de este curso.
-
-Dale estructura de capítulos y subcapítulos. No te preocupes ahora de las actividades. Eso lo veremos más adelante. Ahora se trata de agregar contenido..

@@ -1,8 +1,7 @@
 
-# Otras opciones para las tareas
+# Opciones de configuración
 
-Además de los dos grupos de opciones que hemos visto en los capítulos anteriores, el **General** y el **Tipos de entrega**, cuando introducimos una tarea tenemos otras opciones disponibles. Vamos a verlas grupo a grupo:
-
+A continuación se detallan algunas de las opciones de configuración de las tareas. 
  
 
 ### Disponibilidad

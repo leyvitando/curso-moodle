@@ -5,7 +5,7 @@ El **foro** es el medio para publicar mensajes breves y mantener discusiones pú
 
 Para crear un foro es necesario pulsar, como siempre, "Agregue una actividad o recurso"
 
-![](/assets/Selección_178.png)
+![](/assets/foro.PNG)
 
 La descripción que aporta moodle de lo que es un foro no cabe en la captura de pantalla, es la siguiente:
 
@@ -61,6 +61,6 @@ Debemos definir el tipo de foro que nos conviene utilizar en función de nuestro
 ### Videotutorial
 
 En este videotutorial se muestra como usar y configurar los foros:
-{% youtube %}https://youtu.be/yA_59Sonai0 {% endyoutube %}
+{% youtube %}https://youtu.be/TzSR_o_jqY8 {% endyoutube %}
 
 
