@@ -19,5 +19,6 @@ Los objetivos que pretendemos alcanzar en este módulo son los siguientes:
 1. Conocer el entorno general de Moodle
 2. Aprender a gestionar los bloques de un curso
 
+![asdf](añadir imagen de prueba)
 
 
